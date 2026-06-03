@@ -1,0 +1,30 @@
+### Scotland
+
+| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | GK | 安格斯·冈恩 / Angus Gunn | 1996-01-22 | 诺丁汉森林 / Nottingham Forest |
+| 12 | GK | 利亚姆·凯利 / Liam Kelly | 1996-01-23 | 流浪者 / Rangers |
+| 21 | GK | 克雷格·戈登 / Craig Gordon | 1982-12-31 | 哈茨 / Heart of Midlothian |
+| 2 | DF | 亚伦·希基 / Aaron Hickey | 2002-06-10 | 布伦特福德 / Brentford |
+| 3 | DF | 安迪·罗伯逊 / Andy Robertson | 1994-03-11 | 利物浦 / Liverpool |
+| 5 | DF | 格兰特·汉利 / Grant Hanley | 1991-11-20 | 希伯尼安 / Hibernian |
+| 6 | DF | 基兰·蒂尔尼 / Kieran Tierney | 1997-06-05 | 凯尔特人 / Celtic |
+| 13 | DF | 杰克·亨德利 / Jack Hendry | 1995-05-07 | 达曼协作 / Al-Ettifaq |
+| 15 | DF | 约翰·索塔 / John Souttar | 1996-09-25 | 流浪者 / Rangers |
+| 16 | DF | 多米尼克·海亚姆 / Dominic Hyam | 1995-12-20 | 雷克瑟姆 / Wrexham |
+| 22 | DF | 内森·帕特森 / Nathan Patterson | 2001-10-16 | 埃弗顿 / Everton |
+| 24 | DF | 安东尼·拉尔斯顿 / Anthony Ralston | 1998-11-16 | 凯尔特人 / Celtic |
+| 26 | DF | 斯科特·麦肯纳 / Scott McKenna | 1996-11-12 | 萨格勒布迪纳摩 / Dinamo Zagreb |
+| 4 | MF | 斯科特·麦克托米奈 / Scott McTominay | 1996-12-08 | 那不勒斯 / Napoli |
+| 7 | MF | 约翰·麦金 / John McGinn | 1994-10-18 | 阿斯顿维拉 / Aston Villa |
+| 8 | MF | Tyler Fletcher / Tyler Fletcher | 2007-03-19 | 曼联 / Manchester United |
+| 11 | MF | 瑞安·克里斯蒂 / Ryan Christie | 1995-02-22 | 伯恩茅斯 / Bournemouth |
+| 19 | MF | 路易斯·弗格森 / Lewis Ferguson | 1999-08-24 | 博洛尼亚 / Bologna |
+| 23 | MF | 肯尼·麦克莱恩 / Kenny McLean | 1992-01-08 | 诺里奇城 / Norwich City |
+| 9 | FW | 林登·戴克斯 / Lyndon Dykes | 1995-10-07 | 查尔顿竞技 / Charlton Athletic |
+| 10 | FW | 切·亚当斯 / Ché Adams | 1996-07-13 | 都灵 / Torino |
+| 14 | FW | 罗斯·斯图尔特 / Ross Stewart | 1996-07-11 | 南安普顿 / Southampton |
+| 17 | FW | 本·甘农-多克 / Ben Gannon-Doak | 2005-11-11 | 伯恩茅斯 / Bournemouth |
+| 18 | FW | 乔治·赫斯特 / George Hirst | 1999-02-15 | 伊普斯维奇 / Ipswich Town |
+| 20 | FW | 劳伦斯·香克兰德 / Lawrence Shankland | 1995-08-10 | 哈茨 / Heart of Midlothian |
+| 25 | FW | 芬德利·柯蒂斯 / Findlay Curtis | 2006-06-09 | 基尔马诺克 / Kilmarnock |

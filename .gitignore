@@ -18,3 +18,5 @@ nimia.yaml
 gefsi/logs/
 .antigravitycli/
 .superpowers/
+test_crops/
+*.py
