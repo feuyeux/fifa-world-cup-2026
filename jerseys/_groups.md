@@ -10,3 +10,9 @@
 1. Group J: Argentina, Algeria, Austria, Jordan
 1. Group K: Portugal, Congo DR, Uzbekistan, Colombia
 1. Group L: England, Croatia, Ghana, Panama
+
+突尼斯
+佛得角
+塞内加尔
+刚果民主共和国
+加纳 巴拿马
