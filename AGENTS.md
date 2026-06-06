@@ -4,10 +4,10 @@
 
 This repository is a content pipeline for FIFA World Cup 2026 squad poster
 generation. Squad data lives in `squads/[A-L]_<Team>.md`, with one Markdown
-table per team. The master poster prompt is `squads/_prompt.md`. Group
-membership notes are in `jerseys/_groups.md`. Kit and generated image assets
+table per team. The starting 11 roster summaries are in `squads_11/[A-L]_<Team>.md`.
+The master poster prompt is `squads/_prompt.md`. Kit and generated image assets
 are organized by scope: `group_jerseys/`, `group_jerseys-ii/`,
-`team_jerseys/`, and `team_squads/`. Source URLs are tracked in `stuff.md`.
+`team_jerseys/`, and `team_squads/`.
 
 There is one helper script, `prepare_prompts.py`, for building batched prompt
 Markdown files from the squad tables.
@@ -40,8 +40,9 @@ function names. Avoid broad rewrites unless the directory contract changes.
 No formal test framework is configured. Validate changes manually:
 
 - Confirm Markdown fences and tables are closed.
-- Ensure each squad table has only `GK`, `DF`, `MF`, and `FW` positions.
-- Cross-check team groups against `jerseys/_groups.md`.
+- Ensure each squad table (under `squads/` and `squads_11/`) has only `GK`, `DF`, `MF`, and `FW` positions.
+- Ensure each starting 11 table under `squads_11/` contains exactly 11 players (1 GK, 10 outfield).
+- Ensure player details in `squads_11/` match those in `squads/` exactly.
 - When changing `prepare_prompts.py`, run it and inspect generated batch
   output before committing.
 
@@ -54,8 +55,7 @@ unless the change is truly mechanical.
 
 Pull requests should describe the changed data, prompt, or asset set; mention
 any regenerated images; and include sample outputs or screenshots when visual
-assets change. Note any source-data updates and link the relevant URLs in
-`stuff.md`.
+assets change. Note any source-data updates in the PR description.
 
 ## Asset & Configuration Notes
 

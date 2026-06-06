@@ -36,18 +36,17 @@ the 4 x 7 grid, and strict filename matching.
 ├── squads/
 │   ├── [A-L]_<Team>.md     # 48 team squad tables, one file per team
 │   └── _prompt.md          # Master Chinese prompt for team squad posters
-├── jerseys/
-│   └── _groups.md          # Group A-L team list and notes
+├── squads_11/
+│   └── [A-L]_<Team>.md     # 48 team starting 11 tables, one file per team
 ├── group_jerseys/          # Group-level kit reference images, A.png through L.png
 ├── group_jerseys-ii/       # Second group-level kit reference set, A.png through L.png
 ├── team_jerseys/           # Per-team kit reference images
 ├── team_squads/            # Generated 26-player squad poster outputs
-├── prepare_prompts.py      # Helper for preparing batched prompt files
-└── stuff.md                # Wikipedia source links for squad data
+└── prepare_prompts.py      # Helper for preparing batched prompt files
 ```
 
 ## Squad Files
-
+奶黄色背景，RGB(248, 240, 228)，HEX #F8F0E4
 Each team has one Markdown file named with its group letter and English team
 name, for example `squads/A_Czechia.md`.
 
@@ -67,7 +66,11 @@ Rules:
 - Keep the `号码`, `位置`, `姓名`, `出生日期`, and `俱乐部` columns intact.
 - Position values must be `GK`, `DF`, `MF`, or `FW`.
 - The filename is authoritative for group and team identity.
-- Cross-check group membership against `jerseys/_groups.md` before generating.
+
+## Starting 11 Files
+
+Each team has a starting 11 file under `squads_11/` containing exactly 11 players selected from the original 26-player squad file in `squads/` representing the standard starting lineup.
+The table format is identical to the squad files, containing exactly 1 GK and 10 outfield players, ordered by position (GK -> DF -> MF -> FW) and sorted by shirt number.
 
 ## Kit References
 
@@ -113,18 +116,12 @@ batched prompt Markdown files for external generation.
 The helper expects:
 
 - Squad files under `squads/`.
-- Matching team kit references under `jerseys/teams/` in the legacy tracked
-  layout, or an equivalent path if the script is updated to the current
-  `team_jerseys/` directory.
-
-If you use the current directory layout, update the script path before running
-it.
+- Matching team kit references under `team_jerseys/` directory.
 
 ## Source Data
 
-Squad rosters are taken from public Wikipedia squad pages. The canonical
-source URLs are recorded in `stuff.md`; update that file whenever the source
-set changes.
+Squad rosters are taken from public Wikipedia squad pages.
+
 
 ## Working Notes
 
