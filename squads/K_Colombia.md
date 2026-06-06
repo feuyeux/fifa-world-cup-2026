@@ -17,7 +17,7 @@
 | 5 | MF | 卡斯塔尼奥 / Kevin Castaño | 2000-09-29 | 河床 / River Plate |
 | 6 | MF | 里奥斯 / Richard Ríos | 2000-06-02 | 本菲卡 / Benfica |
 | 8 | MF | 卡拉斯卡尔 / Jorge Carrascal | 1998-05-25 | 弗拉门戈 / Flamengo |
-| 10 | MF | J罗 / James Rodríguez | 1991-07-12 | 明尼苏达联 / Minnesota United FC |
+| 10 | MF | 哈梅斯·罗德里格斯 / James Rodríguez | 1991-07-12 | 明尼苏达联 / Minnesota United FC |
 | 11 | MF | 阿里亚斯 / Jhon Arias | 1997-09-21 | 帕尔梅拉斯 / Palmeiras |
 | 15 | MF | 波尔蒂利亚 / Juan Portilla | 1998-09-12 | 巴拉纳竞技 / Athletico Paranaense |
 | 16 | MF | 莱尔马 / Jefferson Lerma | 1994-10-25 | 水晶宫 / Crystal Palace |

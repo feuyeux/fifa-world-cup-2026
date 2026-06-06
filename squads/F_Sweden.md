@@ -6,10 +6,10 @@
 | 12 | GK | 维克托·约翰松 / Viktor Johansson | 1998-09-14 | 斯托克城 / Stoke City |
 | 23 | GK | 克里斯托弗·诺德费尔特 / Kristoffer Nordfeldt | 1989-06-23 | 瑞典 AIK索尔纳 / AIK |
 | 2 | DF | 古斯塔夫·拉格比尔克 / Gustaf Lagerbielke | 2000-04-10 | 布拉加 / Braga |
-| 3 | DF | Victor Lindelöf / Victor Lindelöf | 1994-07-17 | 阿斯顿维拉 / Aston Villa |
+| 3 | DF | 维克多·林德洛夫/ Victor Lindelöf | 1994-07-17 | 阿斯顿维拉 / Aston Villa |
 | 4 | DF | 伊萨克·希恩 / Isak Hien | 1999-01-13 | 亚特兰大 / Atalanta |
 | 5 | DF | 加布里埃尔·古德蒙德松 / Gabriel Gudmundsson | 1999-04-29 | 利兹联 / Leeds United |
-| 6 | DF | Herman Johansson / Herman Johansson | 1997-10-16 | FC达拉斯 / FC Dallas |
+| 6 | DF | 赫尔曼·约翰逊/ Herman Johansson | 1997-10-16 | FC达拉斯 / FC Dallas |
 | 8 | DF | 丹尼尔·斯文松 / Daniel Svensson | 2002-02-12 | 多特蒙德 / Borussia Dortmund |
 | 14 | DF | 亚尔马·埃克达尔 / Hjalmar Ekdal | 1998-10-21 | 伯恩利 / Burnley |
 | 15 | DF | 卡尔·斯塔费尔特 / Carl Starfelt | 1995-06-01 | 西班牙 塞尔塔 / Celta Vigo |

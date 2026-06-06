@@ -18,7 +18,7 @@
 | 8 | MF | 塞缪尔·穆图萨米 / Samuel Moutoussamy | 1996-08-12 | 阿特罗米托斯 / Atromitos |
 | 10 | MF | 泰奥·邦贡达 / Théo Bongonda | 1995-11-20 | 莫斯科斯巴达 / Spartak Moscow |
 | 14 | MF | 诺亚·萨迪基 / Noah Sadiki | 2004-12-17 | 桑德兰 / Sunderland |
-| 15 | MF | Aaron Tshibola / Aaron Tshibola | 1995-01-02 | 基尔马诺克 / Kilmarnock |
+| 15 | MF | 亚伦·齐博拉 / Aaron Tshibola | 1995-01-02 | 基尔马诺克 / Kilmarnock |
 | 18 | MF | 查尔斯·皮克尔 / Charles Pickel | 1997-05-15 | 西班牙人 / Espanyol |
 | 25 | MF | 爱德华·卡耶姆贝 / Edo Kayembe | 1998-06-03 | 沃特福德 / Watford |
 | 9 | FW | 布赖恩·西彭加 / Brian Cipenga | 1998-03-11 | 卡斯特利翁 / Castellón |
