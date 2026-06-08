@@ -3,19 +3,21 @@
 ## Project Structure & Module Organization
 
 This repository is a content pipeline for FIFA World Cup 2026 squad poster
-generation. Squad data lives in `squads/[A-L]_<Team>.md`, with one Markdown
+generation and tournament match schedule poster generation. Squad data lives in `squads/[A-L]_<Team>.md`, with one Markdown
 table per team. The starting 11 roster summaries are in `squads_11/[A-L]_<Team>.md`.
 The master poster prompt is `squads/_prompt.md`. Kit and generated image assets
 are organized by scope: `group_jerseys/`, `group_jerseys-ii/`,
 `team_jerseys/`, and `team_squads/`.
 
-There is one helper script, `prepare_prompts.py`, for building batched prompt
-Markdown files from the squad tables.
+For match schedule posters, the master BJT schedule data is in `schedule/match schedule.md`. The helper script is not kept in this repository, and the final pre-rendered poster output is saved in `schedule/schedule_poster.png`.
+
+There is one helper script:
+- `prepare_prompts.py`: generate batch prompt files from squad tables.
 
 ## Build, Test, and Development Commands
 
-There is no application build step. Work is mostly file validation and prompt
-preparation.
+There is no application build step. Work is mostly file validation, prompt
+preparation, and schedule poster rendering.
 
 - `python3 prepare_prompts.py`: generate batch prompt files from squad tables.
   Check paths in the script first; it may still reference the legacy

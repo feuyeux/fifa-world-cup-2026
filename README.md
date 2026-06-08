@@ -42,6 +42,9 @@ the 4 x 7 grid, and strict filename matching.
 ├── group_jerseys-ii/       # Second group-level kit reference set, A.png through L.png
 ├── team_jerseys/           # Per-team kit reference images
 ├── team_squads/            # Generated 26-player squad poster outputs
+├── schedule/
+│   ├── match schedule.md   # Master 2026 World Cup match schedule (BJT)
+│   └── schedule_poster.png # High-fidelity cropped PNG schedule poster output
 └── prepare_prompts.py      # Helper for preparing batched prompt files
 ```
 
@@ -117,6 +120,13 @@ The helper expects:
 
 - Squad files under `squads/`.
 - Matching team kit references under `team_jerseys/` directory.
+
+## Match Schedule Poster
+
+The repository also provides a pre-rendered high-fidelity, beautifully spaced, portrait match schedule poster.
+
+- **Source File**: `schedule/match schedule.md` — the master BJT-timezone schedule of the 104 tournament matches.
+- **Output Poster**: `schedule/schedule_poster.png` — the rendered high-fidelity cropped PNG poster showing the complete tournament calendar.
 
 ## Source Data
 
