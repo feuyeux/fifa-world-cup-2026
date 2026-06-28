@@ -9,7 +9,7 @@
 | 23 | DF | 阿米尔·穆里略 / Amir MURILLO | 1996-02-11 | 土耳其 贝西克塔斯 / Beşiktaş |
 | 6 | MF | 克里斯蒂安·马丁内斯 / Cristian MARTINEZ | 1997-02-06 | 以色列 基里亚特什莫纳 / Ironi Kiryat Shmona |
 | 8 | MF | 阿达尔贝托·卡拉斯基利亚 / Adalberto CARRASQUILLA | 1998-11-28 | 墨西哥 UNAM / UNAM |
+| 10 | MF | 伊斯梅尔·迪亚斯 / Ismael DIAZ | 1997-05-12 | 墨西哥 莱昂 / León |
 | 11 | MF | 埃德加·乔尔·巴塞纳斯 / Edgar Yoel BARCENAS | 1993-10-23 | 墨西哥 马萨特兰 / Mazatlán FC |
 | 20 | MF | 阿尼瓦尔·戈多伊 / Anibal GODOY | 1990-02-10 | 美国 圣迭戈FC / San Diego FC |
-| 10 | MF | 伊斯梅尔·迪亚斯 / Ismael DIAZ | 1997-05-12 | 墨西哥 莱昂 / León |
 | 17 | FW | 何塞·法哈多 / Jose FAJARDO | 1993-08-18 | 厄瓜多尔 天主大学 / Universidad Católica |
