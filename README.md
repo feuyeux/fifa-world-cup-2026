@@ -14,7 +14,7 @@ team squad file, the matching kit reference image, and the prompt constraints
 to an external image generator. Consistency comes from the fixed prompt rules,
 the 4 x 7 grid, and strict filename matching.
 
-## Groups 2026年世界杯·D·土耳其队26人名单
+## Groups
 
 1. Group A 第一组: Mexico 墨西哥, South Africa 南非, South Korea 韩国, Czechia 捷克
 1. Group B 第二组: Canada 加拿大, Bosnia-Herzegovina 波黑, Qatar 卡塔尔, Switzerland 瑞士
