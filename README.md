@@ -34,10 +34,8 @@ the 4 x 7 grid, and strict filename matching.
 ```text
 .
 ├── squads/
-│   ├── [A-L]_<Team>.md     # 48 team squad tables, one file per team
+│   ├── [A-L]_<Team>.md     # 48 team squad tables (26 players + 首发/出场/进球 + per-opponent 90'/sub/-)
 │   └── _prompt.md          # Master Chinese prompt for team squad posters
-├── squads_11/
-│   └── [A-L]_<Team>.md     # 48 team starting 11 tables, one file per team
 ├── group_jerseys/          # Group-level kit reference images, A.png through L.png
 ├── group_jerseys-ii/       # Second group-level kit reference set, A.png through L.png
 ├── team_jerseys/           # Per-team kit reference images
@@ -58,22 +56,27 @@ The table format is:
 ```markdown
 ### Czech Republic 捷克
 
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | GK | 英德日赫·斯塔尼克 / Jindřich Staněk | 1996-04-27 | 捷克 布拉格斯拉维亚 / Slavia Prague |
+| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 |
+| :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: |
+| 1 | GK | 英德日赫·斯塔尼克 / Jindřich Staněk | 1996-04-27 | 捷克 布拉格斯拉维亚 / Slavia Prague | - | 14 | 0 |
 ```
+
+Once group stage is complete, additional `vs <Opponent>` columns are
+appended after `进球`, holding one cell per match with `90'`, `sub` or
+`-`.
 
 Rules:
 
 - Use all and only the players in the selected squad file.
-- Keep the `号码`, `位置`, `姓名`, `出生日期`, and `俱乐部` columns intact.
+- Keep the `号码`, `位置`, `姓名`, `出生日期`, `俱乐部`, `首发`, `出场`,
+  `进球` columns intact.
 - Position values must be `GK`, `DF`, `MF`, or `FW`.
 - The filename is authoritative for group and team identity.
 
-## Starting 11 Files
-
-Each team has a starting 11 file under `squads_11/` containing exactly 11 players selected from the original 26-player squad file in `squads/` representing the standard starting lineup.
-The table format is identical to the squad files, containing exactly 1 GK and 10 outfield players, ordered by position (GK -> DF -> MF -> FW) and sorted by shirt number.
+The `首发` column encodes whether the player is in the team's starting
+11 (Y / -). The `出场` and `进球` columns are international caps and
+international goals from the ESPN athlete feed at the time of the
+2026-06-11 squad announcement.
 
 ## Kit References
 

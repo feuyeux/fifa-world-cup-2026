@@ -7,8 +7,12 @@ Authoritative provenance for the data in this repository. Last audit:
 
 | File | Source | Captured | Refresh |
 |------|--------|----------|---------|
-| `squads/[A-L]_*.md` (48 teams × 26 players) | [Wikipedia: 2026 FIFA World Cup squads](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads) | 2026-06-29 | Final (frozen at FIFA 2026-06-11 announcement) |
-| `squads_json/[A-Z]*.json` (48 files) | Generated from squads md + ESPN API | 2026-06-29 | Auto-regenerable from squads/ + ESPN |
+| `squads/[A-L]_*.md` (48 teams × 26 players) | [Wikipedia: 2026 FIFA World Cup squads](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads) + ESPN API | 2026-06-29 | Final (frozen at FIFA 2026-06-11 announcement) |
+
+The squad `md` is the **single source of truth**; the `首发` (starter),
+`出场` (caps) and `进球` (international goals) columns are merged in
+from the ESPN athlete feed. No separate `squads_json/` or `squads_11/`
+directory — those were consolidated into `squads/*.md` on 2026-06-29.
 
 **Why Wikipedia as primary source:** the Wikipedia article is maintained
 in near-real-time as each national federation publishes their final 26-man
@@ -44,8 +48,8 @@ corresponding `squads/*.md` cells are marked `-` (did not participate).
 
 | Data | Source | Cadence |
 |------|--------|---------|
-| Chinese transliterations of player + club names | Hand-curated by repository owner; preserved in `squads_11/_prompt.md` examples | Stable |
-| `squads_11/` starting 11 selection | Hand-curated; **now auto-derived from ESPN starts** (commit `e7ce14c`) | Re-runnable |
+| Chinese transliterations of player + club names | Hand-curated by repository owner; preserved in `squads/_prompt.md` examples | Stable |
+| Starting 11 selection | Read the `首发` column in `squads/*.md` (Y = starter, - = bench); for ESM/Sub appearances use the per-opponent `vs X` cells | Re-runnable |
 | Knockout round posters (`16/knockout_*.png`, etc.) | Image generation pipeline; not in scope of this document | Per round |
 | Player portrait photos (`players/`, `player_photos/`) | Image generation pipeline | Per roster announcement |
 
@@ -95,11 +99,10 @@ python3 -c "from pathlib import Path; import re; \
   `site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=...`
   call will be needed once matches are scheduled. Lineup availability
   depends on match completion.
-- **Player photo URL hydration**: `squads_json/*.json` has
-  `portrait_url: null`. Hooking the FIFA picture API
+- **Player photo URL hydration**: `squads/*.md` does not currently
+  carry a photo column. Hooking the FIFA picture API
   (`https://api.fifa.com/api/v3/picture/players-{format}-{size}/{IdPlayer}`)
   is straightforward once player IDs are mapped from the ESPN athlete IDs.
 - **Live data refresh job**: a `tools/refresh_squads.py` script that
   re-pulls the Wikipedia squads + ESPN summaries and applies only the
-  diff to `squads/*.md` and `squads_json/*.json`. Track this in
-  `tools/` once stable.
+  diff to `squads/*.md`. Track this in `tools/` once stable.
