@@ -7,11 +7,12 @@
   "is_official_fifa_size": true,
   "source_md": "squads/H_Spain.md",
   "metadata": {
-    "generated_at": "2026-06-29T08:11:16Z",
+    "generated_at": "2026-06-29T08:19:14Z",
     "generator": "tools/squad_to_json.py",
     "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
     "squad_size_announced_at": "2026-06-11",
-    "group_stage_completed_at": "2026-06-29"
+    "group_stage_completed_at": "2026-06-29",
+    "club_zh_source": "squads_backup_0629 + manual translations for 32 new clubs"
   },
   "players": [
     {
@@ -721,9 +722,9 @@
       "name_en": "Yeremy PINO",
       "name": "耶雷米·皮诺 / Yeremy PINO",
       "birth_date": "2002-10-20",
-      "club_zh": "水晶宫",
+      "club_zh": "英格兰 水晶宫",
       "club_en": "Crystal Palace",
-      "club": "水晶宫 / Crystal Palace",
+      "club": "英格兰 水晶宫 / Crystal Palace",
       "caps": 23,
       "goals": 4,
       "is_starter": false,

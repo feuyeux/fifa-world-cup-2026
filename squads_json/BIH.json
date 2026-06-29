@@ -7,11 +7,12 @@
   "is_official_fifa_size": true,
   "source_md": "squads/B_Bosnia-Herzegovina.md",
   "metadata": {
-    "generated_at": "2026-06-29T08:11:16Z",
+    "generated_at": "2026-06-29T08:19:14Z",
     "generator": "tools/squad_to_json.py",
     "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
     "squad_size_announced_at": "2026-06-11",
-    "group_stage_completed_at": "2026-06-29"
+    "group_stage_completed_at": "2026-06-29",
+    "club_zh_source": "squads_backup_0629 + manual translations for 32 new clubs"
   },
   "players": [
     {
@@ -22,8 +23,8 @@
       "name": "尼古拉·瓦西里 / Nikola VASILJ",
       "birth_date": "1995-12-02",
       "club_zh": "德国 圣保利",
-      "club_en": "St. Pauli",
-      "club": "德国 圣保利 / St. Pauli",
+      "club_en": "FC St. Pauli",
+      "club": "德国 圣保利 / FC St. Pauli",
       "caps": 26,
       "goals": 0,
       "is_starter": false,
@@ -182,8 +183,8 @@
       "name": "阿尔扬·马利奇 / Arjan MALIC",
       "birth_date": "2005-08-28",
       "club_zh": "奥地利 格拉茨风暴",
-      "club_en": "SK Sturm Graz",
-      "club": "奥地利 格拉茨风暴 / SK Sturm Graz",
+      "club_en": "Sturm Graz",
+      "club": "奥地利 格拉茨风暴 / Sturm Graz",
       "caps": 8,
       "goals": 0,
       "is_starter": false,
@@ -389,9 +390,9 @@
       "name_en": "Esmir BAJRAKTAREVIC",
       "name": "埃斯米尔·巴伊拉克塔雷维奇 / Esmir BAJRAKTAREVIC",
       "birth_date": "2005-03-10",
-      "club_zh": "荷兰 埃因霍温",
+      "club_zh": "荷兰 PSV埃因霍温",
       "club_en": "PSV Eindhoven",
-      "club": "荷兰 埃因霍温 / PSV Eindhoven",
+      "club": "荷兰 PSV埃因霍温 / PSV Eindhoven",
       "caps": 16,
       "goals": 1,
       "is_starter": false,

@@ -7,11 +7,12 @@
   "is_official_fifa_size": true,
   "source_md": "squads/G_New Zealand.md",
   "metadata": {
-    "generated_at": "2026-06-29T08:11:16Z",
+    "generated_at": "2026-06-29T08:19:14Z",
     "generator": "tools/squad_to_json.py",
     "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
     "squad_size_announced_at": "2026-06-11",
-    "group_stage_completed_at": "2026-06-29"
+    "group_stage_completed_at": "2026-06-29",
+    "club_zh_source": "squads_backup_0629 + manual translations for 32 new clubs"
   },
   "players": [
     {

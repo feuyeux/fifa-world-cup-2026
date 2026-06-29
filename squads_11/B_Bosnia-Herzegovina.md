@@ -2,7 +2,7 @@
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 出场 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | GK | 尼古拉·瓦西里 / Nikola VASILJ | 1995-12-02 | 德国 圣保利 / St. Pauli | 0/3 () |
+| 1 | GK | 尼古拉·瓦西里 / Nikola VASILJ | 1995-12-02 | 德国 圣保利 / FC St. Pauli | 0/3 () |
 | 2 | DF | 尼哈德·穆雅基奇 / Nihad MUJAKIC | 1998-04-15 | 土耳其 加济安泰普 / Gaziantep | 0/3 () |
 | 3 | DF | 丹尼斯·哈季卡杜尼奇 / Dennis HADZIKADUNIC | 1998-07-09 | 意大利 桑普多利亚 / Sampdoria | 0/3 () |
 | 4 | DF | 塔里克·穆哈雷莫维奇 / Tarik MUHAREMOVIC | 2003-02-28 | 意大利 萨索洛 / Sassuolo | 0/3 () |

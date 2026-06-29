@@ -7,7 +7,7 @@
 | 4 | DF | 金玟哉 / KIM Minjae | 1996-11-15 | 拜仁慕尼黑 / Bayern Munich | 0/3 () |
 | 5 | DF | 金太铉 / KIM Taehyeon | 2000-09-17 | 鹿岛鹿角 / Kashima Antlers | 0/3 () |
 | 13 | DF | 李泰锡 / LEE Taeseok | 2002-07-28 | 奥地利维也纳 / Austria Wien | 0/3 () |
-| 3 | MF | 李基赫 / LEE Gihyuk | 2000-07-07 | 韩国 济州SK / Jeju SK FC | 0/3 () |
+| 3 | MF | 李基赫 / LEE Gihyuk | 2000-07-07 | 韩国 江原FC / Gangwon FC | 0/3 () |
 | 6 | MF | 黄仁范 / HWANG Inbeom | 1996-09-20 | 费耶诺德 / Feyenoord | 0/3 () |
 | 8 | MF | 白升浩 / PAIK Seungho | 1997-03-17 | 伯明翰城 / Birmingham City | 0/3 () |
 | 10 | MF | 李在城 / LEE Jaesung | 1992-08-10 | 美因茨05 / Mainz 05 | 0/3 () |

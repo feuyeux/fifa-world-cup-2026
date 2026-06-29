@@ -10,6 +10,6 @@
 | 5 | MF | 亚历山大·帕夫洛维奇 / Aleksandar PAVLOVIC | 2004-05-03 | 拜仁慕尼黑 / Bayern Munich | 3/3 (90' 90' 90') |
 | 10 | MF | 贾马尔·穆西亚拉 / Jamal MUSIALA | 2003-02-26 | 拜仁慕尼黑 / Bayern Munich | 3/3 (90' 90' 90') |
 | 17 | MF | 弗洛里安·维尔茨 / Florian WIRTZ | 2003-05-03 | 利物浦 / Liverpool | 3/3 (90' 90' 90') |
-| 19 | MF | 勒鲁瓦·萨内 / Leroy SANE | 1996-01-11 | 加拉塔萨雷 / Galatasaray | 3/3 (90' 90' 90') |
+| 19 | MF | 勒鲁瓦·萨内 / Leroy SANE | 1996-01-11 | 土耳其 加拉塔萨雷 / Galatasaray | 3/3 (90' 90' 90') |
 | 23 | MF | 费利克斯·恩梅沙 / Felix NMECHA | 2000-10-10 | 多特蒙德 / Borussia Dortmund | 3/3 (90' 90' 90') |
 | 7 | FW | 凯·哈弗茨 / Kai HAVERTZ | 1999-06-11 | 阿森纳 / Arsenal | 3/3 (90' 90' 90') |

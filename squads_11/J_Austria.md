@@ -2,7 +2,7 @@
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 出场 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | GK | 亚历山大·施拉格 / Alexander SCHLAGER | 1996-02-01 | 萨尔茨堡红牛 / Red Bull Salzburg | 3/3 (90' 90' 90') |
+| 1 | GK | 亚历山大·施拉格 / Alexander SCHLAGER | 1996-02-01 | 奥地利 萨尔茨堡红牛 / Red Bull Salzburg | 3/3 (90' 90' 90') |
 | 5 | DF | 斯特凡·波施 / Stefan POSCH | 1997-05-14 | 美因茨05 / Mainz 05 | 3/3 (90' 90' 90') |
 | 8 | DF | 大卫·阿拉巴 / David ALABA | 1992-06-24 | 皇家马德里 / Real Madrid | 3/3 (90' 90' 90') |
 | 15 | DF | 菲利普·利恩哈特 / Philipp Lienhart | 1996-07-11 | 弗赖堡 / SC Freiburg | 2/3 (90' - 90') |
