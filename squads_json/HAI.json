@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "HAI",
   "team_name": "Haiti",
   "group": "C",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/C_Haiti.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "巴斯蒂亚",
       "club_en": "Bastia",
       "club": "巴斯蒂亚 / Bastia",
+      "caps": 82,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,8 +59,30 @@
       "club_zh": "索肖",
       "club_en": "Sochaux",
       "club": "索肖 / Sochaux",
+      "caps": 16,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 23,
@@ -48,8 +94,30 @@
       "club_zh": "科布伦茨",
       "club_en": "Cosmos Koblenz",
       "club": "科布伦茨 / Cosmos Koblenz",
+      "caps": 7,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "昂热",
       "club_en": "Angers",
       "club": "昂热 / Angers",
+      "caps": 56,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "伯尔尼年轻人",
       "club_en": "Young Boys",
       "club": "伯尔尼年轻人 / Young Boys",
+      "caps": 1,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "基多大学",
       "club_en": "LDU Quito",
       "club": "基多大学 / LDU Quito",
+      "caps": 59,
+      "goals": 2,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,8 +234,30 @@
       "club_zh": "卢加诺",
       "club_en": "Lugano",
       "club": "卢加诺 / Lugano",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 7,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -113,21 +269,65 @@
       "club_zh": "南锡",
       "club_en": "Nancy",
       "club": "南锡 / Nancy",
+      "caps": 21,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 13,
       "position": "DF",
-      "name_zh": "杜克·拉克鲁瓦",
-      "name_en": "Markhus LACROIX",
-      "name": "杜克·拉克鲁瓦 / Markhus LACROIX",
+      "name_zh": "",
+      "name_en": "Duke Lacroix",
+      "name": "Duke Lacroix",
       "birth_date": "1993-10-14",
-      "club_zh": "美国 印地十一",
-      "club_en": "Indy Eleven",
-      "club": "美国 印地十一 / Indy Eleven",
+      "club_zh": "",
+      "club_en": "Colorado Springs Switchbacks FC",
+      "club": "Colorado Springs Switchbacks FC",
+      "caps": 16,
+      "goals": 3,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 14,
@@ -139,8 +339,30 @@
       "club_zh": "加拿大 卡尔加里骑兵",
       "club_en": "Cavalry FC",
       "club": "加拿大 卡尔加里骑兵 / Cavalry FC",
+      "caps": 16,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 22,
@@ -152,8 +374,30 @@
       "club_zh": "根特",
       "club_en": "Gent",
       "club": "根特 / Gent",
+      "caps": 17,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 24,
@@ -165,8 +409,30 @@
       "club_zh": "聚尔特瓦勒海姆",
       "club_en": "Zulte Waregem",
       "club": "聚尔特瓦勒海姆 / Zulte Waregem",
+      "caps": 8,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 6,
@@ -178,8 +444,30 @@
       "club_zh": "埃尔帕索机车",
       "club_en": "El Paso Locomotive FC",
       "club": "埃尔帕索机车 / El Paso Locomotive FC",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 26,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 10,
@@ -191,8 +479,30 @@
       "club_zh": "伍尔弗汉普顿流浪者",
       "club_en": "Wolverhampton Wanderers",
       "club": "伍尔弗汉普顿流浪者 / Wolverhampton Wanderers",
+      "caps": 10,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 17,
@@ -204,8 +514,30 @@
       "club_zh": "费城联合",
       "club_en": "Philadelphia Union",
       "club": "费城联合 / Philadelphia Union",
+      "caps": 31,
+      "goals": 6,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 25,
@@ -217,8 +549,30 @@
       "club_zh": "普雷绍夫",
       "club_en": "Tatran Prešov",
       "club": "普雷绍夫 / Tatran Prešov",
+      "caps": 2,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 26,
@@ -230,21 +584,65 @@
       "club_zh": "紫罗兰",
       "club_en": "Violette",
       "club": "紫罗兰 / Violette",
+      "caps": 1,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 7,
       "position": "FW",
-      "name_zh": "德里克·艾蒂安",
-      "name_en": "Derrick ETIENNE",
-      "name": "德里克·艾蒂安 / Derrick ETIENNE",
+      "name_zh": "",
+      "name_en": "Derrick Etienne Jr.",
+      "name": "Derrick Etienne Jr.",
       "birth_date": "1996-11-25",
-      "club_zh": "加拿大 多伦多FC",
+      "club_zh": "",
       "club_en": "Toronto FC",
-      "club": "加拿大 多伦多FC / Toronto FC",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "Toronto FC",
+      "caps": 51,
+      "goals": 8,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 9,
@@ -256,8 +654,30 @@
       "club_zh": "德黑兰独立",
       "club_en": "Esteghlal",
       "club": "德黑兰独立 / Esteghlal",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 82,
+      "goals": 44,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 11,
@@ -269,8 +689,30 @@
       "club_zh": "FC达拉斯",
       "club_en": "FC Dallas",
       "club": "FC达拉斯 / FC Dallas",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 32,
+      "goals": 10,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 15,
@@ -282,8 +724,30 @@
       "club_zh": "阿尔梅勒城",
       "club_en": "Almere City",
       "club": "阿尔梅勒城 / Almere City",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 15,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 16,
@@ -295,8 +759,30 @@
       "club_zh": "费伦茨瓦罗斯",
       "club_en": "Ferencváros",
       "club": "费伦茨瓦罗斯 / Ferencváros",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 2,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 18,
@@ -308,8 +794,30 @@
       "club_zh": "桑德兰",
       "club_en": "Sunderland",
       "club": "桑德兰 / Sunderland",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 4,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 19,
@@ -321,8 +829,30 @@
       "club_zh": "维泽拉",
       "club_en": "Vizela",
       "club": "维泽拉 / Vizela",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 20,
@@ -334,8 +864,30 @@
       "club_zh": "里泽体育",
       "club_en": "Çaykur Rizespor",
       "club": "里泽体育 / Çaykur Rizespor",
+      "caps": 51,
+      "goals": 34,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 21,
@@ -347,8 +899,30 @@
       "club_zh": "欧塞尔",
       "club_en": "Auxerre",
       "club": "欧塞尔 / Auxerre",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 7,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Brazil",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     }
   ]
 }

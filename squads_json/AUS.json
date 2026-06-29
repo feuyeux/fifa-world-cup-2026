@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "AUS",
   "team_name": "Australia",
   "group": "D",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/D_Australia.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "西班牙 莱万特",
       "club_en": "Levante",
       "club": "西班牙 莱万特 / Levante",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 104,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,8 +59,30 @@
       "club_zh": "丹麦 兰讷斯",
       "club_en": "Randers",
       "club": "丹麦 兰讷斯 / Randers",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 18,
@@ -48,8 +94,30 @@
       "club_zh": "澳大利亚 墨尔本城",
       "club_en": "Melbourne City",
       "club": "澳大利亚 墨尔本城 / Melbourne City",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 2,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "塞浦路斯 希腊人竞技",
       "club_en": "APOEL",
       "club": "塞浦路斯 希腊人竞技 / APOEL",
+      "caps": 57,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "意大利 帕尔马",
       "club_en": "Parma",
       "club": "意大利 帕尔马 / Parma",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 13,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "奥地利 格拉茨AK",
       "club_en": "GAK",
       "club": "奥地利 格拉茨AK / GAK",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 5,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,8 +234,30 @@
       "club_zh": "费耶诺德",
       "club_en": "Feyenoord",
       "club": "费耶诺德 / Feyenoord",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 27,
+      "goals": 4,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 6,
@@ -113,8 +269,30 @@
       "club_zh": "日本 新潟天鹅",
       "club_en": "Albirex Niigata",
       "club": "日本 新潟天鹅 / Albirex Niigata",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 14,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 15,
@@ -126,8 +304,30 @@
       "club_zh": "美国 纽约城",
       "club_en": "New York City FC",
       "club": "美国 纽约城 / New York City FC",
+      "caps": 6,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 16,
@@ -139,8 +339,30 @@
       "club_zh": "澳大利亚 墨尔本城",
       "club_en": "Melbourne City",
       "club": "澳大利亚 墨尔本城 / Melbourne City",
+      "caps": 84,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 19,
@@ -152,8 +374,30 @@
       "club_zh": "英格兰 莱斯特城",
       "club_en": "Leicester City",
       "club": "英格兰 莱斯特城 / Leicester City",
+      "caps": 38,
+      "goals": 11,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 21,
@@ -165,8 +409,30 @@
       "club_zh": "斯旺西城",
       "club_en": "Swansea City",
       "club": "斯旺西城 / Swansea City",
+      "caps": 27,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 25,
@@ -178,8 +444,30 @@
       "club_zh": "美国 科罗拉多急流",
       "club_en": "Colorado Rapids",
       "club": "美国 科罗拉多急流 / Colorado Rapids",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 4,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -191,8 +479,30 @@
       "club_zh": "德国 圣保利",
       "club_en": "FC St. Pauli",
       "club": "德国 圣保利 / FC St. Pauli",
+      "caps": 36,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 13,
@@ -204,21 +514,65 @@
       "club_zh": "美国 纽约城",
       "club_en": "New York City FC",
       "club": "美国 纽约城 / New York City FC",
+      "caps": 31,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 14,
       "position": "MF",
-      "name_zh": "卡梅隆·德夫林",
-      "name_en": "Cameron DEVLIN",
-      "name": "卡梅隆·德夫林 / Cameron DEVLIN",
+      "name_zh": "",
+      "name_en": "Cammy Devlin",
+      "name": "Cammy Devlin",
       "birth_date": "1998-06-07",
-      "club_zh": "苏格兰 哈茨",
+      "club_zh": "",
       "club_en": "Heart of Midlothian",
-      "club": "苏格兰 哈茨 / Heart of Midlothian",
+      "club": "Heart of Midlothian",
+      "caps": 5,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 22,
@@ -230,8 +584,30 @@
       "club_zh": "德国 圣保利",
       "club_en": "FC St. Pauli",
       "club": "德国 圣保利 / FC St. Pauli",
+      "caps": 82,
+      "goals": 14,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 24,
@@ -243,8 +619,30 @@
       "club_zh": "澳大利亚 悉尼FC",
       "club_en": "Sydney FC",
       "club": "澳大利亚 悉尼FC / Sydney FC",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 6,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 7,
@@ -256,8 +654,30 @@
       "club_zh": "澳大利亚 墨尔本城",
       "club_en": "Melbourne City",
       "club": "澳大利亚 墨尔本城 / Melbourne City",
+      "caps": 80,
+      "goals": 14,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 9,
@@ -269,8 +689,30 @@
       "club_zh": "诺里奇城",
       "club_en": "Norwich City",
       "club": "诺里奇城 / Norwich City",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 10,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 10,
@@ -282,8 +724,30 @@
       "club_zh": "荷兰 赫拉克勒斯",
       "club_en": "Heracles Almelo",
       "club": "荷兰 赫拉克勒斯 / Heracles Almelo",
+      "caps": 37,
+      "goals": 4,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 11,
@@ -295,8 +759,30 @@
       "club_zh": "卡斯特利翁",
       "club_en": "Castellón",
       "club": "卡斯特利翁 / Castellón",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 38,
+      "goals": 10,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 17,
@@ -308,8 +794,30 @@
       "club_zh": "沃特福德",
       "club_en": "Watford",
       "club": "沃特福德 / Watford",
+      "caps": 15,
+      "goals": 5,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 20,
@@ -321,8 +829,30 @@
       "club_zh": "意大利 萨索洛",
       "club_en": "Sassuolo",
       "club": "意大利 萨索洛 / Sassuolo",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 1,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 23,
@@ -334,8 +864,30 @@
       "club_zh": "澳大利亚 墨尔本胜利",
       "club_en": "Melbourne Victory",
       "club": "澳大利亚 墨尔本胜利 / Melbourne Victory",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 7,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -347,8 +899,30 @@
       "club_zh": "日本 町田泽维亚",
       "club_en": "Machida Zelvia",
       "club": "日本 町田泽维亚 / Machida Zelvia",
+      "caps": 1,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Türkiye",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "United States",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Paraguay",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     }
   ]
 }

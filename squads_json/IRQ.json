@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "IRQ",
   "team_name": "Iraq",
   "group": "I",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/I_Iraq.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "巴格达大学生",
       "club_en": "Al-Talaba",
       "club": "巴格达大学生 / Al-Talaba",
+      "caps": 21,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,8 +59,30 @@
       "club_zh": "祖拉体育",
       "club_en": "Al-Zawraa",
       "club": "祖拉体育 / Al-Zawraa",
+      "caps": 102,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 22,
@@ -48,8 +94,30 @@
       "club_zh": "鲁萨法警察",
       "club_en": "Al-Shorta",
       "club": "鲁萨法警察 / Al-Shorta",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 16,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "泰港",
       "club_en": "Port",
       "club": "泰港 / Port",
+      "caps": 56,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "波贡什切青",
       "club_en": "Pogoń Szczecin",
       "club": "波贡什切青 / Pogoń Szczecin",
+      "caps": 27,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "帕赫塔科尔",
       "club_en": "Pakhtakor",
       "club": "帕赫塔科尔 / Pakhtakor",
+      "caps": 28,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,34 +234,100 @@
       "club_zh": "祖拉体育",
       "club_en": "Al-Zawraa",
       "club": "祖拉体育 / Al-Zawraa",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 14,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 6,
       "position": "DF",
-      "name_zh": "穆纳夫·尤尼斯",
-      "name_en": "MUNAF YOUNUS",
-      "name": "穆纳夫·尤尼斯 / MUNAF YOUNUS",
+      "name_zh": "",
+      "name_en": "Manaf Younis",
+      "name": "Manaf Younis",
       "birth_date": "1996-11-16",
-      "club_zh": "伊拉克 警察",
+      "club_zh": "",
       "club_en": "Al-Shorta",
-      "club": "伊拉克 警察 / Al-Shorta",
+      "club": "Al-Shorta",
+      "caps": 34,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 15,
       "position": "DF",
-      "name_zh": "艾哈迈德·马克纳齐",
-      "name_en": "AHMED MAKNAZI",
-      "name": "艾哈迈德·马克纳齐 / AHMED MAKNAZI",
+      "name_zh": "",
+      "name_en": "Ahmed Maknzi",
+      "name": "Ahmed Maknzi",
       "birth_date": "2001-09-24",
-      "club_zh": "伊拉克 警察",
-      "club_en": "Al-Shorta",
-      "club": "伊拉克 警察 / Al-Shorta",
+      "club_zh": "",
+      "club_en": "Al-Karma",
+      "club": "Al-Karma",
+      "caps": 7,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 23,
@@ -139,8 +339,30 @@
       "club_zh": "比尔森胜利",
       "club_en": "Viktoria Plzeň",
       "club": "比尔森胜利 / Viktoria Plzeň",
+      "caps": 31,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 25,
@@ -152,8 +374,30 @@
       "club_zh": "鲁萨法警察",
       "club_en": "Al-Shorta",
       "club": "鲁萨法警察 / Al-Shorta",
+      "caps": 17,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -165,8 +409,30 @@
       "club_zh": "万隆",
       "club_en": "Persib",
       "club": "万隆 / Persib",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 28,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 7,
@@ -178,8 +444,30 @@
       "club_zh": "AEK拉纳卡",
       "club_en": "AEK Larnaca",
       "club": "AEK拉纳卡 / AEK Larnaca",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 27,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 8,
@@ -191,8 +479,30 @@
       "club_zh": "达夫拉",
       "club_en": "Al-Dhafra",
       "club": "达夫拉 / Al-Dhafra",
+      "caps": 76,
+      "goals": 8,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 14,
@@ -204,8 +514,30 @@
       "club_zh": "乌德勒支",
       "club_en": "Utrecht",
       "club": "乌德勒支 / Utrecht",
+      "caps": 25,
+      "goals": 2,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 16,
@@ -217,8 +549,30 @@
       "club_zh": "克拉科维亚",
       "club_en": "Cracovia",
       "club": "克拉科维亚 / Cracovia",
+      "caps": 51,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 19,
@@ -230,8 +584,30 @@
       "club_zh": "奥胡斯",
       "club_en": "AGF",
       "club": "奥胡斯 / AGF",
+      "caps": 9,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 20,
@@ -243,21 +619,65 @@
       "club_zh": "萨普斯堡08",
       "club_en": "Sarpsborg 08",
       "club": "萨普斯堡08 / Sarpsborg 08",
+      "caps": 7,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 24,
       "position": "MF",
-      "name_zh": "扎伊德·伊斯梅尔",
-      "name_en": "ZAID ISMAEL",
-      "name": "扎伊德·伊斯梅尔 / ZAID ISMAEL",
+      "name_zh": "",
+      "name_en": "Zaid Ismail",
+      "name": "Zaid Ismail",
       "birth_date": "2002-01-03",
-      "club_zh": "伊拉克 学生",
+      "club_zh": "",
       "club_en": "Al-Talaba",
-      "club": "伊拉克 学生 / Al-Talaba",
+      "club": "Al-Talaba",
+      "caps": 6,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 9,
@@ -269,8 +689,30 @@
       "club_zh": "卢顿镇",
       "club_en": "Luton Town",
       "club": "卢顿镇 / Luton Town",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 20,
+      "goals": 5,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 10,
@@ -282,8 +724,30 @@
       "club_zh": "迪巴",
       "club_en": "Dibba",
       "club": "迪巴 / Dibba",
+      "caps": 72,
+      "goals": 27,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 11,
@@ -295,8 +759,30 @@
       "club_zh": "纳什维尔SC",
       "club_en": "Nashville SC",
       "club": "纳什维尔SC / Nashville SC",
+      "caps": 3,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 13,
@@ -308,8 +794,30 @@
       "club_zh": "巴格达大学生",
       "club_en": "Al-Talaba",
       "club": "巴格达大学生 / Al-Talaba",
+      "caps": 7,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 17,
@@ -321,8 +829,30 @@
       "club_zh": "纳吉玛",
       "club_en": "Al-Najma",
       "club": "纳吉玛 / Al-Najma",
+      "caps": 36,
+      "goals": 2,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 18,
@@ -334,8 +864,30 @@
       "club_zh": "卡尔马体育",
       "club_en": "Al-Karma",
       "club": "卡尔马体育 / Al-Karma",
+      "caps": 95,
+      "goals": 33,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 21,
@@ -347,8 +899,30 @@
       "club_zh": "威尼斯",
       "club_en": "Venezia",
       "club": "威尼斯 / Venezia",
+      "caps": 12,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Norway",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     }
   ]
 }

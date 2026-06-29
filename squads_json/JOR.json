@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "JOR",
   "team_name": "Jordan",
   "group": "J",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/J_Jordan.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,47 +24,135 @@
       "club_zh": "伊尔比德侯赛因",
       "club_en": "Al-Hussein",
       "club": "伊尔比德侯赛因 / Al-Hussein",
+      "caps": 76,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 12,
       "position": "GK",
-      "name_zh": "努尔·巴尼阿提亚",
-      "name_en": "NOUR BANIATEYAH",
-      "name": "努尔·巴尼阿提亚 / NOUR BANIATEYAH",
+      "name_zh": "",
+      "name_en": "Nour Bani Attiah",
+      "name": "Nour Bani Attiah",
       "birth_date": "1993-01-25",
-      "club_zh": "约旦 费萨里",
+      "club_zh": "",
       "club_en": "Al-Faisaly",
-      "club": "约旦 费萨里 / Al-Faisaly",
+      "club": "Al-Faisaly",
+      "caps": 5,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 22,
       "position": "GK",
-      "name_zh": "阿卜杜拉·法胡里",
-      "name_en": "ABDALLAH ALFAKHORI",
-      "name": "阿卜杜拉·法胡里 / ABDALLAH ALFAKHORI",
+      "name_zh": "",
+      "name_en": "Abdallah Al-Fakhouri",
+      "name": "Abdallah Al-Fakhouri",
       "birth_date": "2000-01-22",
-      "club_zh": "约旦 维达特",
+      "club_zh": "",
       "club_en": "Al-Wehdat",
-      "club": "约旦 维达特 / Al-Wehdat",
+      "club": "Al-Wehdat",
+      "caps": 11,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
       "position": "DF",
-      "name_zh": "穆罕默德·阿布哈希什",
-      "name_en": "MOHAMMAD ABUHASHEESH",
-      "name": "穆罕默德·阿布哈希什 / MOHAMMAD ABUHASHEESH",
+      "name_zh": "",
+      "name_en": "Mohammad Abu Hashish",
+      "name": "Mohammad Abu Hashish",
       "birth_date": "1995-05-09",
-      "club_zh": "伊拉克 卡尔马",
+      "club_zh": "",
       "club_en": "Al-Karma",
-      "club": "伊拉克 卡尔马 / Al-Karma",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "Al-Karma",
+      "caps": 56,
+      "goals": 1,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "祖拉",
       "club_en": "Al-Zawraa",
       "club": "祖拉 / Al-Zawraa",
+      "caps": 65,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "费萨里体育",
       "club_en": "Al-Faisaly",
       "club": "费萨里体育 / Al-Faisaly",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 18,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,34 +234,100 @@
       "club_zh": "首尔",
       "club_en": "FC Seoul",
       "club": "首尔 / FC Seoul",
+      "caps": 80,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 16,
       "position": "DF",
-      "name_zh": "莫·阿布纳迪",
-      "name_en": "MOHAMMAD ABUALNADI",
-      "name": "莫·阿布纳迪 / MOHAMMAD ABUALNADI",
+      "name_zh": "",
+      "name_en": "Mo Abualnadi",
+      "name": "Mo Abualnadi",
       "birth_date": "2001-02-08",
-      "club_zh": "美国 堪萨斯城体育二队",
-      "club_en": "Sporting Kansas City II",
-      "club": "美国 堪萨斯城体育二队 / Sporting Kansas City II",
+      "club_zh": "",
+      "club_en": "Selangor",
+      "club": "Selangor",
+      "caps": 18,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 17,
       "position": "DF",
-      "name_zh": "萨利姆·奥贝德",
-      "name_en": "SALEEM OBAID",
-      "name": "萨利姆·奥贝德 / SALEEM OBAID",
+      "name_zh": "",
+      "name_en": "Salim Obaid",
+      "name": "Salim Obaid",
       "birth_date": "1992-01-17",
-      "club_zh": "约旦 侯赛因",
+      "club_zh": "",
       "club_en": "Al-Hussein",
-      "club": "约旦 侯赛因 / Al-Hussein",
+      "club": "Al-Hussein",
+      "caps": 11,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 19,
@@ -139,21 +339,65 @@
       "club_zh": "伊尔比德侯赛因",
       "club_en": "Al-Hussein",
       "club": "伊尔比德侯赛因 / Al-Hussein",
+      "caps": 21,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 23,
       "position": "DF",
-      "name_zh": "伊赫桑·哈达德",
-      "name_en": "EHSAN HADDAD",
-      "name": "伊赫桑·哈达德 / EHSAN HADDAD",
+      "name_zh": "",
+      "name_en": "Ihsan Haddad",
+      "name": "Ihsan Haddad",
       "birth_date": "1994-02-05",
-      "club_zh": "约旦 侯赛因",
+      "club_zh": "",
       "club_en": "Al-Hussein",
-      "club": "约旦 侯赛因 / Al-Hussein",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "Al-Hussein",
+      "caps": 92,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -165,8 +409,30 @@
       "club_zh": "费萨里体育",
       "club_en": "Al-Faisaly",
       "club": "费萨里体育 / Al-Faisaly",
+      "caps": 1,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 6,
@@ -178,8 +444,30 @@
       "club_zh": "祖拉",
       "club_en": "Al-Zawraa",
       "club": "祖拉 / Al-Zawraa",
+      "caps": 19,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 8,
@@ -191,8 +479,30 @@
       "club_zh": "雪兰莪",
       "club_en": "Selangor",
       "club": "雪兰莪 / Selangor",
+      "caps": 68,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 14,
@@ -204,8 +514,30 @@
       "club_zh": "伊尔比德侯赛因",
       "club_en": "Al-Hussein",
       "club": "伊尔比德侯赛因 / Al-Hussein",
+      "caps": 72,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 15,
@@ -217,21 +549,65 @@
       "club_zh": "卡尔马体育",
       "club_en": "Al-Karma",
       "club": "卡尔马体育 / Al-Karma",
+      "caps": 57,
+      "goals": 3,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 18,
       "position": "MF",
-      "name_zh": "穆罕默德·阿布古什",
-      "name_en": "MOHAMMAD ABUGHOUSH",
-      "name": "穆罕默德·阿布古什 / MOHAMMAD ABUGHOUSH",
+      "name_zh": "",
+      "name_en": "Mohammad Taha",
+      "name": "Mohammad Taha",
       "birth_date": "2005-07-13",
-      "club_zh": "约旦 侯赛因",
+      "club_zh": "",
       "club_en": "Al-Hussein",
-      "club": "约旦 侯赛因 / Al-Hussein",
+      "club": "Al-Hussein",
+      "caps": 2,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 20,
@@ -243,8 +619,30 @@
       "club_zh": "安曼团结",
       "club_en": "Al-Wehdat",
       "club": "安曼团结 / Al-Wehdat",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 29,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 21,
@@ -256,34 +654,100 @@
       "club_zh": "卡塔尔体育",
       "club_en": "Qatar SC",
       "club": "卡塔尔体育 / Qatar SC",
+      "caps": 47,
+      "goals": 4,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 25,
       "position": "MF",
-      "name_zh": "穆罕默德·达乌德",
-      "name_en": "MOHAMMAD ALDAOUD",
-      "name": "穆罕默德·达乌德 / MOHAMMAD ALDAOUD",
+      "name_zh": "",
+      "name_en": "Mohammad Al-Dawoud",
+      "name": "Mohammad Al-Dawoud",
       "birth_date": "1992-04-12",
-      "club_zh": "巴林 希德",
-      "club_en": "Hidd SCC",
-      "club": "巴林 希德 / Hidd SCC",
+      "club_zh": "",
+      "club_en": "Al-Wehdat",
+      "club": "Al-Wehdat",
+      "caps": 13,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 7,
       "position": "FW",
-      "name_zh": "穆罕默德·阿布-兹拉伊克",
-      "name_en": "MOHAMMAD ABUZRAIQ",
-      "name": "穆罕默德·阿布-兹拉伊克 / MOHAMMAD ABUZRAIQ",
+      "name_zh": "",
+      "name_en": "Mohammad Abu Zrayq",
+      "name": "Mohammad Abu Zrayq",
       "birth_date": "1997-12-30",
-      "club_zh": "约旦 拉姆萨",
-      "club_en": "Al-Ramtha",
-      "club": "约旦 拉姆萨 / Al-Ramtha",
-      "is_starter": true,
-      "portrait_url": null
+      "club_zh": "",
+      "club_en": "Raja Casablanca",
+      "club": "Raja Casablanca",
+      "caps": 41,
+      "goals": 5,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 9,
@@ -295,34 +759,100 @@
       "club_zh": "赛利亚",
       "club_en": "Al-Sailiya",
       "club": "赛利亚 / Al-Sailiya",
+      "caps": 66,
+      "goals": 29,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 10,
       "position": "FW",
-      "name_zh": "慕薩·阿爾-他馬利",
-      "name_en": "MOUSA ALTAMARI",
-      "name": "慕薩·阿爾-他馬利 / MOUSA ALTAMARI",
+      "name_zh": "",
+      "name_en": "Musa Al-Taamari",
+      "name": "Musa Al-Taamari",
       "birth_date": "1997-06-10",
-      "club_zh": "法国 雷恩",
+      "club_zh": "",
       "club_en": "Rennes",
-      "club": "法国 雷恩 / Rennes",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "Rennes",
+      "caps": 92,
+      "goals": 24,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 11,
       "position": "FW",
-      "name_zh": "奥德·法胡里",
-      "name_en": "ODEH FAKHOURY",
-      "name": "奥德·法胡里 / ODEH FAKHOURY",
+      "name_zh": "",
+      "name_en": "Odeh Al-Fakhouri",
+      "name": "Odeh Al-Fakhouri",
       "birth_date": "2005-11-22",
-      "club_zh": "埃及 金字塔",
-      "club_en": "Pyramids FC",
-      "club": "埃及 金字塔 / Pyramids FC",
+      "club_zh": "",
+      "club_en": "Pyramids",
+      "club": "Pyramids",
+      "caps": 10,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 13,
@@ -334,8 +864,30 @@
       "club_zh": "伊尔比德侯赛因",
       "club_en": "Al-Hussein",
       "club": "伊尔比德侯赛因 / Al-Hussein",
+      "caps": 89,
+      "goals": 9,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 24,
@@ -347,8 +899,30 @@
       "club_zh": "利雅得青年",
       "club_en": "Al-Shabab",
       "club": "利雅得青年 / Al-Shabab",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 4,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Austria",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Algeria",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     }
   ]
 }

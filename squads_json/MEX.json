@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "MEX",
   "team_name": "Mexico",
   "group": "A",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/A_Mexico.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "墨西哥 瓜达拉哈拉",
       "club_en": "Guadalajara",
       "club": "墨西哥 瓜达拉哈拉 / Guadalajara",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 14,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,8 +59,30 @@
       "club_zh": "墨西哥 桑托斯拉古纳",
       "club_en": "Santos Laguna",
       "club": "墨西哥 桑托斯拉古纳 / Santos Laguna",
+      "caps": 7,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 13,
@@ -48,8 +94,30 @@
       "club_zh": "塞浦路斯 AEL利马索",
       "club_en": "AEL Limassol",
       "club": "塞浦路斯 AEL利马索 / AEL Limassol",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 152,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "希腊 PAOK",
       "club_en": "PAOK",
       "club": "希腊 PAOK / PAOK",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 59,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "俄罗斯 莫斯科火车头",
       "club_en": "Lokomotiv Moscow",
       "club": "俄罗斯 莫斯科火车头 / Lokomotiv Moscow",
+      "caps": 67,
+      "goals": 4,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "土耳其 费内巴切",
       "club_en": "Fenerbahçe",
       "club": "土耳其 费内巴切 / Fenerbahçe",
+      "caps": 98,
+      "goals": 7,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,8 +234,30 @@
       "club_zh": "意大利 热那亚",
       "club_en": "Genoa",
       "club": "意大利 热那亚 / Genoa",
+      "caps": 46,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 15,
@@ -113,8 +269,30 @@
       "club_zh": "墨西哥 阿美利加",
       "club_en": "América",
       "club": "墨西哥 阿美利加 / América",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 34,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 20,
@@ -126,8 +304,30 @@
       "club_zh": "荷兰 AZ",
       "club_en": "AZ",
       "club": "荷兰 AZ / AZ",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 10,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 23,
@@ -139,8 +339,30 @@
       "club_zh": "墨西哥 托卢卡",
       "club_en": "Toluca",
       "club": "墨西哥 托卢卡 / Toluca",
+      "caps": 121,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 6,
@@ -152,8 +374,30 @@
       "club_zh": "墨西哥 蓝十字",
       "club_en": "Cruz Azul",
       "club": "墨西哥 蓝十字 / Cruz Azul",
+      "caps": 25,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 7,
@@ -165,8 +409,30 @@
       "club_zh": "墨西哥 瓜达拉哈拉",
       "club_en": "Guadalajara",
       "club": "墨西哥 瓜达拉哈拉 / Guadalajara",
+      "caps": 63,
+      "goals": 4,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -178,8 +444,30 @@
       "club_zh": "西班牙 贝蒂斯",
       "club_en": "Real Betis",
       "club": "西班牙 贝蒂斯 / Real Betis",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 4,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 17,
@@ -191,8 +479,30 @@
       "club_zh": "希腊 AEK雅典",
       "club_en": "AEK Athens",
       "club": "希腊 AEK雅典 / AEK Athens",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 92,
+      "goals": 12,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 18,
@@ -204,8 +514,30 @@
       "club_zh": "西班牙 马德里竞技",
       "club_en": "Atlético Madrid",
       "club": "西班牙 马德里竞技 / Atlético Madrid",
+      "caps": 6,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 19,
@@ -217,8 +549,30 @@
       "club_zh": "墨西哥 蒂华纳",
       "club_en": "Tijuana",
       "club": "墨西哥 蒂华纳 / Tijuana",
+      "caps": 8,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 24,
@@ -230,8 +584,30 @@
       "club_zh": "俄罗斯 莫斯科迪纳摩",
       "club_en": "Dynamo Moscow",
       "club": "俄罗斯 莫斯科迪纳摩 / Dynamo Moscow",
+      "caps": 45,
+      "goals": 5,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -243,8 +619,30 @@
       "club_zh": "墨西哥 瓜达拉哈拉",
       "club_en": "Guadalajara",
       "club": "墨西哥 瓜达拉哈拉 / Guadalajara",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 7,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 9,
@@ -256,8 +654,30 @@
       "club_zh": "英格兰 富勒姆",
       "club_en": "Fulham",
       "club": "英格兰 富勒姆 / Fulham",
+      "caps": 124,
+      "goals": 45,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 10,
@@ -269,8 +689,30 @@
       "club_zh": "墨西哥 瓜达拉哈拉",
       "club_en": "Guadalajara",
       "club": "墨西哥 瓜达拉哈拉 / Guadalajara",
+      "caps": 52,
+      "goals": 7,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 11,
@@ -282,8 +724,30 @@
       "club_zh": "意大利 AC米兰",
       "club_en": "AC Milan",
       "club": "意大利 AC米兰 / AC Milan",
+      "caps": 47,
+      "goals": 6,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 14,
@@ -295,8 +759,30 @@
       "club_zh": "墨西哥 瓜达拉哈拉",
       "club_en": "Guadalajara",
       "club": "墨西哥 瓜达拉哈拉 / Guadalajara",
+      "caps": 7,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 16,
@@ -308,8 +794,30 @@
       "club_zh": "沙特阿拉伯 艾卡迪沙",
       "club_en": "Al-Qadsiah",
       "club": "沙特阿拉伯 艾卡迪沙 / Al-Qadsiah",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 22,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 21,
@@ -321,8 +829,30 @@
       "club_zh": "比利时 安德莱赫特",
       "club_en": "Anderlecht",
       "club": "比利时 安德莱赫特 / Anderlecht",
+      "caps": 26,
+      "goals": 3,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 22,
@@ -334,8 +864,30 @@
       "club_zh": "墨西哥 UNAM",
       "club_en": "UNAM",
       "club": "墨西哥 UNAM / UNAM",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 12,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 25,
@@ -347,8 +899,30 @@
       "club_zh": "墨西哥 瓜达拉哈拉",
       "club_en": "Guadalajara",
       "club": "墨西哥 瓜达拉哈拉 / Guadalajara",
+      "caps": 67,
+      "goals": 5,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-19",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     }
   ]
 }

@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "UZB",
   "team_name": "Uzbekistan",
   "group": "K",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/K_Uzbekistan.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "乌兹别克斯坦 纳夫巴霍尔",
       "club_en": "Navbahor",
       "club": "乌兹别克斯坦 纳夫巴霍尔 / Navbahor",
+      "caps": 40,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,8 +59,30 @@
       "club_zh": "乌兹别克斯坦 纳萨夫",
       "club_en": "Nasaf",
       "club": "乌兹别克斯坦 纳萨夫 / Nasaf",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 8,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 16,
@@ -48,8 +94,30 @@
       "club_zh": "乌兹别克斯坦 纳夫奇",
       "club_en": "Neftchi",
       "club": "乌兹别克斯坦 纳夫奇 / Neftchi",
+      "caps": 2,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "曼城",
       "club_en": "Manchester City",
       "club": "曼城 / Manchester City",
+      "caps": 27,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "乌兹别克斯坦 帕赫塔科尔",
       "club_en": "Pakhtakor",
       "club": "乌兹别克斯坦 帕赫塔科尔 / Pakhtakor",
+      "caps": 40,
+      "goals": 2,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "乌兹别克斯坦 纳夫奇",
       "club_en": "Neftchi",
       "club": "乌兹别克斯坦 纳夫奇 / Neftchi",
+      "caps": 46,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,8 +234,30 @@
       "club_zh": "德黑兰独立",
       "club_en": "Esteghlal",
       "club": "德黑兰独立 / Esteghlal",
+      "caps": 49,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 13,
@@ -113,8 +269,30 @@
       "club_zh": "乌兹别克斯坦 纳萨夫",
       "club_en": "Nasaf",
       "club": "乌兹别克斯坦 纳萨夫 / Nasaf",
+      "caps": 31,
+      "goals": 2,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 15,
@@ -126,8 +304,30 @@
       "club_zh": "乌兹别克斯坦 纳萨夫",
       "club_en": "Nasaf",
       "club": "乌兹别克斯坦 纳萨夫 / Nasaf",
+      "caps": 29,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 18,
@@ -139,34 +339,100 @@
       "club_zh": "阿联酋 迪巴",
       "club_en": "Dibba",
       "club": "阿联酋 迪巴 / Dibba",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 17,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 24,
       "position": "DF",
-      "name_zh": "贝赫鲁兹琼·卡里莫夫",
-      "name_en": "Behruzjon KARIMOV",
-      "name": "贝赫鲁兹琼·卡里莫夫 / Behruzjon KARIMOV",
+      "name_zh": "",
+      "name_en": "Bekhruz Karimov",
+      "name": "Bekhruz Karimov",
       "birth_date": "2007-08-07",
-      "club_zh": "乌兹别克斯坦 塔什干棉农",
-      "club_en": "Pakhtakor",
-      "club": "乌兹别克斯坦 塔什干棉农 / Pakhtakor",
+      "club_zh": "",
+      "club_en": "Surkhon Termiz",
+      "club": "Surkhon Termiz",
+      "caps": 2,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 25,
       "position": "DF",
-      "name_zh": "阿瓦兹别克·乌尔马萨利耶夫",
-      "name_en": "Avazbek ULMASALIYEV",
-      "name": "阿瓦兹别克·乌尔马萨利耶夫 / Avazbek ULMASALIYEV",
+      "name_zh": "",
+      "name_en": "Avazbek Ulmasaliev",
+      "name": "Avazbek Ulmasaliev",
       "birth_date": "2000-03-27",
-      "club_zh": "乌兹别克斯坦 AGMK",
+      "club_zh": "",
       "club_en": "AGMK",
-      "club": "乌兹别克斯坦 AGMK / AGMK",
+      "club": "AGMK",
+      "caps": 0,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -178,8 +444,30 @@
       "club_zh": "乌兹别克斯坦 萨马尔罕迪纳摩",
       "club_en": "Dinamo Samarqand",
       "club": "乌兹别克斯坦 萨马尔罕迪纳摩 / Dinamo Samarqand",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 4,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 6,
@@ -191,8 +479,30 @@
       "club_zh": "乌兹别克斯坦 帕赫塔科尔",
       "club_en": "Pakhtakor",
       "club": "乌兹别克斯坦 帕赫塔科尔 / Pakhtakor",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 25,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 7,
@@ -204,8 +514,30 @@
       "club_zh": "阿联酋 巴尼亚斯",
       "club_en": "Baniyas",
       "club": "阿联酋 巴尼亚斯 / Baniyas",
+      "caps": 84,
+      "goals": 9,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -217,21 +549,65 @@
       "club_zh": "乌兹别克斯坦 纳夫奇",
       "club_en": "Neftchi",
       "club": "乌兹别克斯坦 纳夫奇 / Neftchi",
+      "caps": 38,
+      "goals": 4,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 9,
       "position": "MF",
-      "name_zh": "奥季利延·哈姆罗别科夫",
-      "name_en": "Odiljon XAMROBEKOV",
-      "name": "奥季利延·哈姆罗别科夫 / Odiljon XAMROBEKOV",
+      "name_zh": "",
+      "name_en": "Odiljon Hamrobekov",
+      "name": "Odiljon Hamrobekov",
       "birth_date": "1996-02-13",
-      "club_zh": "伊朗 大不里士拖拉机",
+      "club_zh": "",
       "club_en": "Tractor",
-      "club": "伊朗 大不里士拖拉机 / Tractor",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "Tractor",
+      "caps": 72,
+      "goals": 1,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 10,
@@ -243,8 +619,30 @@
       "club_zh": "乌兹别克斯坦 纳曼干新春",
       "club_en": "Navbahor",
       "club": "乌兹别克斯坦 纳曼干新春 / Navbahor",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 5,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 11,
@@ -256,8 +654,30 @@
       "club_zh": "伊朗 波斯波利斯",
       "club_en": "Persepolis",
       "club": "伊朗 波斯波利斯 / Persepolis",
+      "caps": 42,
+      "goals": 10,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 17,
@@ -269,8 +689,30 @@
       "club_zh": "乌兹别克斯坦 帕赫塔科尔",
       "club_en": "Pakhtakor",
       "club": "乌兹别克斯坦 帕赫塔科尔 / Pakhtakor",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 34,
+      "goals": 5,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 19,
@@ -282,8 +724,30 @@
       "club_zh": "巴塔耶",
       "club_en": "Al-Bataeh",
       "club": "巴塔耶 / Al-Bataeh",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 19,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 22,
@@ -295,8 +759,30 @@
       "club_zh": "伊斯坦布尔巴萨克赛尔",
       "club_en": "İstanbul Başakşehir",
       "club": "伊斯坦布尔巴萨克赛尔 / İstanbul Başakşehir",
+      "caps": 32,
+      "goals": 9,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 23,
@@ -308,8 +794,30 @@
       "club_zh": "乌兹别克斯坦 布哈拉",
       "club_en": "Bukhara",
       "club": "乌兹别克斯坦 布哈拉 / Bukhara",
+      "caps": 1,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 14,
@@ -321,8 +829,30 @@
       "club_zh": "伊斯坦布尔巴萨克赛尔",
       "club_en": "İstanbul Başakşehir",
       "club": "伊斯坦布尔巴萨克赛尔 / İstanbul Başakşehir",
+      "caps": 92,
+      "goals": 44,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 20,
@@ -334,8 +864,30 @@
       "club_zh": "乌兹别克斯坦 布哈拉",
       "club_en": "Bukhara",
       "club": "乌兹别克斯坦 布哈拉 / Bukhara",
+      "caps": 12,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 21,
@@ -347,8 +899,30 @@
       "club_zh": "伊朗 波斯波利斯",
       "club_en": "Persepolis",
       "club": "伊朗 波斯波利斯 / Persepolis",
+      "caps": 83,
+      "goals": 25,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Colombia",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Portugal",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Congo DR",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     }
   ]
 }

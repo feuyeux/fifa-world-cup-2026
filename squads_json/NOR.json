@@ -1,29 +1,53 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "NOR",
   "team_name": "Norway",
   "group": "I",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/I_Norway.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
       "number": 1,
       "position": "GK",
-      "name_zh": "厄尔延·尼兰",
-      "name_en": "Orjan NYLAND",
-      "name": "厄尔延·尼兰 / Orjan NYLAND",
+      "name_zh": "",
+      "name_en": "Ørjan Nyland",
+      "name": "Ørjan Nyland",
       "birth_date": "1990-09-10",
-      "club_zh": "西班牙 塞维利亚",
+      "club_zh": "",
       "club_en": "Sevilla",
-      "club": "西班牙 塞维利亚 / Sevilla",
+      "club": "Sevilla",
+      "caps": 71,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,8 +59,30 @@
       "club_zh": "汉堡",
       "club_en": "Hamburger SV",
       "club": "汉堡 / Hamburger SV",
+      "caps": 0,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 13,
@@ -48,8 +94,30 @@
       "club_zh": "沃特福德",
       "club_en": "Watford",
       "club": "沃特福德 / Watford",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 7,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 3,
@@ -61,47 +129,135 @@
       "club_zh": "布伦特福德",
       "club_en": "Brentford",
       "club": "布伦特福德 / Brentford",
+      "caps": 52,
+      "goals": 2,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 4,
       "position": "DF",
-      "name_zh": "莱奥·厄斯蒂高",
-      "name_en": "Leo OSTIGARD",
-      "name": "莱奥·厄斯蒂高 / Leo OSTIGARD",
+      "name_zh": "",
+      "name_en": "Leo Østigård",
+      "name": "Leo Østigård",
       "birth_date": "1999-11-28",
-      "club_zh": "意大利 热那亚",
+      "club_zh": "",
       "club_en": "Genoa",
-      "club": "意大利 热那亚 / Genoa",
+      "club": "Genoa",
+      "caps": 38,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 5,
       "position": "DF",
-      "name_zh": "达维德·默勒·沃尔费",
-      "name_en": "David MOLLER WOLFE",
-      "name": "达维德·默勒·沃尔费 / David MOLLER WOLFE",
+      "name_zh": "",
+      "name_en": "David Møller Wolfe",
+      "name": "David Møller Wolfe",
       "birth_date": "2002-04-23",
-      "club_zh": "英格兰 狼队",
+      "club_zh": "",
       "club_en": "Wolverhampton Wanderers",
-      "club": "英格兰 狼队 / Wolverhampton Wanderers",
+      "club": "Wolverhampton Wanderers",
+      "caps": 22,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 15,
       "position": "DF",
-      "name_zh": "弗雷德里克·比约坎",
-      "name_en": "Fredrik Andre BJORKAN",
-      "name": "弗雷德里克·比约坎 / Fredrik Andre BJORKAN",
+      "name_zh": "",
+      "name_en": "Fredrik André Bjørkan",
+      "name": "Fredrik André Bjørkan",
       "birth_date": "1998-08-21",
-      "club_zh": "挪威 博德闪耀",
+      "club_zh": "",
       "club_en": "Bodø/Glimt",
-      "club": "挪威 博德闪耀 / Bodø/Glimt",
-      "is_starter": false,
-      "portrait_url": null
+      "club": "Bodø/Glimt",
+      "caps": 21,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 16,
@@ -113,21 +269,65 @@
       "club_zh": "都灵",
       "club_en": "Torino",
       "club": "都灵 / Torino",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 32,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 17,
       "position": "DF",
-      "name_zh": "托爾比約恩·赫格姆",
-      "name_en": "Torbjorn HEGGEM",
-      "name": "托爾比約恩·赫格姆 / Torbjorn HEGGEM",
+      "name_zh": "",
+      "name_en": "Torbjørn Heggem",
+      "name": "Torbjørn Heggem",
       "birth_date": "1999-01-12",
-      "club_zh": "意大利 博洛尼亚",
+      "club_zh": "",
       "club_en": "Bologna",
-      "club": "意大利 博洛尼亚 / Bologna",
-      "is_starter": false,
-      "portrait_url": null
+      "club": "Bologna",
+      "caps": 15,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 24,
@@ -139,8 +339,30 @@
       "club_zh": "英格兰 德比郡",
       "club_en": "Derby County",
       "club": "英格兰 德比郡 / Derby County",
+      "caps": 3,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 25,
@@ -152,8 +374,65 @@
       "club_zh": "挪威 维京",
       "club_en": "Viking",
       "club": "挪威 维京 / Viking",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 1,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "position": "DF",
+      "name_zh": "朱利安・莱尔森",
+      "name_en": "Julian RYERSON",
+      "name": "朱利安・莱尔森 / Julian RYERSON",
+      "birth_date": "1997-11-17",
+      "club_zh": "多特蒙德",
+      "club_en": "Borussia Dortmund",
+      "club": "多特蒙德 / Borussia Dortmund",
+      "caps": 43,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
@@ -165,8 +444,30 @@
       "club_zh": "意大利 克雷莫内塞",
       "club_en": "Cremonese",
       "club": "意大利 克雷莫内塞 / Cremonese",
+      "caps": 31,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 6,
@@ -178,8 +479,30 @@
       "club_zh": "挪威 博德闪耀",
       "club_en": "Bodø/Glimt",
       "club": "挪威 博德闪耀 / Bodø/Glimt",
+      "caps": 43,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -191,21 +514,65 @@
       "club_zh": "英格兰 富勒姆",
       "club_en": "Fulham",
       "club": "英格兰 富勒姆 / Fulham",
+      "caps": 66,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 10,
       "position": "MF",
-      "name_zh": "马丁·厄德高",
-      "name_en": "Martin ODEGAARD",
-      "name": "马丁·厄德高 / Martin ODEGAARD",
+      "name_zh": "",
+      "name_en": "Martin Ødegaard",
+      "name": "Martin Ødegaard",
       "birth_date": "1998-12-17",
-      "club_zh": "英格兰 阿森纳",
+      "club_zh": "",
       "club_en": "Arsenal",
-      "club": "英格兰 阿森纳 / Arsenal",
+      "club": "Arsenal",
+      "caps": 68,
+      "goals": 5,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 14,
@@ -217,8 +584,30 @@
       "club_zh": "Palmeiras",
       "club_en": "Benfica",
       "club": "Palmeiras / Benfica",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 22,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 18,
@@ -230,8 +619,30 @@
       "club_zh": "意大利 萨索洛",
       "club_en": "Sassuolo",
       "club": "意大利 萨索洛 / Sassuolo",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 37,
+      "goals": 4,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 19,
@@ -243,8 +654,65 @@
       "club_zh": "流浪者",
       "club_en": "Rangers",
       "club": "流浪者 / Rangers",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 8,
+      "goals": 5,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "position": "MF",
+      "name_zh": "努萨",
+      "name_en": "Antonio NUSA",
+      "name": "努萨 / Antonio NUSA",
+      "birth_date": "2005-04-17",
+      "club_zh": "RB莱比锡",
+      "club_en": "RB Leipzig",
+      "club": "RB莱比锡 / RB Leipzig",
+      "caps": 24,
+      "goals": 8,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 21,
@@ -256,8 +724,30 @@
       "club_zh": "Palmeiras",
       "club_en": "Benfica",
       "club": "Palmeiras / Benfica",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 12,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 22,
@@ -269,8 +759,30 @@
       "club_zh": "英格兰 富勒姆",
       "club_en": "Fulham",
       "club": "英格兰 富勒姆 / Fulham",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 20,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 23,
@@ -282,21 +794,65 @@
       "club_zh": "挪威 博德闪耀",
       "club_en": "Bodø/Glimt",
       "club": "挪威 博德闪耀 / Bodø/Glimt",
+      "caps": 15,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 7,
       "position": "FW",
-      "name_zh": "亚历山大·瑟尔洛特",
-      "name_en": "Alexander SORLOTH",
-      "name": "亚历山大·瑟尔洛特 / Alexander SORLOTH",
+      "name_zh": "",
+      "name_en": "Alexander Sørloth",
+      "name": "Alexander Sørloth",
       "birth_date": "1995-12-05",
-      "club_zh": "西班牙 马德里竞技",
+      "club_zh": "",
       "club_en": "Atlético Madrid",
-      "club": "西班牙 马德里竞技 / Atlético Madrid",
+      "club": "Atlético Madrid",
+      "caps": 72,
+      "goals": 26,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 9,
@@ -308,47 +864,65 @@
       "club_zh": "曼城",
       "club_en": "Manchester City",
       "club": "曼城 / Manchester City",
+      "caps": 50,
+      "goals": 55,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 11,
       "position": "FW",
-      "name_zh": "尤爾根·拉爾森",
-      "name_en": "Jorgen STRAND LARSEN",
-      "name": "尤爾根·拉爾森 / Jorgen STRAND LARSEN",
+      "name_zh": "",
+      "name_en": "Jørgen Strand Larsen",
+      "name": "Jørgen Strand Larsen",
       "birth_date": "2000-02-06",
-      "club_zh": "英格兰 水晶宫",
+      "club_zh": "",
       "club_en": "Crystal Palace",
-      "club": "英格兰 水晶宫 / Crystal Palace",
-      "is_starter": false,
-      "portrait_url": null
-    },
-    {
-      "number": 20,
-      "position": "FW",
-      "name_zh": "努萨",
-      "name_en": "Antonio NUSA",
-      "name": "努萨 / Antonio NUSA",
-      "birth_date": "2005-04-17",
-      "club_zh": "RB莱比锡",
-      "club_en": "RB Leipzig",
-      "club": "RB莱比锡 / RB Leipzig",
-      "is_starter": false,
-      "portrait_url": null
-    },
-    {
-      "number": 26,
-      "position": "FW",
-      "name_zh": "朱利安・莱尔森",
-      "name_en": "Julian RYERSON",
-      "name": "朱利安・莱尔森 / Julian RYERSON",
-      "birth_date": "1997-11-17",
-      "club_zh": "多特蒙德",
-      "club_en": "Borussia Dortmund",
-      "club": "多特蒙德 / Borussia Dortmund",
+      "club": "Crystal Palace",
+      "caps": 28,
+      "goals": 6,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "France",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     }
   ]
 }

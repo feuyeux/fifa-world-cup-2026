@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "BRA",
   "team_name": "Brazil",
   "group": "C",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/C_Brazil.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "利物浦",
       "club_en": "Liverpool",
       "club": "利物浦 / Liverpool",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 78,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,21 +59,65 @@
       "club_zh": "格雷米奥",
       "club_en": "Grêmio",
       "club": "格雷米奥 / Grêmio",
+      "caps": 11,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 23,
       "position": "GK",
-      "name_zh": "埃德森",
-      "name_en": "EDERSON",
-      "name": "埃德森 / EDERSON",
+      "name_zh": "",
+      "name_en": "Ederson Moraes",
+      "name": "Ederson Moraes",
       "birth_date": "1993-08-17",
-      "club_zh": "费内巴切",
+      "club_zh": "",
       "club_en": "Fenerbahçe",
-      "club": "费内巴切 / Fenerbahçe",
+      "club": "Fenerbahçe",
+      "caps": 32,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 3,
@@ -61,8 +129,30 @@
       "club_zh": "阿森纳",
       "club_en": "Arsenal",
       "club": "阿森纳 / Arsenal",
+      "caps": 17,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 4,
@@ -74,8 +164,30 @@
       "club_zh": "巴黎圣日耳曼",
       "club_en": "Paris Saint-Germain",
       "club": "巴黎圣日耳曼 / Paris Saint-Germain",
+      "caps": 105,
+      "goals": 7,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 6,
@@ -87,21 +199,65 @@
       "club_zh": "弗拉门戈",
       "club_en": "Flamengo",
       "club": "弗拉门戈 / Flamengo",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 45,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 13,
       "position": "DF",
-      "name_zh": "達尼洛·路易斯·達·席爾瓦",
-      "name_en": "DANILO",
-      "name": "達尼洛·路易斯·達·席爾瓦 / DANILO",
+      "name_zh": "",
+      "name_en": "Danilo Luiz",
+      "name": "Danilo Luiz",
       "birth_date": "1991-07-15",
-      "club_zh": "巴西 弗拉门戈",
+      "club_zh": "",
       "club_en": "Flamengo",
-      "club": "巴西 弗拉门戈 / Flamengo",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "Flamengo",
+      "caps": 70,
+      "goals": 1,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 14,
@@ -113,8 +269,30 @@
       "club_zh": "尤文图斯",
       "club_en": "Juventus",
       "club": "尤文图斯 / Juventus",
+      "caps": 8,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 15,
@@ -126,8 +304,30 @@
       "club_zh": "弗拉门戈",
       "club_en": "Flamengo",
       "club": "弗拉门戈 / Flamengo",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 16,
@@ -139,8 +339,30 @@
       "club_zh": "圣彼得堡泽尼特",
       "club_en": "Zenit Saint Petersburg",
       "club": "圣彼得堡泽尼特 / Zenit Saint Petersburg",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 7,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 24,
@@ -152,8 +374,30 @@
       "club_zh": "吉达国民",
       "club_en": "Al-Ahli",
       "club": "吉达国民 / Al-Ahli",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 7,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
@@ -165,8 +409,30 @@
       "club_zh": "意大利 亚特兰大",
       "club_en": "Atalanta",
       "club": "意大利 亚特兰大 / Atalanta",
+      "caps": 3,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 5,
@@ -178,8 +444,30 @@
       "club_zh": "曼联",
       "club_en": "Manchester United",
       "club": "曼联 / Manchester United",
+      "caps": 86,
+      "goals": 9,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -191,8 +479,30 @@
       "club_zh": "纽卡斯尔联",
       "club_en": "Newcastle United",
       "club": "纽卡斯尔联 / Newcastle United",
+      "caps": 43,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 17,
@@ -204,8 +514,30 @@
       "club_zh": "吉达联合",
       "club_en": "Al-Ittihad",
       "club": "吉达联合 / Al-Ittihad",
+      "caps": 33,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 18,
@@ -217,8 +549,30 @@
       "club_zh": "博塔弗戈",
       "club_en": "Botafogo",
       "club": "博塔弗戈 / Botafogo",
+      "caps": 4,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 20,
@@ -230,8 +584,30 @@
       "club_zh": "弗拉门戈",
       "club_en": "Flamengo",
       "club": "弗拉门戈 / Flamengo",
+      "caps": 63,
+      "goals": 13,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 7,
@@ -243,8 +619,30 @@
       "club_zh": "皇家马德里",
       "club_en": "Real Madrid",
       "club": "皇家马德里 / Real Madrid",
+      "caps": 49,
+      "goals": 9,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 9,
@@ -256,21 +654,65 @@
       "club_zh": "曼联",
       "club_en": "Manchester United",
       "club": "曼联 / Manchester United",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 23,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 10,
       "position": "FW",
-      "name_zh": "内马尔",
-      "name_en": "NEYMAR JR",
-      "name": "内马尔 / NEYMAR JR",
+      "name_zh": "",
+      "name_en": "Neymar",
+      "name": "Neymar",
       "birth_date": "1992-02-05",
-      "club_zh": "巴西 桑托斯",
-      "club_en": "Santos FC",
-      "club": "巴西 桑托斯 / Santos FC",
-      "is_starter": true,
-      "portrait_url": null
+      "club_zh": "",
+      "club_en": "Santos",
+      "club": "Santos",
+      "caps": 128,
+      "goals": 79,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 11,
@@ -282,8 +724,30 @@
       "club_zh": "巴塞罗那",
       "club_en": "Barcelona",
       "club": "巴塞罗那 / Barcelona",
+      "caps": 39,
+      "goals": 11,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 19,
@@ -295,8 +759,30 @@
       "club_zh": "里昂",
       "club_en": "Lyon",
       "club": "里昂 / Lyon",
+      "caps": 17,
+      "goals": 4,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 21,
@@ -308,8 +794,30 @@
       "club_zh": "圣彼得堡泽尼特",
       "club_en": "Zenit Saint Petersburg",
       "club": "圣彼得堡泽尼特 / Zenit Saint Petersburg",
+      "caps": 15,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 22,
@@ -321,8 +829,30 @@
       "club_zh": "阿森纳",
       "club_en": "Arsenal",
       "club": "阿森纳 / Arsenal",
+      "caps": 23,
+      "goals": 4,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 25,
@@ -334,8 +864,30 @@
       "club_zh": "布伦特福德",
       "club_en": "Brentford",
       "club": "布伦特福德 / Brentford",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 4,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -347,8 +899,30 @@
       "club_zh": "伯恩茅斯",
       "club_en": "Bournemouth",
       "club": "伯恩茅斯 / Bournemouth",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 2,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Haiti",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     }
   ]
 }

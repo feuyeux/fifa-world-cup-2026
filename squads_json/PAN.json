@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "PAN",
   "team_name": "Panama",
   "group": "L",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/L_Panama.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "乌拉圭 民族",
       "club_en": "Nacional",
       "club": "乌拉圭 民族 / Nacional",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 56,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,8 +59,30 @@
       "club_zh": "洪都拉斯 马拉松",
       "club_en": "Marathón",
       "club": "洪都拉斯 马拉松 / Marathón",
+      "caps": 5,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 22,
@@ -48,8 +94,30 @@
       "club_zh": "沙特阿拉伯 费哈",
       "club_en": "Al-Fayha",
       "club": "沙特阿拉伯 费哈 / Al-Fayha",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 48,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "斯洛伐克 布拉迪斯拉发斯洛万",
       "club_en": "Slovan Bratislava",
       "club": "斯洛伐克 布拉迪斯拉发斯洛万 / Slovan Bratislava",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 40,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "诺里奇城",
       "club_en": "Norwich City",
       "club": "诺里奇城 / Norwich City",
+      "caps": 32,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "哥斯达黎加 萨普里萨",
       "club_en": "Saprissa",
       "club": "哥斯达黎加 萨普里萨 / Saprissa",
+      "caps": 99,
+      "goals": 4,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,8 +234,30 @@
       "club_zh": "俄罗斯 下诺夫哥罗德",
       "club_en": "Pari Nizhny Novgorod",
       "club": "俄罗斯 下诺夫哥罗德 / Pari Nizhny Novgorod",
+      "caps": 18,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 13,
@@ -113,8 +269,30 @@
       "club_zh": "委内瑞拉 卡贝略港",
       "club_en": "Puerto Cabello",
       "club": "委内瑞拉 卡贝略港 / Puerto Cabello",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 23,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 14,
@@ -126,8 +304,30 @@
       "club_zh": "美国 明尼苏达联",
       "club_en": "Minnesota United FC",
       "club": "美国 明尼苏达联 / Minnesota United FC",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 28,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 15,
@@ -139,8 +339,30 @@
       "club_zh": "巴拿马 阿马多尔广场",
       "club_en": "Plaza Amador",
       "club": "巴拿马 阿马多尔广场 / Plaza Amador",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 107,
+      "goals": 9,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 16,
@@ -152,21 +374,65 @@
       "club_zh": "林茨",
       "club_en": "LASK",
       "club": "林茨 / LASK",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 50,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 23,
       "position": "DF",
-      "name_zh": "阿米尔·穆里略",
-      "name_en": "Amir MURILLO",
-      "name": "阿米尔·穆里略 / Amir MURILLO",
+      "name_zh": "",
+      "name_en": "Michael Amir Murillo",
+      "name": "Michael Amir Murillo",
       "birth_date": "1996-02-11",
-      "club_zh": "土耳其 贝西克塔斯",
+      "club_zh": "",
       "club_en": "Beşiktaş",
-      "club": "土耳其 贝西克塔斯 / Beşiktaş",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "Beşiktaş",
+      "caps": 94,
+      "goals": 9,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 25,
@@ -178,8 +444,30 @@
       "club_zh": "阿塞拜疆 图兰托武兹",
       "club_en": "Turan Tovuz",
       "club": "阿塞拜疆 图兰托武兹 / Turan Tovuz",
+      "caps": 50,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -191,8 +479,30 @@
       "club_zh": "委内瑞拉 拉瓜伊拉体育",
       "club_en": "Deportivo La Guaira",
       "club": "委内瑞拉 拉瓜伊拉体育 / Deportivo La Guaira",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 18,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 6,
@@ -204,8 +514,30 @@
       "club_zh": "以色列 基里亚特什莫纳",
       "club_en": "Ironi Kiryat Shmona",
       "club": "以色列 基里亚特什莫纳 / Ironi Kiryat Shmona",
+      "caps": 66,
+      "goals": 2,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 7,
@@ -217,8 +549,30 @@
       "club_zh": "墨西哥 华雷斯",
       "club_en": "Juárez",
       "club": "墨西哥 华雷斯 / Juárez",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 70,
+      "goals": 8,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -230,8 +584,30 @@
       "club_zh": "墨西哥 UNAM",
       "club_en": "UNAM",
       "club": "墨西哥 UNAM / UNAM",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 73,
+      "goals": 3,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 10,
@@ -243,21 +619,65 @@
       "club_zh": "墨西哥 莱昂",
       "club_en": "León",
       "club": "墨西哥 莱昂 / León",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 57,
+      "goals": 17,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 11,
       "position": "MF",
-      "name_zh": "埃德加·乔尔·巴塞纳斯",
-      "name_en": "Edgar Yoel BARCENAS",
-      "name": "埃德加·乔尔·巴塞纳斯 / Edgar Yoel BARCENAS",
+      "name_zh": "",
+      "name_en": "Yoel Bárcenas",
+      "name": "Yoel Bárcenas",
       "birth_date": "1993-10-23",
-      "club_zh": "墨西哥 马萨特兰",
-      "club_en": "Mazatlán FC",
-      "club": "墨西哥 马萨特兰 / Mazatlán FC",
-      "is_starter": true,
-      "portrait_url": null
+      "club_zh": "",
+      "club_en": "Mazatlán",
+      "club": "Mazatlán",
+      "caps": 104,
+      "goals": 10,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 19,
@@ -269,8 +689,30 @@
       "club_zh": "巴拿马 阿马多尔广场",
       "club_en": "Plaza Amador",
       "club": "巴拿马 阿马多尔广场 / Plaza Amador",
+      "caps": 141,
+      "goals": 7,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 20,
@@ -282,8 +724,30 @@
       "club_zh": "美国 圣迭戈FC",
       "club_en": "San Diego FC",
       "club": "美国 圣迭戈FC / San Diego FC",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 159,
+      "goals": 4,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 21,
@@ -295,8 +759,30 @@
       "club_zh": "智利 科布雷萨尔",
       "club_en": "Cobresal",
       "club": "智利 科布雷萨尔 / Cobresal",
+      "caps": 56,
+      "goals": 5,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 9,
@@ -308,8 +794,30 @@
       "club_zh": "哥斯达黎加 萨普里萨",
       "club_en": "Saprissa",
       "club": "哥斯达黎加 萨普里萨 / Saprissa",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 13,
+      "goals": 4,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 17,
@@ -321,8 +829,30 @@
       "club_zh": "厄瓜多尔 天主大学",
       "club_en": "Universidad Católica",
       "club": "厄瓜多尔 天主大学 / Universidad Católica",
+      "caps": 68,
+      "goals": 17,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 18,
@@ -334,8 +864,30 @@
       "club_zh": "智利 康塞普西翁大学",
       "club_en": "Universidad de Concepción",
       "club": "智利 康塞普西翁大学 / Universidad de Concepción",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 55,
+      "goals": 15,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 24,
@@ -347,8 +899,30 @@
       "club_zh": "厄瓜多尔 天主大学",
       "club_en": "Universidad Católica",
       "club": "厄瓜多尔 天主大学 / Universidad Católica",
+      "caps": 11,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     }
   ]
 }

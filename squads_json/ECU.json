@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "ECU",
   "team_name": "Ecuador",
   "group": "E",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/E_Ecuador.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "飓风",
       "club_en": "Huracán",
       "club": "飓风 / Huracán",
+      "caps": 35,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,8 +59,30 @@
       "club_zh": "基菲西亚",
       "club_en": "Kifisia",
       "club": "基菲西亚 / Kifisia",
+      "caps": 7,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 22,
@@ -48,8 +94,30 @@
       "club_zh": "基多大学体育联盟",
       "club_en": "LDU Quito",
       "club": "基多大学体育联盟 / LDU Quito",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "巴西国际",
       "club_en": "Internacional",
       "club": "巴西国际 / Internacional",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 49,
+      "goals": 5,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "阿森纳",
       "club_en": "Arsenal",
       "club": "阿森纳 / Arsenal",
+      "caps": 52,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "布鲁日",
       "club_en": "Club Brugge",
       "club": "布鲁日 / Club Brugge",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 17,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 6,
@@ -100,8 +234,30 @@
       "club_zh": "巴黎圣日耳曼",
       "club_en": "Paris Saint-Germain",
       "club": "巴黎圣日耳曼 / Paris Saint-Germain",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 34,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 7,
@@ -113,8 +269,30 @@
       "club_zh": "AC米兰",
       "club_en": "Milan",
       "club": "AC米兰 / Milan",
+      "caps": 54,
+      "goals": 5,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 17,
@@ -126,8 +304,30 @@
       "club_zh": "米内罗竞技",
       "club_en": "Atlético Mineiro",
       "club": "米内罗竞技 / Atlético Mineiro",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 55,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 25,
@@ -139,8 +339,30 @@
       "club_zh": "蒂华纳",
       "club_en": "Tijuana",
       "club": "蒂华纳 / Tijuana",
+      "caps": 10,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -152,8 +374,30 @@
       "club_zh": "亨克",
       "club_en": "Genk",
       "club": "亨克 / Genk",
+      "caps": 6,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 5,
@@ -165,8 +409,30 @@
       "club_zh": "山谷独立",
       "club_en": "Independiente del Valle",
       "club": "山谷独立 / Independiente del Valle",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 11,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 8,
@@ -178,8 +444,30 @@
       "club_zh": "安特卫普",
       "club_en": "Antwerp",
       "club": "安特卫普 / Antwerp",
+      "caps": 3,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 10,
@@ -191,8 +479,30 @@
       "club_zh": "河床",
       "club_en": "River Plate",
       "club": "河床 / River Plate",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 26,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 14,
@@ -204,8 +514,30 @@
       "club_zh": "米内罗竞技",
       "club_en": "Atlético Mineiro",
       "club": "米内罗竞技 / Atlético Mineiro",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 20,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 15,
@@ -217,8 +549,30 @@
       "club_zh": "美洲狮",
       "club_en": "UNAM",
       "club": "美洲狮 / UNAM",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 17,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 18,
@@ -230,8 +584,30 @@
       "club_zh": "中日德兰",
       "club_en": "Midtjylland",
       "club": "中日德兰 / Midtjylland",
+      "caps": 5,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 21,
@@ -243,8 +619,30 @@
       "club_zh": "米内罗竞技",
       "club_en": "Atlético Mineiro",
       "club": "米内罗竞技 / Atlético Mineiro",
+      "caps": 58,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 23,
@@ -256,8 +654,30 @@
       "club_zh": "切尔西",
       "club_en": "Chelsea",
       "club": "切尔西 / Chelsea",
+      "caps": 61,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 9,
@@ -269,8 +689,30 @@
       "club_zh": "威尼斯",
       "club_en": "Venezia",
       "club": "威尼斯 / Venezia",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 23,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 11,
@@ -282,8 +724,30 @@
       "club_zh": "圣吉罗斯联合",
       "club_en": "Union Saint-Gilloise",
       "club": "圣吉罗斯联合 / Union Saint-Gilloise",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 31,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 13,
@@ -295,8 +759,30 @@
       "club_zh": "帕丘卡",
       "club_en": "Pachuca",
       "club": "帕丘卡 / Pachuca",
+      "caps": 105,
+      "goals": 49,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 16,
@@ -308,8 +794,30 @@
       "club_zh": "飓风",
       "club_en": "Huracán",
       "club": "飓风 / Huracán",
+      "caps": 20,
+      "goals": 4,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 19,
@@ -321,8 +829,30 @@
       "club_zh": "弗拉门戈",
       "club_en": "Flamengo",
       "club": "弗拉门戈 / Flamengo",
+      "caps": 50,
+      "goals": 8,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 20,
@@ -334,8 +864,30 @@
       "club_zh": "桑德兰",
       "club_en": "Sunderland",
       "club": "桑德兰 / Sunderland",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 14,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 24,
@@ -347,8 +899,30 @@
       "club_zh": "斯图加特",
       "club_en": "VfB Stuttgart",
       "club": "斯图加特 / VfB Stuttgart",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Germany",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     }
   ]
 }

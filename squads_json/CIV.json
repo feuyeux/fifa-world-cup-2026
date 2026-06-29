@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "CIV",
   "team_name": "Ivory Coast",
   "group": "E",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/E_Ivory Coast.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,11 @@
       "club_zh": "里泽体育",
       "club_en": "Çaykur Rizespor",
       "club": "里泽体育 / Çaykur Rizespor",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 35,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 16,
@@ -35,8 +40,11 @@
       "club_zh": "沙勒罗瓦",
       "club_en": "Charleroi",
       "club": "沙勒罗瓦 / Charleroi",
+      "caps": 0,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 23,
@@ -48,8 +56,11 @@
       "club_zh": "帕纳辛奈科斯",
       "club_en": "Panathinaikos",
       "club": "帕纳辛奈科斯 / Panathinaikos",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 2,
@@ -61,8 +72,11 @@
       "club_zh": "葡萄牙体育",
       "club_en": "Sporting CP",
       "club": "葡萄牙体育 / Sporting CP",
+      "caps": 15,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 3,
@@ -74,8 +88,11 @@
       "club_zh": "吉尔维森特",
       "club_en": "Gil Vicente",
       "club": "吉尔维森特 / Gil Vicente",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 54,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 5,
@@ -87,8 +104,11 @@
       "club_zh": "加拉塔萨雷",
       "club_en": "Galatasaray",
       "club": "加拉塔萨雷 / Galatasaray",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 34,
+      "goals": 1,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 7,
@@ -100,8 +120,11 @@
       "club_zh": "亚特兰大",
       "club_en": "Atalanta",
       "club": "亚特兰大 / Atalanta",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 36,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 13,
@@ -113,8 +136,11 @@
       "club_zh": "伊斯坦布尔巴萨克赛尔",
       "club_en": "İstanbul Başakşehir",
       "club": "伊斯坦布尔巴萨克赛尔 / İstanbul Başakşehir",
+      "caps": 12,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 17,
@@ -126,8 +152,11 @@
       "club_zh": "斯特拉斯堡",
       "club_en": "Strasbourg",
       "club": "斯特拉斯堡 / Strasbourg",
+      "caps": 20,
+      "goals": 3,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 20,
@@ -139,8 +168,11 @@
       "club_zh": "贝西克塔斯",
       "club_en": "Beşiktaş",
       "club": "贝西克塔斯 / Beşiktaş",
+      "caps": 20,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 21,
@@ -152,8 +184,11 @@
       "club_zh": "罗马",
       "club_en": "Roma",
       "club": "罗马 / Roma",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 28,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 4,
@@ -165,8 +200,11 @@
       "club_zh": "马里博尔",
       "club_en": "Maribor",
       "club": "马里博尔 / Maribor",
+      "caps": 65,
+      "goals": 4,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 6,
@@ -178,8 +216,11 @@
       "club_zh": "波尔图",
       "club_en": "Porto",
       "club": "波尔图 / Porto",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 33,
+      "goals": 7,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 8,
@@ -191,8 +232,11 @@
       "club_zh": "吉达国民",
       "club_en": "Al-Ahli",
       "club": "吉达国民 / Al-Ahli",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 102,
+      "goals": 15,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 18,
@@ -204,8 +248,11 @@
       "club_zh": "诺丁汉森林",
       "club_en": "Nottingham Forest",
       "club": "诺丁汉森林 / Nottingham Forest",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 57,
+      "goals": 12,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 25,
@@ -217,8 +264,11 @@
       "club_zh": "沙勒罗瓦",
       "club_en": "Charleroi",
       "club": "沙勒罗瓦 / Charleroi",
+      "caps": 5,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 26,
@@ -230,8 +280,11 @@
       "club_zh": "特拉布宗体育",
       "club_en": "Trabzonspor",
       "club": "特拉布宗体育 / Trabzonspor",
+      "caps": 9,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 9,
@@ -243,8 +296,11 @@
       "club_zh": "国际米兰",
       "club_en": "Inter Milan",
       "club": "国际米兰 / Inter Milan",
+      "caps": 1,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 10,
@@ -256,8 +312,11 @@
       "club_zh": "摩纳哥",
       "club_en": "Monaco",
       "club": "摩纳哥 / Monaco",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 29,
+      "goals": 5,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 11,
@@ -269,8 +328,11 @@
       "club_zh": "RB莱比锡",
       "club_en": "RB Leipzig",
       "club": "RB莱比锡 / RB Leipzig",
+      "caps": 10,
+      "goals": 3,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 12,
@@ -282,8 +344,11 @@
       "club_zh": "尼斯",
       "club_en": "Nice",
       "club": "尼斯 / Nice",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 2,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 14,
@@ -295,8 +360,11 @@
       "club_zh": "色格拉布鲁日",
       "club_en": "Cercle Brugge",
       "club": "色格拉布鲁日 / Cercle Brugge",
+      "caps": 30,
+      "goals": 6,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 15,
@@ -308,8 +376,11 @@
       "club_zh": "曼联",
       "club_en": "Manchester United",
       "club": "曼联 / Manchester United",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 19,
+      "goals": 6,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 19,
@@ -321,8 +392,11 @@
       "club_zh": "比利亚雷亚尔",
       "club_en": "Villarreal",
       "club": "比利亚雷亚尔 / Villarreal",
+      "caps": 56,
+      "goals": 12,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 22,
@@ -334,8 +408,11 @@
       "club_zh": "水晶宫",
       "club_en": "Crystal Palace",
       "club": "水晶宫 / Crystal Palace",
+      "caps": 21,
+      "goals": 4,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 24,
@@ -347,8 +424,11 @@
       "club_zh": "霍芬海姆",
       "club_en": "TSG Hoffenheim",
       "club": "霍芬海姆 / TSG Hoffenheim",
+      "caps": 6,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     }
   ]
 }

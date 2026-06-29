@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "GER",
   "team_name": "Germany",
   "group": "E",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/E_Germany.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "拜仁慕尼黑",
       "club_en": "Bayern Munich",
       "club": "拜仁慕尼黑 / Bayern Munich",
+      "caps": 124,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,34 +59,100 @@
       "club_zh": "霍芬海姆",
       "club_en": "TSG Hoffenheim",
       "club": "霍芬海姆 / TSG Hoffenheim",
+      "caps": 13,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 21,
       "position": "GK",
-      "name_zh": "亚历山大·尼贝尔",
-      "name_en": "Alexander NUEBEL",
-      "name": "亚历山大·尼贝尔 / Alexander NUEBEL",
+      "name_zh": "",
+      "name_en": "Alexander Nübel",
+      "name": "Alexander Nübel",
       "birth_date": "1996-09-30",
-      "club_zh": "德国 斯图加特",
+      "club_zh": "",
       "club_en": "VfB Stuttgart",
-      "club": "德国 斯图加特 / VfB Stuttgart",
+      "club": "VfB Stuttgart",
+      "caps": 3,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
       "position": "DF",
-      "name_zh": "安东尼奥·吕迪格",
-      "name_en": "Antonio RUEDIGER",
-      "name": "安东尼奥·吕迪格 / Antonio RUEDIGER",
+      "name_zh": "",
+      "name_en": "Antonio Rüdiger",
+      "name": "Antonio Rüdiger",
       "birth_date": "1993-03-03",
-      "club_zh": "西班牙 皇家马德里",
+      "club_zh": "",
       "club_en": "Real Madrid",
-      "club": "西班牙 皇家马德里 / Real Madrid",
+      "club": "Real Madrid",
+      "caps": 82,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "多特蒙德",
       "club_en": "Borussia Dortmund",
       "club": "多特蒙德 / Borussia Dortmund",
+      "caps": 13,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "拜仁慕尼黑",
       "club_en": "Bayern Munich",
       "club": "拜仁慕尼黑 / Bayern Munich",
+      "caps": 47,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 6,
@@ -100,8 +234,30 @@
       "club_zh": "拜仁慕尼黑",
       "club_en": "Bayern Munich",
       "club": "拜仁慕尼黑 / Bayern Munich",
+      "caps": 110,
+      "goals": 10,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 15,
@@ -113,8 +269,30 @@
       "club_zh": "多特蒙德",
       "club_en": "Borussia Dortmund",
       "club": "多特蒙德 / Borussia Dortmund",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 27,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 18,
@@ -126,8 +304,30 @@
       "club_zh": "法兰克福",
       "club_en": "Eintracht Frankfurt",
       "club": "法兰克福 / Eintracht Frankfurt",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 5,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 22,
@@ -139,8 +339,30 @@
       "club_zh": "RB莱比锡",
       "club_en": "RB Leipzig",
       "club": "RB莱比锡 / RB Leipzig",
+      "caps": 37,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 24,
@@ -152,8 +374,30 @@
       "club_zh": "纽卡斯尔联",
       "club_en": "Newcastle United",
       "club": "纽卡斯尔联 / Newcastle United",
+      "caps": 5,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 5,
@@ -165,8 +409,30 @@
       "club_zh": "拜仁慕尼黑",
       "club_en": "Bayern Munich",
       "club": "拜仁慕尼黑 / Bayern Munich",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 11,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -178,8 +444,30 @@
       "club_zh": "拜仁慕尼黑",
       "club_en": "Bayern Munich",
       "club": "拜仁慕尼黑 / Bayern Munich",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 70,
+      "goals": 15,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 9,
@@ -191,8 +479,30 @@
       "club_zh": "斯图加特",
       "club_en": "VfB Stuttgart",
       "club": "斯图加特 / VfB Stuttgart",
+      "caps": 5,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 10,
@@ -204,21 +514,65 @@
       "club_zh": "拜仁慕尼黑",
       "club_en": "Bayern Munich",
       "club": "拜仁慕尼黑 / Bayern Munich",
+      "caps": 42,
+      "goals": 9,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 13,
       "position": "MF",
-      "name_zh": "帕斯卡尔·格罗斯",
-      "name_en": "Pascal GROSS",
-      "name": "帕斯卡尔·格罗斯 / Pascal GROSS",
+      "name_zh": "",
+      "name_en": "Pascal Groß",
+      "name": "Pascal Groß",
       "birth_date": "1991-06-15",
-      "club_zh": "德国 多特蒙德",
-      "club_en": "Borussia Dortmund",
-      "club": "德国 多特蒙德 / Borussia Dortmund",
-      "is_starter": true,
-      "portrait_url": null
+      "club_zh": "",
+      "club_en": "Brighton & Hove Albion",
+      "club": "Brighton & Hove Albion",
+      "caps": 18,
+      "goals": 1,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 16,
@@ -230,8 +584,30 @@
       "club_zh": "斯图加特",
       "club_en": "VfB Stuttgart",
       "club": "斯图加特 / VfB Stuttgart",
+      "caps": 8,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 17,
@@ -243,8 +619,30 @@
       "club_zh": "利物浦",
       "club_en": "Liverpool",
       "club": "利物浦 / Liverpool",
+      "caps": 41,
+      "goals": 11,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 19,
@@ -256,8 +654,30 @@
       "club_zh": "加拉塔萨雷",
       "club_en": "Galatasaray",
       "club": "加拉塔萨雷 / Galatasaray",
+      "caps": 76,
+      "goals": 17,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 20,
@@ -269,8 +689,30 @@
       "club_zh": "美因茨05",
       "club_en": "Mainz 05",
       "club": "美因茨05 / Mainz 05",
+      "caps": 11,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 23,
@@ -282,8 +724,30 @@
       "club_zh": "多特蒙德",
       "club_en": "Borussia Dortmund",
       "club": "多特蒙德 / Borussia Dortmund",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 8,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 25,
@@ -295,8 +759,30 @@
       "club_zh": "德国 RB莱比锡",
       "club_en": "RB Leipzig",
       "club": "德国 RB莱比锡 / RB Leipzig",
+      "caps": 1,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 7,
@@ -308,8 +794,30 @@
       "club_zh": "阿森纳",
       "club_en": "Arsenal",
       "club": "阿森纳 / Arsenal",
+      "caps": 58,
+      "goals": 22,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 11,
@@ -321,8 +829,30 @@
       "club_zh": "纽卡斯尔联",
       "club_en": "Newcastle United",
       "club": "纽卡斯尔联 / Newcastle United",
+      "caps": 11,
+      "goals": 4,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 14,
@@ -334,8 +864,30 @@
       "club_zh": "多特蒙德",
       "club_en": "Borussia Dortmund",
       "club": "多特蒙德 / Borussia Dortmund",
+      "caps": 9,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 26,
@@ -347,8 +899,30 @@
       "club_zh": "斯图加特",
       "club_en": "VfB Stuttgart",
       "club": "斯图加特 / VfB Stuttgart",
+      "caps": 9,
+      "goals": 6,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Ecuador",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     }
   ]
 }

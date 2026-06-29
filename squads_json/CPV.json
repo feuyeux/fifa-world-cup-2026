@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "CPV",
   "team_name": "Cape Verde",
   "group": "H",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/H_Cape Verde.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,11 @@
       "club_zh": "沙维什",
       "club_en": "Chaves",
       "club": "沙维什 / Chaves",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 90,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 12,
@@ -35,8 +40,11 @@
       "club_zh": "蒙塔纳",
       "club_en": "Montana",
       "club": "蒙塔纳 / Montana",
+      "caps": 11,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 23,
@@ -48,8 +56,11 @@
       "club_zh": "美国 圣迭戈FC",
       "club_en": "San Diego FC",
       "club": "美国 圣迭戈FC / San Diego FC",
+      "caps": 1,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 2,
@@ -61,34 +72,43 @@
       "club_zh": "托雷恩斯",
       "club_en": "Torreense",
       "club": "托雷恩斯 / Torreense",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 61,
+      "goals": 4,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 3,
       "position": "DF",
-      "name_zh": "迪内·博尔热斯",
-      "name_en": "DINEY BORGES",
-      "name": "迪内·博尔热斯 / DINEY BORGES",
+      "name_zh": "",
+      "name_en": "Diney",
+      "name": "Diney",
       "birth_date": "1995-01-17",
-      "club_zh": "阿联酋 巴塔赫",
+      "club_zh": "",
       "club_en": "Al Bataeh",
-      "club": "阿联酋 巴塔赫 / Al Bataeh",
+      "club": "Al Bataeh",
+      "caps": 32,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 4,
       "position": "DF",
-      "name_zh": "皮科·洛佩斯",
-      "name_en": "PICO LOPES",
-      "name": "皮科·洛佩斯 / PICO LOPES",
+      "name_zh": "",
+      "name_en": "Pico",
+      "name": "Pico",
       "birth_date": "1992-06-17",
-      "club_zh": "爱尔兰 沙姆洛克流浪",
+      "club_zh": "",
       "club_en": "Shamrock Rovers",
-      "club": "爱尔兰 沙姆洛克流浪 / Shamrock Rovers",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "Shamrock Rovers",
+      "caps": 45,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 5,
@@ -100,8 +120,11 @@
       "club_zh": "比利亚雷亚尔",
       "club_en": "Villarreal",
       "club": "比利亚雷亚尔 / Villarreal",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 28,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 13,
@@ -113,8 +136,11 @@
       "club_zh": "Palmeiras",
       "club_en": "Benfica",
       "club": "Palmeiras / Benfica",
+      "caps": 11,
+      "goals": 3,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 22,
@@ -126,8 +152,11 @@
       "club_zh": "哥伦布机员",
       "club_en": "Columbus Crew",
       "club": "哥伦布机员 / Columbus Crew",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 20,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 24,
@@ -139,8 +168,11 @@
       "club_zh": "特拉布宗体育",
       "club_en": "Trabzonspor",
       "club": "特拉布宗体育 / Trabzonspor",
+      "caps": 14,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 25,
@@ -152,8 +184,11 @@
       "club_zh": "芬兰 塞伊奈约基",
       "club_en": "SJK",
       "club": "芬兰 塞伊奈约基 / SJK",
+      "caps": 6,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 6,
@@ -165,8 +200,11 @@
       "club_zh": "克拉斯诺达尔",
       "club_en": "Krasnodar",
       "club": "克拉斯诺达尔 / Krasnodar",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 31,
+      "goals": 3,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 7,
@@ -178,8 +216,11 @@
       "club_zh": "阿马多拉之星",
       "club_en": "Estrela Amadora",
       "club": "阿马多拉之星 / Estrela Amadora",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 29,
+      "goals": 3,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 8,
@@ -191,8 +232,11 @@
       "club_zh": "罗马尼亚 布加勒斯特星",
       "club_en": "FCSB",
       "club": "罗马尼亚 布加勒斯特星 / FCSB",
+      "caps": 41,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 10,
@@ -204,8 +248,11 @@
       "club_zh": "兹沃勒",
       "club_en": "PEC Zwolle",
       "club": "兹沃勒 / PEC Zwolle",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 55,
+      "goals": 5,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 11,
@@ -217,8 +264,11 @@
       "club_zh": "利马索尔阿波罗",
       "club_en": "Apollon Limassol",
       "club": "利马索尔阿波罗 / Apollon Limassol",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 61,
+      "goals": 10,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 14,
@@ -230,8 +280,11 @@
       "club_zh": "卢多戈雷茨",
       "club_en": "Ludogorets Razgrad",
       "club": "卢多戈雷茨 / Ludogorets Razgrad",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 33,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 15,
@@ -243,8 +296,11 @@
       "club_zh": "普斯卡什学院",
       "club_en": "Puskás Akadémia",
       "club": "普斯卡什学院 / Puskás Akadémia",
+      "caps": 20,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 16,
@@ -256,8 +312,11 @@
       "club_zh": "法伦斯",
       "club_en": "Farense",
       "club": "法伦斯 / Farense",
+      "caps": 11,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 17,
@@ -269,8 +328,11 @@
       "club_zh": "奥莫尼亚",
       "club_en": "Omonia",
       "club": "奥莫尼亚 / Omonia",
+      "caps": 38,
+      "goals": 3,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 18,
@@ -282,8 +344,11 @@
       "club_zh": "吉马良斯胜利",
       "club_en": "Vitória de Guimarães",
       "club": "吉马良斯胜利 / Vitória de Guimarães",
+      "caps": 16,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 21,
@@ -295,8 +360,11 @@
       "club_zh": "伊斯坦布尔巴萨克赛尔",
       "club_en": "İstanbul Başakşehir",
       "club": "伊斯坦布尔巴萨克赛尔 / İstanbul Başakşehir",
+      "caps": 9,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 26,
@@ -308,8 +376,11 @@
       "club_zh": "特拉维夫马卡比",
       "club_en": "Maccabi Tel Aviv",
       "club": "特拉维夫马卡比 / Maccabi Tel Aviv",
+      "caps": 21,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 9,
@@ -321,8 +392,11 @@
       "club_zh": "阿克隆托格里蒂",
       "club_en": "Akron Tolyatti",
       "club": "阿克隆托格里蒂 / Akron Tolyatti",
+      "caps": 21,
+      "goals": 6,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 19,
@@ -334,8 +408,11 @@
       "club_zh": "卡萨皮亚",
       "club_en": "Casa Pia",
       "club": "卡萨皮亚 / Casa Pia",
+      "caps": 22,
+      "goals": 7,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 20,
@@ -347,8 +424,11 @@
       "club_zh": "伊格德尔",
       "club_en": "Iğdır",
       "club": "伊格德尔 / Iğdır",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 96,
+      "goals": 22,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     }
   ]
 }

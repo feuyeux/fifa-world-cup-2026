@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "ALG",
   "team_name": "Algeria",
   "group": "J",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/J_Algeria.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "瑞士 尼永体育场",
       "club_en": "Stade Nyonnais",
       "club": "瑞士 尼永体育场 / Stade Nyonnais",
+      "caps": 2,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 16,
@@ -35,8 +59,30 @@
       "club_zh": "阿尔及利亚 阿尔及尔联盟",
       "club_en": "USM Alger",
       "club": "阿尔及利亚 阿尔及尔联盟 / USM Alger",
+      "caps": 5,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 23,
@@ -48,8 +94,30 @@
       "club_zh": "西班牙 格拉纳达",
       "club_en": "Granada",
       "club": "西班牙 格拉纳达 / Granada",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 7,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "里尔",
       "club_en": "Lille",
       "club": "里尔 / Lille",
+      "caps": 119,
+      "goals": 8,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "阿尔及利亚 阿尔及尔联盟",
       "club_en": "USM Alger",
       "club": "阿尔及利亚 阿尔及尔联盟 / USM Alger",
+      "caps": 9,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "突尼斯希望",
       "club_en": "Espérance de Tunis",
       "club": "突尼斯希望 / Espérance de Tunis",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 30,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,8 +234,30 @@
       "club_zh": "阿尔及利亚 卡比利亚青年",
       "club_en": "JS Kabylie",
       "club": "阿尔及利亚 卡比利亚青年 / JS Kabylie",
+      "caps": 18,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 13,
@@ -113,8 +269,30 @@
       "club_zh": "伯尔尼年轻人",
       "club_en": "Young Boys",
       "club": "伯尔尼年轻人 / Young Boys",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 18,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 15,
@@ -126,8 +304,30 @@
       "club_zh": "曼城",
       "club_en": "Manchester City",
       "club": "曼城 / Manchester City",
+      "caps": 30,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 17,
@@ -139,8 +339,30 @@
       "club_zh": "意大利 维罗纳",
       "club_en": "Hellas Verona",
       "club": "意大利 维罗纳 / Hellas Verona",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 13,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 21,
@@ -152,8 +374,30 @@
       "club_zh": "多特蒙德",
       "club_en": "Borussia Dortmund",
       "club": "多特蒙德 / Borussia Dortmund",
+      "caps": 82,
+      "goals": 9,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 26,
@@ -165,8 +409,30 @@
       "club_zh": "巴黎FC",
       "club_en": "Paris FC",
       "club": "巴黎FC / Paris FC",
+      "caps": 5,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 6,
@@ -178,8 +444,30 @@
       "club_zh": "荷兰 特温特",
       "club_en": "Twente",
       "club": "荷兰 特温特 / Twente",
+      "caps": 53,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 8,
@@ -191,8 +479,30 @@
       "club_zh": "吉达联合",
       "club_en": "Al-Ittihad",
       "club": "吉达联合 / Al-Ittihad",
+      "caps": 22,
+      "goals": 6,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 10,
@@ -204,8 +514,30 @@
       "club_zh": "法兰克福",
       "club_en": "Eintracht Frankfurt",
       "club": "法兰克福 / Eintracht Frankfurt",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 31,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 14,
@@ -217,8 +549,30 @@
       "club_zh": "尼斯",
       "club_en": "Nice",
       "club": "尼斯 / Nice",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 34,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 19,
@@ -230,8 +584,30 @@
       "club_zh": "里尔",
       "club_en": "Lille",
       "club": "里尔 / Lille",
+      "caps": 60,
+      "goals": 6,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 22,
@@ -243,21 +619,65 @@
       "club_zh": "德国 勒沃库森",
       "club_en": "Bayer Leverkusen",
       "club": "德国 勒沃库森 / Bayer Leverkusen",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 17,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 24,
       "position": "MF",
-      "name_zh": "亚辛·蒂特拉维",
-      "name_en": "Yassine TITRAOUI",
-      "name": "亚辛·蒂特拉维 / Yassine TITRAOUI",
+      "name_zh": "",
+      "name_en": "Yacine Titraoui",
+      "name": "Yacine Titraoui",
       "birth_date": "2003-07-26",
-      "club_zh": "比利时 沙勒罗瓦",
+      "club_zh": "",
       "club_en": "Charleroi",
-      "club": "比利时 沙勒罗瓦 / Charleroi",
+      "club": "Charleroi",
+      "caps": 5,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 7,
@@ -269,8 +689,30 @@
       "club_zh": "吉达国民",
       "club_en": "Al-Ahli",
       "club": "吉达国民 / Al-Ahli",
+      "caps": 116,
+      "goals": 38,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 9,
@@ -282,8 +724,30 @@
       "club_zh": "法国 马赛",
       "club_en": "Marseille",
       "club": "法国 马赛 / Marseille",
+      "caps": 23,
+      "goals": 10,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 11,
@@ -295,8 +759,30 @@
       "club_zh": "费耶诺德",
       "club_en": "Feyenoord",
       "club": "费耶诺德 / Feyenoord",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 15,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 12,
@@ -308,8 +794,30 @@
       "club_zh": "匈牙利 吉奥里ETO",
       "club_en": "Győri ETO",
       "club": "匈牙利 吉奥里ETO / Győri ETO",
+      "caps": 4,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 18,
@@ -321,8 +829,30 @@
       "club_zh": "沃尔夫斯堡",
       "club_en": "VfL Wolfsburg",
       "club": "沃尔夫斯堡 / VfL Wolfsburg",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 47,
+      "goals": 19,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 20,
@@ -334,8 +864,30 @@
       "club_zh": "卡塔尔 艾多哈尼",
       "club_en": "Al-Duhail",
       "club": "卡塔尔 艾多哈尼 / Al-Duhail",
+      "caps": 12,
+      "goals": 6,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 25,
@@ -347,8 +899,30 @@
       "club_zh": "意大利 弗罗西诺内",
       "club_en": "Frosinone",
       "club": "意大利 弗罗西诺内 / Frosinone",
+      "caps": 1,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Argentina",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Jordan",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Austria",
+          "date": "2026-06-28",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     }
   ]
 }

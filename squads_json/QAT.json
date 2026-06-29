@@ -1,29 +1,53 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "QAT",
   "team_name": "Qatar",
   "group": "B",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/B_Qatar.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
       "number": 1,
       "position": "GK",
-      "name_zh": "马哈茂德·阿布纳达",
-      "name_en": "MAHMOUD ABUNADA",
-      "name": "马哈茂德·阿布纳达 / MAHMOUD ABUNADA",
+      "name_zh": "",
+      "name_en": "Mahmud Abunada",
+      "name": "Mahmud Abunada",
       "birth_date": "2000-02-05",
-      "club_zh": "卡塔尔 阿尔赖扬",
-      "club_en": "Al-Rayyan SC",
-      "club": "卡塔尔 阿尔赖扬 / Al-Rayyan SC",
-      "is_starter": true,
-      "portrait_url": null
+      "club_zh": "",
+      "club_en": "Al-Rayyan",
+      "club": "Al-Rayyan",
+      "caps": 6,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 21,
@@ -35,8 +59,30 @@
       "club_zh": "卡塔尔 艾多哈尼",
       "club_en": "Al-Duhail",
       "club": "卡塔尔 艾多哈尼 / Al-Duhail",
+      "caps": 8,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 22,
@@ -48,8 +94,30 @@
       "club_zh": "卡塔尔 萨德",
       "club_en": "Al-Sadd",
       "club": "卡塔尔 萨德 / Al-Sadd",
+      "caps": 52,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "卡塔尔 萨德",
       "club_en": "Al Sadd SC",
       "club": "卡塔尔 萨德 / Al Sadd SC",
+      "caps": 105,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "卡塔尔 沃克拉",
       "club_en": "Al-Wakrah SC",
       "club": "卡塔尔 沃克拉 / Al-Wakrah SC",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 25,
+      "goals": 1,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "卡塔尔 杜海勒",
       "club_en": "Al-Duhail SC",
       "club": "卡塔尔 杜海勒 / Al-Duhail SC",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 4,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,8 +234,30 @@
       "club_zh": "卡塔尔 阿拉比",
       "club_en": "Al-Arabi",
       "club": "卡塔尔 阿拉比 / Al-Arabi",
+      "caps": 32,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 13,
@@ -113,8 +269,30 @@
       "club_zh": "卡塔尔 阿尔赖扬",
       "club_en": "Al-Rayyan SC",
       "club": "卡塔尔 阿尔赖扬 / Al-Rayyan SC",
+      "caps": 6,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 14,
@@ -126,8 +304,30 @@
       "club_zh": "卡塔尔 加拉法",
       "club_en": "Al-Gharafa",
       "club": "卡塔尔 加拉法 / Al-Gharafa",
+      "caps": 68,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 16,
@@ -139,8 +339,30 @@
       "club_zh": "卡塔尔 萨德",
       "club_en": "Al Sadd SC",
       "club": "卡塔尔 萨德 / Al Sadd SC",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 116,
+      "goals": 20,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 18,
@@ -152,21 +374,65 @@
       "club_zh": "卡塔尔 杜海勒",
       "club_en": "Al-Duhail SC",
       "club": "卡塔尔 杜海勒 / Al-Duhail SC",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 17,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 25,
       "position": "DF",
-      "name_zh": "哈希米·侯赛因",
-      "name_en": "ALHASHMI ALHUSSEIN",
-      "name": "哈希米·侯赛因 / ALHASHMI ALHUSSEIN",
+      "name_zh": "",
+      "name_en": "Al-Hashmi Al-Hussain",
+      "name": "Al-Hashmi Al-Hussain",
       "birth_date": "2003-08-15",
-      "club_zh": "卡塔尔 阿尔赖扬",
-      "club_en": "Al-Rayyan SC",
-      "club": "卡塔尔 阿尔赖扬 / Al-Rayyan SC",
-      "is_starter": true,
-      "portrait_url": null
+      "club_zh": "",
+      "club_en": "Al-Arabi",
+      "club": "Al-Arabi",
+      "caps": 8,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 6,
@@ -178,8 +444,30 @@
       "club_zh": "卡塔尔 阿尔赖扬",
       "club_en": "Al-Rayyan SC",
       "club": "卡塔尔 阿尔赖扬 / Al-Rayyan SC",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 119,
+      "goals": 11,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 12,
@@ -191,8 +479,30 @@
       "club_zh": "卡塔尔 杜海勒",
       "club_en": "Al-Duhail SC",
       "club": "卡塔尔 杜海勒 / Al-Duhail SC",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 118,
+      "goals": 5,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 17,
@@ -204,8 +514,30 @@
       "club_zh": "卡塔尔 加拉法",
       "club_en": "Al-Gharafa SC",
       "club": "卡塔尔 加拉法 / Al-Gharafa SC",
+      "caps": 13,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 20,
@@ -217,8 +549,30 @@
       "club_zh": "卡塔尔 阿拉比",
       "club_en": "Al-Arabi",
       "club": "卡塔尔 阿拉比 / Al-Arabi",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 48,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 23,
@@ -230,8 +584,30 @@
       "club_zh": "卡塔尔 艾多哈尼",
       "club_en": "Al-Duhail",
       "club": "卡塔尔 艾多哈尼 / Al-Duhail",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 51,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 7,
@@ -243,8 +619,30 @@
       "club_zh": "卡塔尔 加拉法体",
       "club_en": "Al-Gharafa",
       "club": "卡塔尔 加拉法体 / Al-Gharafa",
+      "caps": 68,
+      "goals": 9,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 8,
@@ -256,8 +654,30 @@
       "club_zh": "比利时 标准列日",
       "club_en": "Standard Liège",
       "club": "比利时 标准列日 / Standard Liège",
+      "caps": 16,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 9,
@@ -269,8 +689,30 @@
       "club_zh": "卡塔尔 艾多哈尼",
       "club_en": "Al-Duhail",
       "club": "卡塔尔 艾多哈尼 / Al-Duhail",
+      "caps": 67,
+      "goals": 16,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 10,
@@ -282,8 +724,30 @@
       "club_zh": "卡塔尔 萨德",
       "club_en": "Al Sadd SC",
       "club": "卡塔尔 萨德 / Al Sadd SC",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 186,
+      "goals": 41,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 11,
@@ -295,8 +759,30 @@
       "club_zh": "卡塔尔 萨德",
       "club_en": "Al Sadd SC",
       "club": "卡塔尔 萨德 / Al Sadd SC",
+      "caps": 125,
+      "goals": 39,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 15,
@@ -308,8 +794,30 @@
       "club_zh": "卡塔尔 艾华卡拉",
       "club_en": "Al-Ahli",
       "club": "卡塔尔 艾华卡拉 / Al-Ahli",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 39,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 19,
@@ -321,21 +829,65 @@
       "club_zh": "卡塔尔 艾多哈尼",
       "club_en": "Al-Duhail",
       "club": "卡塔尔 艾多哈尼 / Al-Duhail",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 115,
+      "goals": 55,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 24,
       "position": "FW",
-      "name_zh": "塔赫辛·穆罕默德",
-      "name_en": "TAHSIN MOHAMMED",
-      "name": "塔赫辛·穆罕默德 / TAHSIN MOHAMMED",
+      "name_zh": "",
+      "name_en": "Tahsin Jamshid",
+      "name": "Tahsin Jamshid",
       "birth_date": "2006-06-16",
-      "club_zh": "卡塔尔 杜海勒",
-      "club_en": "Al-Duhail SC",
-      "club": "卡塔尔 杜海勒 / Al-Duhail SC",
+      "club_zh": "",
+      "club_en": "Al-Duhail",
+      "club": "Al-Duhail",
+      "caps": 3,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -347,8 +899,30 @@
       "club_zh": "卡塔尔 舒马尔",
       "club_en": "Al-Shamal SC",
       "club": "卡塔尔 舒马尔 / Al-Shamal SC",
+      "caps": 10,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Switzerland",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     }
   ]
 }

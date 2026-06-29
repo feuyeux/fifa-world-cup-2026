@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "JPN",
   "team_name": "Japan",
   "group": "F",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/F_Japan.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "意大利 帕尔马",
       "club_en": "Parma",
       "club": "意大利 帕尔马 / Parma",
+      "caps": 24,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,8 +59,30 @@
       "club_zh": "日本 广岛三箭",
       "club_en": "Sanfrecce Hiroshima",
       "club": "日本 广岛三箭 / Sanfrecce Hiroshima",
+      "caps": 11,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 23,
@@ -48,8 +94,30 @@
       "club_zh": "鹿岛鹿角",
       "club_en": "Kashima Antlers",
       "club": "鹿岛鹿角 / Kashima Antlers",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "云达不来梅",
       "club_en": "Werder Bremen",
       "club": "云达不来梅 / Werder Bremen",
+      "caps": 21,
+      "goals": 2,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,21 +164,65 @@
       "club_zh": "比利时 圣图尔登",
       "club_en": "Sint-Truiden",
       "club": "比利时 圣图尔登 / Sint-Truiden",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 38,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 4,
       "position": "DF",
-      "name_zh": "板仓滉",
-      "name_en": "Kou ITAKURA",
-      "name": "板仓滉 / Kou ITAKURA",
+      "name_zh": "",
+      "name_en": "Kō Itakura",
+      "name": "Kō Itakura",
       "birth_date": "1997-01-27",
-      "club_zh": "荷兰 阿贾克斯",
+      "club_zh": "",
       "club_en": "Ajax",
-      "club": "荷兰 阿贾克斯 / Ajax",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "Ajax",
+      "caps": 40,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,8 +234,30 @@
       "club_zh": "FC东京",
       "club_en": "FC Tokyo",
       "club": "FC东京 / FC Tokyo",
+      "caps": 145,
+      "goals": 4,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 16,
@@ -113,8 +269,30 @@
       "club_zh": "费耶诺德",
       "club_en": "Feyenoord",
       "club": "费耶诺德 / Feyenoord",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 11,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 20,
@@ -126,8 +304,30 @@
       "club_zh": "勒阿弗尔",
       "club_en": "Le Havre",
       "club": "勒阿弗尔 / Le Havre",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 14,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 21,
@@ -139,8 +339,30 @@
       "club_zh": "拜仁慕尼黑",
       "club_en": "Bayern Munich",
       "club": "拜仁慕尼黑 / Bayern Munich",
+      "caps": 24,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 22,
@@ -152,8 +374,30 @@
       "club_zh": "阿贾克斯",
       "club_en": "Ajax",
       "club": "阿贾克斯 / Ajax",
+      "caps": 43,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 25,
@@ -165,8 +409,30 @@
       "club_zh": "哥本哈根",
       "club_en": "Copenhagen",
       "club": "哥本哈根 / Copenhagen",
+      "caps": 6,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 7,
@@ -178,8 +444,30 @@
       "club_zh": "利兹联",
       "club_en": "Leeds United",
       "club": "利兹联 / Leeds United",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 38,
+      "goals": 8,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -191,8 +479,30 @@
       "club_zh": "皇家社会",
       "club_en": "Real Sociedad",
       "club": "皇家社会 / Real Sociedad",
+      "caps": 49,
+      "goals": 7,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 10,
@@ -204,8 +514,30 @@
       "club_zh": "法兰克福",
       "club_en": "Eintracht Frankfurt",
       "club": "法兰克福 / Eintracht Frankfurt",
+      "caps": 65,
+      "goals": 11,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 11,
@@ -217,8 +549,30 @@
       "club_zh": "凯尔特人",
       "club_en": "Celtic",
       "club": "凯尔特人 / Celtic",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 27,
+      "goals": 4,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 13,
@@ -230,8 +584,30 @@
       "club_zh": "法国 兰斯",
       "club_en": "Reims",
       "club": "法国 兰斯 / Reims",
+      "caps": 25,
+      "goals": 10,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 14,
@@ -243,8 +619,30 @@
       "club_zh": "亨克",
       "club_en": "Genk",
       "club": "亨克 / Genk",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 69,
+      "goals": 15,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 15,
@@ -256,8 +654,30 @@
       "club_zh": "水晶宫",
       "club_en": "Crystal Palace",
       "club": "水晶宫 / Crystal Palace",
+      "caps": 49,
+      "goals": 12,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 17,
@@ -269,8 +689,30 @@
       "club_zh": "弗赖堡",
       "club_en": "SC Freiburg",
       "club": "弗赖堡 / SC Freiburg",
+      "caps": 6,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 24,
@@ -282,8 +724,30 @@
       "club_zh": "美因茨05",
       "club_en": "Mainz 05",
       "club": "美因茨05 / Mainz 05",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 13,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 6,
@@ -295,8 +759,30 @@
       "club_zh": "德国 门兴格拉德巴赫",
       "club_en": "Borussia Mönchengladbach",
       "club": "德国 门兴格拉德巴赫 / Borussia Mönchengladbach",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 14,
+      "goals": 5,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 9,
@@ -308,8 +794,30 @@
       "club_zh": "比利时 圣图尔登",
       "club_en": "Sint-Truiden",
       "club": "比利时 圣图尔登 / Sint-Truiden",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 18,
@@ -321,8 +829,30 @@
       "club_zh": "费耶诺德",
       "club_en": "Feyenoord",
       "club": "费耶诺德 / Feyenoord",
+      "caps": 39,
+      "goals": 16,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 19,
@@ -334,8 +864,30 @@
       "club_zh": "奈梅亨",
       "club_en": "NEC",
       "club": "奈梅亨 / NEC",
+      "caps": 15,
+      "goals": 11,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 26,
@@ -347,8 +899,30 @@
       "club_zh": "沃尔夫斯堡",
       "club_en": "VfL Wolfsburg",
       "club": "沃尔夫斯堡 / VfL Wolfsburg",
+      "caps": 2,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Tunisia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Sweden",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     }
   ]
 }

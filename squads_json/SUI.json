@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "SUI",
   "team_name": "Switzerland",
   "group": "B",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/B_Switzerland.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "多特蒙德",
       "club_en": "Borussia Dortmund",
       "club": "多特蒙德 / Borussia Dortmund",
+      "caps": 21,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,8 +59,30 @@
       "club_zh": "洛里昂",
       "club_en": "Lorient",
       "club": "洛里昂 / Lorient",
+      "caps": 13,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 21,
@@ -48,8 +94,30 @@
       "club_zh": "伯尔尼年轻人",
       "club_en": "Young Boys",
       "club": "伯尔尼年轻人 / Young Boys",
+      "caps": 1,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "汉堡",
       "club_en": "Hamburger SV",
       "club": "汉堡 / Hamburger SV",
+      "caps": 10,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "美因茨05",
       "club_en": "Mainz 05",
       "club": "美因茨05 / Mainz 05",
+      "caps": 60,
+      "goals": 5,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "门兴格拉德巴赫",
       "club_en": "Borussia Mönchengladbach",
       "club": "门兴格拉德巴赫 / Borussia Mönchengladbach",
+      "caps": 67,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,8 +234,30 @@
       "club_zh": "国际米兰",
       "club_en": "Inter Milan",
       "club": "国际米兰 / Inter Milan",
+      "caps": 81,
+      "goals": 4,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 13,
@@ -113,21 +269,65 @@
       "club_zh": "皇家贝蒂斯",
       "club_en": "Real Betis",
       "club": "皇家贝蒂斯 / Real Betis",
+      "caps": 138,
+      "goals": 9,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 18,
       "position": "DF",
-      "name_zh": "埃雷·库马特",
-      "name_en": "Eray COEMERT",
-      "name": "埃雷·库马特 / Eray COEMERT",
+      "name_zh": "",
+      "name_en": "Eray Cömert",
+      "name": "Eray Cömert",
       "birth_date": "1998-02-04",
-      "club_zh": "西班牙 巴伦西亚",
-      "club_en": "Valencia CF",
-      "club": "西班牙 巴伦西亚 / Valencia CF",
+      "club_zh": "",
+      "club_en": "Valencia",
+      "club": "Valencia",
+      "caps": 22,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 24,
@@ -139,8 +339,30 @@
       "club_zh": "法兰克福",
       "club_en": "Eintracht Frankfurt",
       "club": "法兰克福 / Eintracht Frankfurt",
+      "caps": 7,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 25,
@@ -152,8 +374,30 @@
       "club_zh": "斯图加特",
       "club_en": "VfB Stuttgart",
       "club": "斯图加特 / VfB Stuttgart",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 3,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 6,
@@ -165,8 +409,30 @@
       "club_zh": "摩纳哥",
       "club_en": "Monaco",
       "club": "摩纳哥 / Monaco",
+      "caps": 65,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 8,
@@ -178,8 +444,30 @@
       "club_zh": "博洛尼亚",
       "club_en": "Bologna",
       "club": "博洛尼亚 / Bologna",
+      "caps": 88,
+      "goals": 11,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 9,
@@ -191,8 +479,30 @@
       "club_zh": "弗赖堡",
       "club_en": "SC Freiburg",
       "club": "弗赖堡 / SC Freiburg",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 12,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 10,
@@ -204,8 +514,30 @@
       "club_zh": "桑德兰",
       "club_en": "Sunderland",
       "club": "桑德兰 / Sunderland",
+      "caps": 146,
+      "goals": 17,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 14,
@@ -217,8 +549,30 @@
       "club_zh": "AC米兰",
       "club_en": "Milan",
       "club": "AC米兰 / Milan",
+      "caps": 8,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 15,
@@ -230,8 +584,30 @@
       "club_zh": "塞维利亚",
       "club_en": "Sevilla",
       "club": "塞维利亚 / Sevilla",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 52,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 20,
@@ -243,8 +619,30 @@
       "club_zh": "比萨",
       "club_en": "Pisa",
       "club": "比萨 / Pisa",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 40,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 22,
@@ -256,8 +654,30 @@
       "club_zh": "奥格斯堡",
       "club_en": "FC Augsburg",
       "club": "奥格斯堡 / FC Augsburg",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 28,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 7,
@@ -269,8 +689,30 @@
       "club_zh": "雷恩",
       "club_en": "Rennes",
       "club": "雷恩 / Rennes",
+      "caps": 86,
+      "goals": 24,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 11,
@@ -282,8 +724,30 @@
       "club_zh": "诺丁汉森林",
       "club_en": "Nottingham Forest",
       "club": "诺丁汉森林 / Nottingham Forest",
+      "caps": 31,
+      "goals": 8,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 16,
@@ -295,8 +759,30 @@
       "club_zh": "伯尔尼年轻人",
       "club_en": "Young Boys",
       "club": "伯尔尼年轻人 / Young Boys",
+      "caps": 23,
+      "goals": 5,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 17,
@@ -308,8 +794,30 @@
       "club_zh": "塞维利亚",
       "club_en": "Sevilla",
       "club": "塞维利亚 / Sevilla",
+      "caps": 61,
+      "goals": 11,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 19,
@@ -321,8 +829,30 @@
       "club_zh": "利兹联",
       "club_en": "Leeds United",
       "club": "利兹联 / Leeds United",
+      "caps": 25,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 23,
@@ -334,8 +864,30 @@
       "club_zh": "伯恩利",
       "club_en": "Burnley",
       "club": "伯恩利 / Burnley",
+      "caps": 29,
+      "goals": 11,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -347,8 +899,30 @@
       "club_zh": "杜塞尔多夫",
       "club_en": "Fortuna Düsseldorf",
       "club": "杜塞尔多夫 / Fortuna Düsseldorf",
+      "caps": 15,
+      "goals": 5,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Qatar",
+          "date": "2026-06-13",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Bosnia-Herzegovina",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     }
   ]
 }

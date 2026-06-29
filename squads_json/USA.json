@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "USA",
   "team_name": "United States",
   "group": "D",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/D_United States.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,11 @@
       "club_zh": "美国 新英格兰革命",
       "club_en": "New England Revolution",
       "club": "美国 新英格兰革命 / New England Revolution",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 54,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 24,
@@ -35,8 +40,11 @@
       "club_zh": "美国 纽约城",
       "club_en": "New York City FC",
       "club": "美国 纽约城 / New York City FC",
+      "caps": 15,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 25,
@@ -48,8 +56,11 @@
       "club_zh": "美国 芝加哥火焰",
       "club_en": "Chicago Fire FC",
       "club": "美国 芝加哥火焰 / Chicago Fire FC",
+      "caps": 1,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 2,
@@ -61,8 +72,11 @@
       "club_zh": "PSV埃因霍温",
       "club_en": "PSV Eindhoven",
       "club": "PSV埃因霍温 / PSV Eindhoven",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 39,
+      "goals": 3,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 3,
@@ -74,8 +88,11 @@
       "club_zh": "水晶宫",
       "club_en": "Crystal Palace",
       "club": "水晶宫 / Crystal Palace",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 36,
+      "goals": 3,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 5,
@@ -87,8 +104,11 @@
       "club_zh": "英格兰 富勒姆",
       "club_en": "Fulham",
       "club": "英格兰 富勒姆 / Fulham",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 54,
+      "goals": 5,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 6,
@@ -100,8 +120,11 @@
       "club_zh": "凯尔特人",
       "club_en": "Celtic",
       "club": "凯尔特人 / Celtic",
+      "caps": 8,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 12,
@@ -113,8 +136,11 @@
       "club_zh": "美国 辛辛那提",
       "club_en": "FC Cincinnati",
       "club": "美国 辛辛那提 / FC Cincinnati",
+      "caps": 40,
+      "goals": 3,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 13,
@@ -126,8 +152,11 @@
       "club_zh": "美国 夏洛特FC",
       "club_en": "Charlotte FC",
       "club": "美国 夏洛特FC / Charlotte FC",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 82,
+      "goals": 1,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 16,
@@ -139,8 +168,11 @@
       "club_zh": "比利亚雷亚尔",
       "club_en": "Villarreal",
       "club": "比利亚雷亚尔 / Villarreal",
+      "caps": 17,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 18,
@@ -152,8 +184,11 @@
       "club_zh": "美国 哥伦布机员",
       "club_en": "Columbus Crew",
       "club": "美国 哥伦布机员 / Columbus Crew",
+      "caps": 20,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 22,
@@ -165,8 +200,11 @@
       "club_zh": "法国 图卢兹",
       "club_en": "Toulouse",
       "club": "法国 图卢兹 / Toulouse",
+      "caps": 29,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 23,
@@ -178,8 +216,11 @@
       "club_zh": "门兴格拉德巴赫",
       "club_en": "Borussia Mönchengladbach",
       "club": "门兴格拉德巴赫 / Borussia Mönchengladbach",
+      "caps": 26,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 4,
@@ -191,8 +232,11 @@
       "club_zh": "伯恩茅斯",
       "club_en": "Bournemouth",
       "club": "伯恩茅斯 / Bournemouth",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 54,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 7,
@@ -204,8 +248,11 @@
       "club_zh": "门兴格拉德巴赫",
       "club_en": "Borussia Mönchengladbach",
       "club": "门兴格拉德巴赫 / Borussia Mönchengladbach",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 38,
+      "goals": 9,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 8,
@@ -217,8 +264,11 @@
       "club_zh": "尤文图斯",
       "club_en": "Juventus",
       "club": "尤文图斯 / Juventus",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 66,
+      "goals": 12,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 14,
@@ -230,8 +280,11 @@
       "club_zh": "温哥华白浪",
       "club_en": "Vancouver Whitecaps FC",
       "club": "温哥华白浪 / Vancouver Whitecaps FC",
+      "caps": 13,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 15,
@@ -243,8 +296,11 @@
       "club_zh": "美国 西雅图海湾人",
       "club_en": "Seattle Sounders FC",
       "club": "美国 西雅图海湾人 / Seattle Sounders FC",
+      "caps": 47,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 17,
@@ -256,8 +312,11 @@
       "club_zh": "德国 勒沃库森",
       "club_en": "Bayer Leverkusen",
       "club": "德国 勒沃库森 / Bayer Leverkusen",
+      "caps": 30,
+      "goals": 3,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 9,
@@ -269,8 +328,11 @@
       "club_zh": "PSV埃因霍温",
       "club_en": "PSV Eindhoven",
       "club": "PSV埃因霍温 / PSV Eindhoven",
+      "caps": 37,
+      "goals": 13,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 10,
@@ -282,8 +344,11 @@
       "club_zh": "AC米兰",
       "club_en": "Milan",
       "club": "AC米兰 / Milan",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 86,
+      "goals": 33,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 11,
@@ -295,8 +360,11 @@
       "club_zh": "利兹联",
       "club_en": "Leeds United",
       "club": "利兹联 / Leeds United",
+      "caps": 58,
+      "goals": 9,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 19,
@@ -308,8 +376,11 @@
       "club_zh": "英格兰 考文垂",
       "club_en": "Coventry City",
       "club": "英格兰 考文垂 / Coventry City",
+      "caps": 20,
+      "goals": 7,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 20,
@@ -321,8 +392,11 @@
       "club_zh": "摩纳哥",
       "club_en": "Monaco",
       "club": "摩纳哥 / Monaco",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 27,
+      "goals": 9,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 21,
@@ -334,21 +408,27 @@
       "club_zh": "法国 马赛",
       "club_en": "Marseille",
       "club": "法国 马赛 / Marseille",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 51,
+      "goals": 7,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 26,
       "position": "FW",
-      "name_zh": "亚历克斯·森德哈斯",
-      "name_en": "Alex ZENDEJAS",
-      "name": "亚历克斯·森德哈斯 / Alex ZENDEJAS",
+      "name_zh": "",
+      "name_en": "Alejandro Zendejas",
+      "name": "Alejandro Zendejas",
       "birth_date": "1998-02-07",
-      "club_zh": "墨西哥 美洲",
-      "club_en": "Club América",
-      "club": "墨西哥 美洲 / Club América",
+      "club_zh": "",
+      "club_en": "América",
+      "club": "América",
+      "caps": 14,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     }
   ]
 }

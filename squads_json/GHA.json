@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "GHA",
   "team_name": "Ghana",
   "group": "L",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/L_Ghana.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "圣加伦",
       "club_en": "St. Gallen",
       "club": "圣加伦 / St. Gallen",
+      "caps": 29,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,8 +59,30 @@
       "club_zh": "圣帕特里克竞技",
       "club_en": "St Patrick's Athletic",
       "club": "圣帕特里克竞技 / St Patrick's Athletic",
+      "caps": 1,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 16,
@@ -48,8 +94,30 @@
       "club_zh": "格特奥林匹克",
       "club_en": "Hearts of Oak",
       "club": "格特奥林匹克 / Hearts of Oak",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 11,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "雷恩",
       "club_en": "Rennes",
       "club": "雷恩 / Rennes",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 24,
+      "goals": 1,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 4,
@@ -74,8 +164,30 @@
       "club_zh": "沃尔夫斯堡",
       "club_en": "VfL Wolfsburg",
       "club": "沃尔夫斯堡 / VfL Wolfsburg",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 10,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 6,
@@ -87,8 +199,30 @@
       "club_zh": "巴列卡诺",
       "club_en": "Rayo Vallecano",
       "club": "巴列卡诺 / Rayo Vallecano",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 5,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 14,
@@ -100,21 +234,65 @@
       "club_zh": "欧塞尔",
       "club_en": "Auxerre",
       "club": "欧塞尔 / Auxerre",
+      "caps": 40,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 17,
       "position": "DF",
-      "name_zh": "巴巴·拉赫曼",
-      "name_en": "Baba RAHMAN",
-      "name": "巴巴·拉赫曼 / Baba RAHMAN",
+      "name_zh": "",
+      "name_en": "Abdul Rahman Baba",
+      "name": "Abdul Rahman Baba",
       "birth_date": "1994-07-02",
-      "club_zh": "希腊 PAOK",
+      "club_zh": "",
       "club_en": "PAOK",
-      "club": "希腊 PAOK / PAOK",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "PAOK",
+      "caps": 51,
+      "goals": 1,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 18,
@@ -126,8 +304,30 @@
       "club_zh": "伊斯坦布尔",
       "club_en": "İstanbul Başakşehir",
       "club": "伊斯坦布尔 / İstanbul Başakşehir",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 11,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 21,
@@ -139,8 +339,30 @@
       "club_zh": "尼斯",
       "club_en": "Nice",
       "club": "尼斯 / Nice",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 23,
@@ -152,8 +374,30 @@
       "club_zh": "帕福斯",
       "club_en": "Pafos",
       "club": "帕福斯 / Pafos",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 1,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 26,
@@ -165,8 +409,30 @@
       "club_zh": "欧塞尔",
       "club_en": "Auxerre",
       "club": "欧塞尔 / Auxerre",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 2,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 3,
@@ -178,8 +444,30 @@
       "club_zh": "北西兰",
       "club_en": "Nordsjælland",
       "club": "北西兰 / Nordsjælland",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 11,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 5,
@@ -191,8 +479,30 @@
       "club_zh": "比利亚雷亚尔",
       "club_en": "Villarreal",
       "club": "比利亚雷亚尔 / Villarreal",
+      "caps": 57,
+      "goals": 15,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -204,8 +514,30 @@
       "club_zh": "皇家奥维耶多",
       "club_en": "Oviedo",
       "club": "皇家奥维耶多 / Oviedo",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 8,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 11,
@@ -217,8 +549,30 @@
       "club_zh": "曼城",
       "club_en": "Manchester City",
       "club": "曼城 / Manchester City",
+      "caps": 34,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 15,
@@ -230,8 +584,30 @@
       "club_zh": "欧塞尔",
       "club_en": "Auxerre",
       "club": "欧塞尔 / Auxerre",
+      "caps": 20,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 20,
@@ -243,8 +619,30 @@
       "club_zh": "圣埃蒂安",
       "club_en": "Saint-Étienne",
       "club": "圣埃蒂安 / Saint-Étienne",
+      "caps": 0,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 7,
@@ -256,8 +654,30 @@
       "club_zh": "莱斯特城",
       "club_en": "Leicester City",
       "club": "莱斯特城 / Leicester City",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 28,
+      "goals": 3,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 9,
@@ -269,8 +689,30 @@
       "club_zh": "莱斯特城",
       "club_en": "Leicester City",
       "club": "莱斯特城 / Leicester City",
+      "caps": 120,
+      "goals": 34,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 10,
@@ -282,8 +724,30 @@
       "club_zh": "考文垂",
       "club_en": "Coventry City",
       "club": "考文垂 / Coventry City",
+      "caps": 8,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 13,
@@ -295,8 +759,30 @@
       "club_zh": "胡拜尔库迪西亚",
       "club_en": "Al-Qadsiah",
       "club": "胡拜尔库迪西亚 / Al-Qadsiah",
+      "caps": 9,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 19,
@@ -308,8 +794,30 @@
       "club_zh": "毕尔巴鄂竞技",
       "club_en": "Athletic Bilbao",
       "club": "毕尔巴鄂竞技 / Athletic Bilbao",
+      "caps": 26,
+      "goals": 2,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 22,
@@ -321,8 +829,30 @@
       "club_zh": "亚特兰大",
       "club_en": "Atalanta",
       "club": "亚特兰大 / Atalanta",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 28,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 24,
@@ -334,21 +864,65 @@
       "club_zh": "里昂",
       "club_en": "Lyon",
       "club": "里昂 / Lyon",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 18,
+      "goals": 4,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 25,
       "position": "FW",
-      "name_zh": "普林斯·阿杜",
-      "name_en": "Prince ADU",
-      "name": "普林斯·阿杜 / Prince ADU",
+      "name_zh": "",
+      "name_en": "Prince Kwabena Adu",
+      "name": "Prince Kwabena Adu",
       "birth_date": "2003-09-23",
-      "club_zh": "捷克 比尔森胜利",
+      "club_zh": "",
       "club_en": "Viktoria Plzeň",
-      "club": "捷克 比尔森胜利 / Viktoria Plzeň",
+      "club": "Viktoria Plzeň",
+      "caps": 5,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Panama",
+          "date": "2026-06-17",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "England",
+          "date": "2026-06-23",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Croatia",
+          "date": "2026-06-27",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     }
   ]
 }

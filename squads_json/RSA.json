@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "RSA",
   "team_name": "South Africa",
   "group": "A",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/A_South Africa.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,36 @@
       "club_zh": "南非 马梅洛迪 Sundowns FC",
       "club_en": "Mamelodi Sundowns FC",
       "club": "南非 马梅洛迪 Sundowns FC / Mamelodi Sundowns FC",
+      "caps": 62,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 16,
@@ -35,8 +65,36 @@
       "club_zh": "南非 奥兰多 Pirates FC",
       "club_en": "Orlando Pirates FC",
       "club": "南非 奥兰多 Pirates FC / Orlando Pirates FC",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 22,
@@ -48,8 +106,36 @@
       "club_zh": "南非 Siwelele FC",
       "club_en": "Siwelele FC",
       "club": "南非 Siwelele FC / Siwelele FC",
+      "caps": 5,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +147,36 @@
       "club_zh": "南非 波洛夸内 City FC",
       "club_en": "Polokwane City FC",
       "club": "南非 波洛夸内 City FC / Polokwane City FC",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 3,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +188,36 @@
       "club_zh": "南非 马梅洛迪 Sundowns FC",
       "club_en": "Mamelodi Sundowns FC",
       "club": "南非 马梅洛迪 Sundowns FC / Mamelodi Sundowns FC",
+      "caps": 5,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 6,
@@ -87,8 +229,36 @@
       "club_zh": "南非 马梅洛迪 Sundowns FC",
       "club_en": "Mamelodi Sundowns FC",
       "club": "南非 马梅洛迪 Sundowns FC / Mamelodi Sundowns FC",
+      "caps": 44,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 14,
@@ -100,8 +270,36 @@
       "club_zh": "美国 芝加哥 Fire",
       "club_en": "Chicago Fire FC",
       "club": "美国 芝加哥 Fire / Chicago Fire FC",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 10,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 18,
@@ -113,8 +311,36 @@
       "club_zh": "挪威 莫尔德 FK",
       "club_en": "Molde FK",
       "club": "挪威 莫尔德 FK / Molde FK",
+      "caps": 6,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 19,
@@ -126,8 +352,36 @@
       "club_zh": "南非 奥兰多 Pirates FC",
       "club_en": "Orlando Pirates FC",
       "club": "南非 奥兰多 Pirates FC / Orlando Pirates FC",
+      "caps": 20,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 20,
@@ -139,8 +393,36 @@
       "club_zh": "南非 马梅洛迪 Sundowns FC",
       "club_en": "Mamelodi Sundowns FC",
       "club": "南非 马梅洛迪 Sundowns FC / Mamelodi Sundowns FC",
+      "caps": 32,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 21,
@@ -152,8 +434,36 @@
       "club_zh": "德国 汉诺威 96",
       "club_en": "Hannover 96",
       "club": "德国 汉诺威 96 / Hannover 96",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 8,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 24,
@@ -165,8 +475,36 @@
       "club_zh": "美国 费城 Union",
       "club_en": "Philadelphia Union",
       "club": "美国 费城 Union / Philadelphia Union",
+      "caps": 1,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -178,8 +516,36 @@
       "club_zh": "南非 凯泽 Chiefs FC",
       "club_en": "Kaizer Chiefs FC",
       "club": "南非 凯泽 Chiefs FC / Kaizer Chiefs FC",
+      "caps": 1,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 4,
@@ -191,8 +557,36 @@
       "club_zh": "南非 马梅洛迪 Sundowns FC",
       "club_en": "Mamelodi Sundowns FC",
       "club": "南非 马梅洛迪 Sundowns FC / Mamelodi Sundowns FC",
+      "caps": 51,
+      "goals": 9,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 5,
@@ -204,8 +598,36 @@
       "club_zh": "南非 奥兰多 Pirates FC",
       "club_en": "Orlando Pirates FC",
       "club": "南非 奥兰多 Pirates FC / Orlando Pirates FC",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 15,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 11,
@@ -217,8 +639,36 @@
       "club_zh": "南非 马梅洛迪 Sundowns FC",
       "club_en": "Mamelodi Sundowns FC",
       "club": "南非 马梅洛迪 Sundowns FC / Mamelodi Sundowns FC",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 54,
+      "goals": 12,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 13,
@@ -230,8 +680,36 @@
       "club_zh": "葡萄牙 CD Tondela",
       "club_en": "CD Tondela",
       "club": "葡萄牙 CD Tondela / CD Tondela",
+      "caps": 28,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 23,
@@ -243,8 +721,36 @@
       "club_zh": "南非 马梅洛迪 Sundowns FC",
       "club_en": "Mamelodi Sundowns FC",
       "club": "南非 马梅洛迪 Sundowns FC / Mamelodi Sundowns FC",
+      "caps": 5,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 7,
@@ -256,8 +762,36 @@
       "club_zh": "南非 奥兰多 Pirates FC",
       "club_en": "Orlando Pirates FC",
       "club": "南非 奥兰多 Pirates FC / Orlando Pirates FC",
+      "caps": 26,
+      "goals": 8,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -269,8 +803,36 @@
       "club_zh": "南非 奥兰多 Pirates FC",
       "club_en": "Orlando Pirates FC",
       "club": "南非 奥兰多 Pirates FC / Orlando Pirates FC",
+      "caps": 10,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 9,
@@ -282,8 +844,36 @@
       "club_zh": "英格兰 伯恩利 FC",
       "club_en": "Burnley FC",
       "club": "英格兰 伯恩利 FC / Burnley FC",
+      "caps": 27,
+      "goals": 10,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 10,
@@ -295,8 +885,36 @@
       "club_zh": "南非 奥兰多 Pirates FC",
       "club_en": "Orlando Pirates FC",
       "club": "南非 奥兰多 Pirates FC / Orlando Pirates FC",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 13,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 12,
@@ -308,8 +926,36 @@
       "club_zh": "塞浦路斯 AEL 利马索尔",
       "club_en": "AEL Limassol",
       "club": "塞浦路斯 AEL 利马索尔 / AEL Limassol",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 10,
+      "goals": 1,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 15,
@@ -321,8 +967,36 @@
       "club_zh": "南非 马梅洛迪 Sundowns FC",
       "club_en": "Mamelodi Sundowns FC",
       "club": "南非 马梅洛迪 Sundowns FC / Mamelodi Sundowns FC",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 14,
+      "goals": 4,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 17,
@@ -334,8 +1008,36 @@
       "club_zh": "南非 奥兰多 Pirates FC",
       "club_en": "Orlando Pirates FC",
       "club": "南非 奥兰多 Pirates FC / Orlando Pirates FC",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 26,
+      "goals": 6,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 25,
@@ -347,8 +1049,36 @@
       "club_zh": "南非 马梅洛迪 Sundowns FC",
       "club_en": "Mamelodi Sundowns FC",
       "club": "南非 马梅洛迪 Sundowns FC / Mamelodi Sundowns FC",
+      "caps": 3,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Mexico",
+          "date": "2026-06-11",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Czechia",
+          "date": "2026-06-18",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "South Korea",
+          "date": "2026-06-25",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Canada",
+          "date": "2026-06-28",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     }
   ]
 }

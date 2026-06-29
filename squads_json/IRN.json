@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "IRN",
   "team_name": "Iran",
   "group": "G",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/G_Iran.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,11 @@
       "club_zh": "大不里士拖拉机",
       "club_en": "Tractor",
       "club": "大不里士拖拉机 / Tractor",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 86,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 12,
@@ -35,8 +40,11 @@
       "club_zh": "波斯波利斯",
       "club_en": "Persepolis",
       "club": "波斯波利斯 / Persepolis",
+      "caps": 15,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 22,
@@ -48,8 +56,11 @@
       "club_zh": "塞帕罕",
       "club_en": "Sepahan",
       "club": "塞帕罕 / Sepahan",
+      "caps": 13,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 2,
@@ -61,34 +72,43 @@
       "club_zh": "德黑兰独立",
       "club_en": "Esteghlal",
       "club": "德黑兰独立 / Esteghlal",
+      "caps": 18,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 3,
       "position": "DF",
-      "name_zh": "埃赫桑·哈伊薩菲",
-      "name_en": "Ehsan HAJISAFI",
-      "name": "埃赫桑·哈伊薩菲 / Ehsan HAJISAFI",
+      "name_zh": "",
+      "name_en": "Ehsan Hajsafi",
+      "name": "Ehsan Hajsafi",
       "birth_date": "1990-02-25",
-      "club_zh": "伊朗 塞帕罕",
+      "club_zh": "",
       "club_en": "Sepahan",
-      "club": "伊朗 塞帕罕 / Sepahan",
+      "club": "Sepahan",
+      "caps": 146,
+      "goals": 7,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 4,
       "position": "DF",
-      "name_zh": "舒贾·哈利勒扎德",
-      "name_en": "Shoja KHALILZADEH",
-      "name": "舒贾·哈利勒扎德 / Shoja KHALILZADEH",
+      "name_zh": "",
+      "name_en": "Shojae Khalilzadeh",
+      "name": "Shojae Khalilzadeh",
       "birth_date": "1989-05-14",
-      "club_zh": "伊朗 大不里士拖拉机",
+      "club_zh": "",
       "club_en": "Tractor",
-      "club": "伊朗 大不里士拖拉机 / Tractor",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "Tractor",
+      "caps": 58,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 5,
@@ -100,21 +120,27 @@
       "club_zh": "波斯波利斯",
       "club_en": "Persepolis",
       "club": "波斯波利斯 / Persepolis",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 76,
+      "goals": 1,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 13,
       "position": "DF",
-      "name_zh": "侯赛因·卡纳尼",
-      "name_en": "Hossein KANANI",
-      "name": "侯赛因·卡纳尼 / Hossein KANANI",
+      "name_zh": "",
+      "name_en": "Hossein Kanaanizadegan",
+      "name": "Hossein Kanaanizadegan",
       "birth_date": "1994-03-23",
-      "club_zh": "伊朗 波斯波利斯",
+      "club_zh": "",
       "club_en": "Persepolis",
-      "club": "伊朗 波斯波利斯 / Persepolis",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "Persepolis",
+      "caps": 65,
+      "goals": 6,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 17,
@@ -126,8 +152,11 @@
       "club_zh": "伊朗 塞帕罕",
       "club_en": "Sepahan",
       "club": "伊朗 塞帕罕 / Sepahan",
+      "caps": 14,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 19,
@@ -139,8 +168,11 @@
       "club_zh": "富拉德",
       "club_en": "Foolad",
       "club": "富拉德 / Foolad",
+      "caps": 18,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 23,
@@ -152,21 +184,27 @@
       "club_zh": "富拉德",
       "club_en": "Foolad",
       "club": "富拉德 / Foolad",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 74,
+      "goals": 8,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 25,
       "position": "DF",
-      "name_zh": "达尼亚尔·埃里",
-      "name_en": "Danial IRI",
-      "name": "达尼亚尔·埃里 / Danial IRI",
+      "name_zh": "",
+      "name_en": "Danial Eiri",
+      "name": "Danial Eiri",
       "birth_date": "2003-10-26",
-      "club_zh": "伊朗 佐布阿汉",
-      "club_en": "Zob Ahan",
-      "club": "伊朗 佐布阿汉 / Zob Ahan",
+      "club_zh": "",
+      "club_en": "Malavan",
+      "club": "Malavan",
+      "caps": 0,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 6,
@@ -178,8 +216,11 @@
       "club_zh": "青年国民迪拜",
       "club_en": "Shabab Al-Ahli",
       "club": "青年国民迪拜 / Shabab Al-Ahli",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 83,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 7,
@@ -191,21 +232,27 @@
       "club_zh": "登德尔",
       "club_en": "Dender",
       "club": "登德尔 / Dender",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 99,
+      "goals": 17,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 8,
       "position": "MF",
-      "name_zh": "穆罕默德·莫赫比",
-      "name_en": "Mohammad MOHEBBI",
-      "name": "穆罕默德·莫赫比 / Mohammad MOHEBBI",
+      "name_zh": "",
+      "name_en": "Mohammad Mohebi",
+      "name": "Mohammad Mohebi",
       "birth_date": "1998-12-20",
-      "club_zh": "俄罗斯 罗斯托夫",
+      "club_zh": "",
       "club_en": "Rostov",
-      "club": "俄罗斯 罗斯托夫 / Rostov",
-      "is_starter": true,
-      "portrait_url": null
+      "club": "Rostov",
+      "caps": 37,
+      "goals": 14,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 14,
@@ -217,34 +264,43 @@
       "club_zh": "卡尔巴",
       "club_en": "Kalba",
       "club": "卡尔巴 / Kalba",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 68,
+      "goals": 3,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 15,
       "position": "MF",
-      "name_zh": "魯茲貝赫·切什米",
-      "name_en": "Roozbeh CHESHMI",
-      "name": "魯茲貝赫·切什米 / Roozbeh CHESHMI",
+      "name_zh": "",
+      "name_en": "Rouzbeh Cheshmi",
+      "name": "Rouzbeh Cheshmi",
       "birth_date": "1993-07-24",
-      "club_zh": "伊朗 德黑兰独立",
+      "club_zh": "",
       "club_en": "Esteghlal",
-      "club": "伊朗 德黑兰独立 / Esteghlal",
+      "club": "Esteghlal",
+      "caps": 40,
+      "goals": 3,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 16,
       "position": "MF",
-      "name_zh": "梅赫迪·托拉比",
-      "name_en": "Mehdi TORABI",
-      "name": "梅赫迪·托拉比 / Mehdi TORABI",
+      "name_zh": "",
+      "name_en": "Mahdi Torabi",
+      "name": "Mahdi Torabi",
       "birth_date": "1994-09-10",
-      "club_zh": "大不里士拖拉机",
+      "club_zh": "",
       "club_en": "Tractor",
-      "club": "大不里士拖拉机 / Tractor",
+      "club": "Tractor",
+      "caps": 52,
+      "goals": 7,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 21,
@@ -256,21 +312,27 @@
       "club_zh": "阿尔瓦赫达",
       "club_en": "Al-Wahda",
       "club": "阿尔瓦赫达 / Al-Wahda",
+      "caps": 16,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 26,
       "position": "MF",
-      "name_zh": "阿米尔穆罕默德·拉扎吉尼亚",
-      "name_en": "Amirmohammad RAZAGHINIA",
-      "name": "阿米尔穆罕默德·拉扎吉尼亚 / Amirmohammad RAZAGHINIA",
+      "name_zh": "",
+      "name_en": "Amirmohammad Razzaghinia",
+      "name": "Amirmohammad Razzaghinia",
       "birth_date": "2006-04-11",
-      "club_zh": "伊朗 德黑兰独立",
+      "club_zh": "",
       "club_en": "Esteghlal",
-      "club": "伊朗 德黑兰独立 / Esteghlal",
+      "club": "Esteghlal",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 9,
@@ -282,8 +344,11 @@
       "club_zh": "奥林匹亚科斯",
       "club_en": "Olympiacos",
       "club": "奥林匹亚科斯 / Olympiacos",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 105,
+      "goals": 60,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 10,
@@ -295,8 +360,11 @@
       "club_zh": "迪拜胜利",
       "club_en": "Al-Nasr",
       "club": "迪拜胜利 / Al-Nasr",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 30,
+      "goals": 10,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 11,
@@ -308,8 +376,11 @@
       "club_zh": "波斯波利斯",
       "club_en": "Persepolis",
       "club": "波斯波利斯 / Persepolis",
+      "caps": 14,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 18,
@@ -321,34 +392,43 @@
       "club_zh": "大不里士拖拉机",
       "club_en": "Tractor",
       "club": "大不里士拖拉机 / Tractor",
+      "caps": 18,
+      "goals": 5,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 20,
       "position": "FW",
-      "name_zh": "沙里亚尔·莫汉卢",
-      "name_en": "Shahriyar MOGHANLOO",
-      "name": "沙里亚尔·莫汉卢 / Shahriyar MOGHANLOO",
+      "name_zh": "",
+      "name_en": "Shahriyar Moghanlou",
+      "name": "Shahriyar Moghanlou",
       "birth_date": "1994-12-21",
-      "club_zh": "阿联酋 卡尔巴",
+      "club_zh": "",
       "club_en": "Kalba",
-      "club": "阿联酋 卡尔巴 / Kalba",
+      "club": "Kalba",
+      "caps": 21,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 24,
       "position": "FW",
-      "name_zh": "丹尼斯·埃克特",
-      "name_en": "Dennis DARGAHI",
-      "name": "丹尼斯·埃克特 / Dennis DARGAHI",
+      "name_zh": "",
+      "name_en": "Dennis Eckert",
+      "name": "Dennis Eckert",
       "birth_date": "1997-01-09",
-      "club_zh": "伊朗 马拉万",
-      "club_en": "Malavan",
-      "club": "伊朗 马拉万 / Malavan",
+      "club_zh": "",
+      "club_en": "Standard Liège",
+      "club": "Standard Liège",
+      "caps": 0,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     }
   ]
 }

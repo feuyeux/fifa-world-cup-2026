@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "NZL",
   "team_name": "New Zealand",
   "group": "G",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/G_New Zealand.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "英格兰 米尔沃尔",
       "club_en": "Millwall",
       "club": "英格兰 米尔沃尔 / Millwall",
+      "caps": 24,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 12,
@@ -35,8 +59,30 @@
       "club_zh": "波兰 格但斯克莱吉亚",
       "club_en": "Lechia Gdańsk",
       "club": "波兰 格但斯克莱吉亚 / Lechia Gdańsk",
+      "caps": 8,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 22,
@@ -48,8 +94,30 @@
       "club_zh": "新西兰 奥克兰FC",
       "club_en": "Auckland FC",
       "club": "新西兰 奥克兰FC / Auckland FC",
+      "caps": 6,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "新西兰 惠灵顿凤凰",
       "club_en": "Wellington Phoenix",
       "club": "新西兰 惠灵顿凤凰 / Wellington Phoenix",
+      "caps": 51,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "新西兰 奥克兰FC",
       "club_en": "Auckland FC",
       "club": "新西兰 奥克兰FC / Auckland FC",
+      "caps": 20,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "谢菲尔德联",
       "club_en": "Sheffield United",
       "club": "谢菲尔德联 / Sheffield United",
+      "caps": 25,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,8 +234,30 @@
       "club_zh": "美国 明尼苏达联",
       "club_en": "Minnesota United FC",
       "club": "美国 明尼苏达联 / Minnesota United FC",
+      "caps": 63,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 13,
@@ -113,8 +269,30 @@
       "club_zh": "雷克瑟姆",
       "club_en": "Wrexham",
       "club": "雷克瑟姆 / Wrexham",
+      "caps": 37,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 15,
@@ -126,8 +304,30 @@
       "club_zh": "新西兰 奥克兰FC",
       "club_en": "Auckland FC",
       "club": "新西兰 奥克兰FC / Auckland FC",
+      "caps": 25,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 16,
@@ -139,8 +339,30 @@
       "club_zh": "美国 波特兰伐木工",
       "club_en": "Portland Timbers",
       "club": "美国 波特兰伐木工 / Portland Timbers",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 19,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 24,
@@ -152,8 +374,30 @@
       "club_zh": "新西兰 奥克兰FC",
       "club_en": "Auckland FC",
       "club": "新西兰 奥克兰FC / Auckland FC",
+      "caps": 11,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -165,8 +409,30 @@
       "club_zh": "英格兰 布伦特里镇",
       "club_en": "Braintree Town",
       "club": "英格兰 布伦特里镇 / Braintree Town",
+      "caps": 56,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 6,
@@ -178,8 +444,30 @@
       "club_zh": "挪威 维京",
       "club_en": "Viking",
       "club": "挪威 维京 / Viking",
+      "caps": 32,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -191,8 +479,30 @@
       "club_zh": "斯旺西城",
       "club_en": "Swansea City",
       "club": "斯旺西城 / Swansea City",
+      "caps": 39,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 10,
@@ -204,8 +514,30 @@
       "club_zh": "新西兰 惠灵顿凤凰",
       "club_en": "Wellington Phoenix",
       "club": "新西兰 惠灵顿凤凰 / Wellington Phoenix",
+      "caps": 28,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 11,
@@ -217,8 +549,30 @@
       "club_zh": "苏格兰 马瑟韦尔",
       "club_en": "Motherwell",
       "club": "苏格兰 马瑟韦尔 / Motherwell",
+      "caps": 44,
+      "goals": 9,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 14,
@@ -230,8 +584,30 @@
       "club_zh": "新西兰 惠灵顿凤凰",
       "club_en": "Wellington Phoenix",
       "club": "新西兰 惠灵顿凤凰 / Wellington Phoenix",
+      "caps": 26,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 19,
@@ -243,8 +619,30 @@
       "club_zh": "法国 圣埃蒂安",
       "club_en": "Saint-Étienne",
       "club": "法国 圣埃蒂安 / Saint-Étienne",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 24,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 20,
@@ -256,8 +654,30 @@
       "club_zh": "丹麦 锡尔克堡",
       "club_en": "Silkeborg",
       "club": "丹麦 锡尔克堡 / Silkeborg",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 32,
+      "goals": 4,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 23,
@@ -269,8 +689,30 @@
       "club_zh": "兹沃勒",
       "club_en": "PEC Zwolle",
       "club": "兹沃勒 / PEC Zwolle",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 25,
+      "goals": 3,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 25,
@@ -282,8 +724,30 @@
       "club_zh": "澳大利亚 纽卡斯尔喷气机",
       "club_en": "Newcastle Jets",
       "club": "澳大利亚 纽卡斯尔喷气机 / Newcastle Jets",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 7,
@@ -295,8 +759,30 @@
       "club_zh": "新西兰 奥克兰FC",
       "club_en": "Auckland FC",
       "club": "新西兰 奥克兰FC / Auckland FC",
+      "caps": 18,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 9,
@@ -308,8 +794,30 @@
       "club_zh": "诺丁汉森林",
       "club_en": "Nottingham Forest",
       "club": "诺丁汉森林 / Nottingham Forest",
+      "caps": 90,
+      "goals": 45,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 17,
@@ -321,8 +829,30 @@
       "club_zh": "澳大利亚 西悉尼流浪者",
       "club_en": "Western Sydney Wanderers",
       "club": "澳大利亚 西悉尼流浪者 / Western Sydney Wanderers",
+      "caps": 76,
+      "goals": 10,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 18,
@@ -334,8 +864,30 @@
       "club_zh": "英格兰 维尔港",
       "club_en": "Port Vale",
       "club": "英格兰 维尔港 / Port Vale",
+      "caps": 31,
+      "goals": 9,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 21,
@@ -347,8 +899,30 @@
       "club_zh": "新西兰 奥克兰FC",
       "club_en": "Auckland FC",
       "club": "新西兰 奥克兰FC / Auckland FC",
+      "caps": 11,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Iran",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Egypt",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     }
   ]
 }

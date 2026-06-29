@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "FRA",
   "team_name": "France",
   "group": "I",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/I_France.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "雷恩",
       "club_en": "Rennes",
       "club": "雷恩 / Rennes",
+      "caps": 4,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 16,
@@ -35,8 +59,30 @@
       "club_zh": "AC米兰",
       "club_en": "Milan",
       "club": "AC米兰 / Milan",
+      "caps": 40,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 23,
@@ -48,8 +94,30 @@
       "club_zh": "朗斯",
       "club_en": "Lens",
       "club": "朗斯 / Lens",
+      "caps": 0,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "切尔西",
       "club_en": "Chelsea",
       "club": "切尔西 / Chelsea",
+      "caps": 11,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "阿斯顿维拉",
       "club_en": "Aston Villa",
       "club": "阿斯顿维拉 / Aston Villa",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 58,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "拜仁慕尼黑",
       "club_en": "Bayern Munich",
       "club": "拜仁慕尼黑 / Bayern Munich",
+      "caps": 38,
+      "goals": 2,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,8 +234,30 @@
       "club_zh": "巴塞罗那",
       "club_en": "Barcelona",
       "club": "巴塞罗那 / Barcelona",
+      "caps": 48,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 15,
@@ -113,8 +269,30 @@
       "club_zh": "利物浦",
       "club_en": "Liverpool",
       "club": "利物浦 / Liverpool",
+      "caps": 28,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 17,
@@ -126,8 +304,30 @@
       "club_zh": "阿森纳",
       "club_en": "Arsenal",
       "club": "阿森纳 / Arsenal",
+      "caps": 32,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 19,
@@ -139,8 +339,30 @@
       "club_zh": "利雅得新月",
       "club_en": "Al-Hilal",
       "club": "利雅得新月 / Al-Hilal",
+      "caps": 44,
+      "goals": 2,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 21,
@@ -152,8 +374,30 @@
       "club_zh": "巴黎圣日耳曼",
       "club_en": "Paris Saint-Germain",
       "club": "巴黎圣日耳曼 / Paris Saint-Germain",
+      "caps": 42,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -165,8 +409,30 @@
       "club_zh": "水晶宫",
       "club_en": "Crystal Palace",
       "club": "水晶宫 / Crystal Palace",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 4,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 6,
@@ -178,8 +444,30 @@
       "club_zh": "罗马",
       "club_en": "Roma",
       "club": "罗马 / Roma",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 14,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -191,8 +479,30 @@
       "club_zh": "皇家马德里",
       "club_en": "Real Madrid",
       "club": "皇家马德里 / Real Madrid",
+      "caps": 46,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 13,
@@ -204,8 +514,30 @@
       "club_zh": "费内巴切",
       "club_en": "Fenerbahçe",
       "club": "费内巴切 / Fenerbahçe",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 69,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 14,
@@ -217,8 +549,30 @@
       "club_zh": "AC米兰",
       "club_en": "Milan",
       "club": "AC米兰 / Milan",
+      "caps": 59,
+      "goals": 7,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 18,
@@ -230,8 +584,30 @@
       "club_zh": "巴黎圣日耳曼",
       "club_en": "Paris Saint-Germain",
       "club": "巴黎圣日耳曼 / Paris Saint-Germain",
+      "caps": 11,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 24,
@@ -243,8 +619,30 @@
       "club_zh": "曼城",
       "club_en": "Manchester City",
       "club": "曼城 / Manchester City",
+      "caps": 7,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 25,
@@ -256,8 +654,30 @@
       "club_zh": "摩纳哥",
       "club_en": "Monaco",
       "club": "摩纳哥 / Monaco",
+      "caps": 9,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 7,
@@ -269,8 +689,30 @@
       "club_zh": "巴黎圣日耳曼",
       "club_en": "Paris Saint-Germain",
       "club": "巴黎圣日耳曼 / Paris Saint-Germain",
+      "caps": 59,
+      "goals": 7,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 9,
@@ -282,8 +724,30 @@
       "club_zh": "国际米兰",
       "club_en": "Inter Milan",
       "club": "国际米兰 / Inter Milan",
+      "caps": 34,
+      "goals": 3,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 10,
@@ -295,8 +759,30 @@
       "club_zh": "皇家马德里",
       "club_en": "Real Madrid",
       "club": "皇家马德里 / Real Madrid",
+      "caps": 98,
+      "goals": 56,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 11,
@@ -308,8 +794,30 @@
       "club_zh": "拜仁慕尼黑",
       "club_en": "Bayern Munich",
       "club": "拜仁慕尼黑 / Bayern Munich",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 17,
+      "goals": 7,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 12,
@@ -321,8 +829,30 @@
       "club_zh": "巴黎圣日耳曼",
       "club_en": "Paris Saint-Germain",
       "club": "巴黎圣日耳曼 / Paris Saint-Germain",
+      "caps": 20,
+      "goals": 3,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 20,
@@ -334,8 +864,30 @@
       "club_zh": "巴黎圣日耳曼",
       "club_en": "Paris Saint-Germain",
       "club": "巴黎圣日耳曼 / Paris Saint-Germain",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 7,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 22,
@@ -347,8 +899,30 @@
       "club_zh": "水晶宫",
       "club_en": "Crystal Palace",
       "club": "水晶宫 / Crystal Palace",
+      "caps": 4,
+      "goals": 2,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     }
   ]
 }

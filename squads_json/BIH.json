@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "BIH",
   "team_name": "Bosnia-Herzegovina",
   "group": "B",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/B_Bosnia-Herzegovina.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,11 @@
       "club_zh": "德国 圣保利",
       "club_en": "St. Pauli",
       "club": "德国 圣保利 / St. Pauli",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 26,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 12,
@@ -35,8 +40,11 @@
       "club_zh": "波黑 巴尼亚卢卡战士",
       "club_en": "Borac Banja Luka",
       "club": "波黑 巴尼亚卢卡战士 / Borac Banja Luka",
+      "caps": 0,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 22,
@@ -48,8 +56,11 @@
       "club_zh": "克罗地亚 里耶卡",
       "club_en": "Rijeka",
       "club": "克罗地亚 里耶卡 / Rijeka",
+      "caps": 3,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 2,
@@ -61,8 +72,11 @@
       "club_zh": "土耳其 加济安泰普",
       "club_en": "Gaziantep",
       "club": "土耳其 加济安泰普 / Gaziantep",
+      "caps": 12,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 3,
@@ -74,8 +88,11 @@
       "club_zh": "意大利 桑普多利亚",
       "club_en": "Sampdoria",
       "club": "意大利 桑普多利亚 / Sampdoria",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 32,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 4,
@@ -87,8 +104,11 @@
       "club_zh": "意大利 萨索洛",
       "club_en": "Sassuolo",
       "club": "意大利 萨索洛 / Sassuolo",
+      "caps": 14,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 5,
@@ -100,8 +120,11 @@
       "club_zh": "意大利 亚特兰大",
       "club_en": "Atalanta",
       "club": "意大利 亚特兰大 / Atalanta",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 65,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 7,
@@ -113,8 +136,11 @@
       "club_zh": "葡萄牙 本菲卡",
       "club_en": "Benfica",
       "club": "葡萄牙 本菲卡 / Benfica",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 28,
+      "goals": 1,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 18,
@@ -126,8 +152,11 @@
       "club_zh": "德国 沙尔克04",
       "club_en": "Schalke 04",
       "club": "德国 沙尔克04 / Schalke 04",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 17,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 21,
@@ -139,8 +168,11 @@
       "club_zh": "克罗地亚 里耶卡",
       "club_en": "Rijeka",
       "club": "克罗地亚 里耶卡 / Rijeka",
+      "caps": 5,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 24,
@@ -152,8 +184,11 @@
       "club_zh": "奥地利 格拉茨风暴",
       "club_en": "SK Sturm Graz",
       "club": "奥地利 格拉茨风暴 / SK Sturm Graz",
+      "caps": 8,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 6,
@@ -165,8 +200,11 @@
       "club_zh": "丹麦 布隆德比",
       "club_en": "Brøndby",
       "club": "丹麦 布隆德比 / Brøndby",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 28,
+      "goals": 2,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 8,
@@ -178,8 +216,11 @@
       "club_zh": "瑞士 年轻人",
       "club_en": "Young Boys",
       "club": "瑞士 年轻人 / Young Boys",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 20,
+      "goals": 1,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 13,
@@ -191,8 +232,11 @@
       "club_zh": "哈萨克斯坦 阿斯塔纳",
       "club_en": "Astana",
       "club": "哈萨克斯坦 阿斯塔纳 / Astana",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 17,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 14,
@@ -204,8 +248,11 @@
       "club_zh": "塞浦路斯 帕福斯",
       "club_en": "Pafos",
       "club": "塞浦路斯 帕福斯 / Pafos",
+      "caps": 11,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 15,
@@ -217,8 +264,11 @@
       "club_zh": "捷克 比尔森胜利",
       "club_en": "Viktoria Plzeň",
       "club": "捷克 比尔森胜利 / Viktoria Plzeň",
+      "caps": 13,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 16,
@@ -230,8 +280,11 @@
       "club_zh": "英格兰 赫尔城",
       "club_en": "Hull City",
       "club": "英格兰 赫尔城 / Hull City",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 36,
+      "goals": 0,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 17,
@@ -243,8 +296,11 @@
       "club_zh": "德国 卡尔斯鲁厄",
       "club_en": "Karlsruher SC",
       "club": "德国 卡尔斯鲁厄 / Karlsruher SC",
+      "caps": 20,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 26,
@@ -256,8 +312,11 @@
       "club_zh": "捷克 利贝雷茨斯拉维亚",
       "club_en": "Slovan Liberec",
       "club": "捷克 利贝雷茨斯拉维亚 / Slovan Liberec",
+      "caps": 2,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 9,
@@ -269,8 +328,11 @@
       "club_zh": "波兰 雅盖隆",
       "club_en": "Jagiellonia Białystok",
       "club": "波兰 雅盖隆 / Jagiellonia Białystok",
+      "caps": 13,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 10,
@@ -282,8 +344,11 @@
       "club_zh": "德国 斯图加特",
       "club_en": "VfB Stuttgart",
       "club": "德国 斯图加特 / VfB Stuttgart",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 40,
+      "goals": 4,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 11,
@@ -295,8 +360,11 @@
       "club_zh": "德国 沙尔克04",
       "club_en": "Schalke 04",
       "club": "德国 沙尔克04 / Schalke 04",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 148,
+      "goals": 73,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 19,
@@ -308,8 +376,11 @@
       "club_zh": "奥地利 萨尔茨堡红牛",
       "club_en": "Red Bull Salzburg",
       "club": "奥地利 萨尔茨堡红牛 / Red Bull Salzburg",
+      "caps": 10,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 20,
@@ -321,8 +392,11 @@
       "club_zh": "荷兰 埃因霍温",
       "club_en": "PSV Eindhoven",
       "club": "荷兰 埃因霍温 / PSV Eindhoven",
+      "caps": 16,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 23,
@@ -334,8 +408,11 @@
       "club_zh": "德国 门兴格拉德巴赫",
       "club_en": "Borussia Mönchengladbach",
       "club": "德国 门兴格拉德巴赫 / Borussia Mönchengladbach",
+      "caps": 10,
+      "goals": 4,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     },
     {
       "number": 25,
@@ -347,8 +424,11 @@
       "club_zh": "罗马尼亚 克卢日大学",
       "club_en": "Universitatea Cluj",
       "club": "罗马尼亚 克卢日大学 / Universitatea Cluj",
+      "caps": 3,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": []
     }
   ]
 }

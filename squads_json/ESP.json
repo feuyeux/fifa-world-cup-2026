@@ -1,15 +1,17 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "team_id": "ESP",
   "team_name": "Spain",
   "group": "H",
   "squad_size": 26,
-  "is_official_fifa_size": false,
+  "is_official_fifa_size": true,
   "source_md": "squads/H_Spain.md",
   "metadata": {
-    "generated_at": "2026-06-18T01:40:11Z",
+    "generated_at": "2026-06-29T08:11:16Z",
     "generator": "tools/squad_to_json.py",
-    "portrait_url_pending_source": "TBD by phase 2; current value is null across all records"
+    "data_source": "Wikipedia 2026 FIFA World Cup squads + ESPN API",
+    "squad_size_announced_at": "2026-06-11",
+    "group_stage_completed_at": "2026-06-29"
   },
   "players": [
     {
@@ -22,8 +24,30 @@
       "club_zh": "阿森纳",
       "club_en": "Arsenal",
       "club": "阿森纳 / Arsenal",
+      "caps": 13,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 13,
@@ -35,8 +59,30 @@
       "club_zh": "巴塞罗那",
       "club_en": "Barcelona",
       "club": "巴塞罗那 / Barcelona",
+      "caps": 2,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 23,
@@ -48,8 +94,30 @@
       "club_zh": "西班牙 毕尔巴鄂竞技",
       "club_en": "Athletic Bilbao",
       "club": "西班牙 毕尔巴鄂竞技 / Athletic Bilbao",
+      "caps": 58,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 2,
@@ -61,8 +129,30 @@
       "club_zh": "西班牙 马德里竞技",
       "club_en": "Atlético Madrid",
       "club": "西班牙 马德里竞技 / Atlético Madrid",
+      "caps": 2,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 3,
@@ -74,8 +164,30 @@
       "club_zh": "德国 勒沃库森",
       "club_en": "Bayer Leverkusen",
       "club": "德国 勒沃库森 / Bayer Leverkusen",
+      "caps": 14,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "dnp",
+          "minutes": 0
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "dnp",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 4,
@@ -87,8 +199,30 @@
       "club_zh": "巴塞罗那",
       "club_en": "Barcelona",
       "club": "巴塞罗那 / Barcelona",
+      "caps": 21,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 5,
@@ -100,8 +234,30 @@
       "club_zh": "西班牙 马德里竞技",
       "club_en": "Atlético Madrid",
       "club": "西班牙 马德里竞技 / Atlético Madrid",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 24,
+      "goals": 0,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 12,
@@ -113,8 +269,30 @@
       "club_zh": "热刺",
       "club_en": "Tottenham Hotspur",
       "club": "热刺 / Tottenham Hotspur",
+      "caps": 18,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 14,
@@ -126,8 +304,30 @@
       "club_zh": "西班牙 毕尔巴鄂竞技",
       "club_en": "Athletic Bilbao",
       "club": "西班牙 毕尔巴鄂竞技 / Athletic Bilbao",
+      "caps": 46,
+      "goals": 2,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 22,
@@ -139,8 +339,30 @@
       "club_zh": "巴塞罗那",
       "club_en": "Barcelona",
       "club": "巴塞罗那 / Barcelona",
+      "caps": 12,
+      "goals": 0,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 24,
@@ -152,8 +374,30 @@
       "club_zh": "切尔西",
       "club_en": "Chelsea",
       "club": "切尔西 / Chelsea",
+      "caps": 24,
+      "goals": 1,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 6,
@@ -165,8 +409,30 @@
       "club_zh": "阿森纳",
       "club_en": "Arsenal",
       "club": "阿森纳 / Arsenal",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 43,
+      "goals": 10,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 8,
@@ -178,8 +444,30 @@
       "club_zh": "巴黎圣日耳曼",
       "club_en": "Paris Saint-Germain",
       "club": "巴黎圣日耳曼 / Paris Saint-Germain",
+      "caps": 42,
+      "goals": 6,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 9,
@@ -191,8 +479,30 @@
       "club_zh": "巴塞罗那",
       "club_en": "Barcelona",
       "club": "巴塞罗那 / Barcelona",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 30,
+      "goals": 5,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 15,
@@ -204,8 +514,30 @@
       "club_zh": "西班牙 马德里竞技",
       "club_en": "Atlético Madrid",
       "club": "西班牙 马德里竞技 / Atlético Madrid",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 17,
+      "goals": 2,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 16,
@@ -217,8 +549,30 @@
       "club_zh": "曼城",
       "club_en": "Manchester City",
       "club": "曼城 / Manchester City",
+      "caps": 62,
+      "goals": 4,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 18,
@@ -230,8 +584,30 @@
       "club_zh": "阿森纳",
       "club_en": "Arsenal",
       "club": "阿森纳 / Arsenal",
+      "caps": 26,
+      "goals": 3,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 20,
@@ -243,8 +619,30 @@
       "club_zh": "巴塞罗那",
       "club_en": "Barcelona",
       "club": "巴塞罗那 / Barcelona",
+      "caps": 41,
+      "goals": 6,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 7,
@@ -256,8 +654,30 @@
       "club_zh": "巴塞罗那",
       "club_en": "Barcelona",
       "club": "巴塞罗那 / Barcelona",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 57,
+      "goals": 24,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 10,
@@ -269,8 +689,30 @@
       "club_zh": "巴塞罗那",
       "club_en": "Barcelona",
       "club": "巴塞罗那 / Barcelona",
+      "caps": 50,
+      "goals": 12,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 11,
@@ -282,8 +724,30 @@
       "club_zh": "水晶宫",
       "club_en": "Crystal Palace",
       "club": "水晶宫 / Crystal Palace",
+      "caps": 23,
+      "goals": 4,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 17,
@@ -295,8 +759,30 @@
       "club_zh": "西班牙 毕尔巴鄂竞技",
       "club_en": "Athletic Bilbao",
       "club": "西班牙 毕尔巴鄂竞技 / Athletic Bilbao",
-      "is_starter": true,
-      "portrait_url": null
+      "caps": 30,
+      "goals": 6,
+      "is_starter": false,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "sub",
+          "minutes": null
+        }
+      ]
     },
     {
       "number": 19,
@@ -308,8 +794,30 @@
       "club_zh": "巴塞罗那",
       "club_en": "Barcelona",
       "club": "巴塞罗那 / Barcelona",
+      "caps": 25,
+      "goals": 6,
       "is_starter": true,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "sub",
+          "minutes": null
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 21,
@@ -321,8 +829,30 @@
       "club_zh": "皇家社会",
       "club_en": "Real Sociedad",
       "club": "皇家社会 / Real Sociedad",
-      "is_starter": false,
-      "portrait_url": null
+      "caps": 53,
+      "goals": 25,
+      "is_starter": true,
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "starter",
+          "minutes": 90
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "starter",
+          "minutes": 90
+        }
+      ]
     },
     {
       "number": 25,
@@ -334,8 +864,30 @@
       "club_zh": "奥萨苏纳",
       "club_en": "Osasuna",
       "club": "奥萨苏纳 / Osasuna",
+      "caps": 2,
+      "goals": 1,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     },
     {
       "number": 26,
@@ -347,8 +899,30 @@
       "club_zh": "西班牙 塞尔塔",
       "club_en": "Celta Vigo",
       "club": "西班牙 塞尔塔 / Celta Vigo",
+      "caps": 8,
+      "goals": 0,
       "is_starter": false,
-      "portrait_url": null
+      "portrait_url": null,
+      "appearances": [
+        {
+          "opponent": "Cape Verde",
+          "date": "2026-06-15",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "role": "unused",
+          "minutes": 0
+        },
+        {
+          "opponent": "Uruguay",
+          "date": "2026-06-27",
+          "role": "unused",
+          "minutes": 0
+        }
+      ]
     }
   ]
 }
