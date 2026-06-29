@@ -1,9 +1,7 @@
 ### Qatar 卡塔尔
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Switzerland | vs Canada | vs Bosnia-Herzegovina |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Switzerland | vs Canada | vs Bosnia-Herzegovina |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | Mahmud Abunada | 2000-02-05 | 卡塔尔 阿尔赖扬 / Al-Rayyan | - | 6 | 0 | - | - | - |
 | 21 | GK | 萨拉亚·扎卡里亚 / SALAH ZAKARIA | 1999-04-24 | 卡塔尔 艾多哈尼 / Al-Duhail | - | 8 | 0 | - | - | - |
 | 22 | GK | 马沙尔·埃萨·巴尔沙姆 / MESHAAL BARSHAM | 1998-02-14 | 卡塔尔 萨德 / Al-Sadd | - | 52 | 0 | - | - | - |

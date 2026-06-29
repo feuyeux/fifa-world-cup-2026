@@ -1,9 +1,7 @@
 ### South Africa 南非
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Mexico | vs Czechia | vs South Korea | vs Canada |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Mexico | vs Czechia | vs South Korea | vs Canada |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 朗文·威廉姆斯 / Ronwen WILLIAMS | 1992-01-21 | 南非 马梅洛迪日落 / Mamelodi Sundowns | Y | 62 | 0 | 90' | 90' | 90' | 90' |
 | 16 | GK | 西波·查因 / Sipho CHAINE | 1996-12-14 | 南非 奥兰多海盗 / Orlando Pirates | - | 4 | 0 | - | - | - | - |
 | 22 | GK | 里卡多·戈斯 / Ricardo GOSS | 1994-04-02 | 南非 西韦莱莱 / Siwelele | - | 5 | 0 | - | - | - | - |

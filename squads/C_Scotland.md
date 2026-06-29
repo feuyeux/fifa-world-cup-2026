@@ -1,9 +1,7 @@
 ### Scotland 苏格兰
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Haiti | vs Morocco | vs Brazil |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Haiti | vs Morocco | vs Brazil |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 安格斯·冈恩 / Angus Gunn | 1996-01-22 | 诺丁汉森林 / Nottingham Forest | Y | 22 | 0 | 90' | 90' | 90' |
 | 12 | GK | 利亚姆·凯利 / Liam KELLY | 1996-01-23 | 苏格兰 流浪者 / Rangers | - | 3 | 0 | - | - | - |
 | 21 | GK | 克雷格·戈登 / Craig GORDON | 1982-12-31 | 哈茨 / Heart of Midlothian | - | 84 | 0 | - | - | - |

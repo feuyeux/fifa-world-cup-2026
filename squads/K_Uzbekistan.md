@@ -1,9 +1,7 @@
 ### Uzbekistan 乌兹别克斯坦
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Colombia | vs Portugal | vs Congo DR |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Colombia | vs Portugal | vs Congo DR |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 乌特基尔·尤苏波夫 / Utkir YUSUPOV | 1991-01-04 | 乌兹别克斯坦 纳夫巴霍尔·纳曼干 / Navbahor Namangan | Y | 40 | 0 | 90' | - | - |
 | 12 | GK | 阿卜杜瓦希德·涅马托夫 / Abduvohid NEMATOV | 2001-03-20 | 乌兹别克斯坦 纳萨夫 / Nasaf | Y | 8 | 0 | - | 90' | 90' |
 | 16 | GK | 博蒂拉利·埃尔加舍夫 / Botirali ERGASHEV | 1995-06-23 | 乌兹别克斯坦 纳弗奇·费尔干纳 / Neftchi Fergana | - | 2 | 0 | - | - | - |

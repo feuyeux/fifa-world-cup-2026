@@ -1,9 +1,7 @@
 ### Canada 加拿大
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Bosnia-Herzegovina | vs Qatar | vs Switzerland | vs South Africa |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Bosnia-Herzegovina | vs Qatar | vs Switzerland | vs South Africa |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 戴恩·圣克莱尔 / Dayne ST. CLAIR | 1997-05-09 | 美国 迈阿密国际 / Inter Miami CF | - | 20 | 0 | - | - | - | - |
 | 16 | GK | 马克西姆·克雷波 / Maxime CREPEAU | 1994-05-11 | 美国 奥兰多城 / Orlando City SC | Y | 32 | 0 | 90' | 90' | 90' | 90' |
 | 18 | GK | 欧文·古德曼 / Owen GOODMAN | 2003-11-27 | 英格兰 巴恩斯利 / Barnsley | - | 0 | 0 | - | - | - | - |

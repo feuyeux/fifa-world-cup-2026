@@ -1,9 +1,7 @@
 ### Australia 澳大利亚
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Türkiye | vs United States | vs Paraguay |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Türkiye | vs United States | vs Paraguay |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 马修·瑞恩 / Mathew RYAN | 1992-04-08 | 西班牙 莱万特 / Levante | - | 104 | 0 | - | - | - |
 | 12 | GK | Paul Izzo / Paul Izzo | 1995-01-06 | 丹麦 兰讷斯 / Randers | - | 4 | 0 | - | - | - |
 | 18 | GK | Patrick Beach / Patrick BEACH | 2003-08-06 | 澳大利亚 墨尔本城 / Melbourne City | Y | 2 | 0 | 90' | 90' | 90' |

@@ -1,9 +1,7 @@
 ### England 英格兰
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Croatia | vs Ghana | vs Panama |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Croatia | vs Ghana | vs Panama |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 乔丹·皮克福德 / Jordan PICKFORD | 1994-03-07 | 埃弗顿 / Everton | Y | 84 | 0 | 90' | 90' | 90' |
 | 13 | GK | 迪恩·亨德森 / Dean Henderson | 1997-03-12 | 英格兰 水晶宫 / Crystal Palace | - | 5 | 0 | - | - | - |
 | 23 | GK | 詹姆斯·特拉福德 / James TRAFFORD | 2002-10-10 | 曼城 / Manchester City | - | 2 | 0 | - | - | - |

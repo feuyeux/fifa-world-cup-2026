@@ -1,9 +1,7 @@
 ### DR Congo 刚果民主共和国
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Portugal | vs Colombia | vs Uzbekistan |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Portugal | vs Colombia | vs Uzbekistan |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 利昂内尔·姆帕西 / Lionel MPASI | 1994-08-01 | 勒阿弗尔 / Le Havre | Y | 29 | 0 | 90' | 90' | 90' |
 | 16 | GK | 蒂莫西·法尤鲁 / Timothy FAYULU | 1999-07-24 | 诺亚 / Noah | - | 3 | 0 | - | - | - |
 | 21 | GK | 马修·埃波洛 / Matthieu EPOLO | 2005-01-15 | 比利时 标准列日 / Standard Liège | - | 1 | 0 | - | - | - |

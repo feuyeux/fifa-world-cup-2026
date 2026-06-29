@@ -1,9 +1,7 @@
 ### Czech Republic 捷克
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs South Korea | vs South Africa | vs Mexico |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs South Korea | vs South Africa | vs Mexico |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 马泰·科瓦尔 / Matej KOVAR | 2000-05-17 | 荷兰 PSV埃因霍温 / PSV Eindhoven | Y | 20 | 0 | 90' | 90' | 90' |
 | 16 | GK | 英德日赫·斯塔尼克 / Jindrich STANEK | 1996-04-27 | 捷克 布拉格斯拉维亚 / Slavia Prague | - | 14 | 0 | - | - | - |
 | 23 | GK | 卢卡斯·霍尼切克 / Lukas HORNICEK | 2002-07-13 | 葡萄牙 布拉加 / Braga | - | 1 | 0 | - | - | - |

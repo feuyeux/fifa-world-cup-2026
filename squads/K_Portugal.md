@@ -1,9 +1,7 @@
 ### Portugal 葡萄牙
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Congo DR | vs Uzbekistan | vs Colombia |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Congo DR | vs Uzbekistan | vs Colombia |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 迪奥戈·科斯塔 / DIOGO COSTA | 1999-09-19 | 波尔图 / Porto | Y | 43 | 0 | 90' | 90' | 90' |
 | 12 | GK | 若泽·萨 / JOSE SA | 1993-01-17 | 英格兰 狼队 / Wolverhampton Wanderers | - | 5 | 0 | - | - | - |
 | 22 | GK | 鲁伊·席尔瓦 / RUI SILVA | 1994-02-07 | 葡萄牙体育 / Sporting CP | - | 3 | 0 | - | - | - |

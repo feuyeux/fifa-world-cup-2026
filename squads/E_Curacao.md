@@ -1,9 +1,7 @@
 ### Curaçao 库拉索
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Germany | vs Ecuador | vs Ivory Coast |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Germany | vs Ecuador | vs Ivory Coast |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 埃洛伊·鲁姆 / Eloy ROOM | 1989-02-06 | 迈阿密FC / Miami FC | Y | 71 | 0 | 90' | 90' | 90' |
 | 25 | GK | 泰里克·博达克 / Tyrick BODAK | 2002-05-15 | 特尔斯达 / Telstar | - | 4 | 0 | - | - | - |
 | 26 | GK | 特雷弗·杜恩布什 / Trevor DOORNBUSCH | 1999-07-06 | 芬洛 / VVV-Venlo | - | 8 | 0 | - | - | - |

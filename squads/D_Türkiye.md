@@ -1,9 +1,7 @@
 ### Turkey 土耳其
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Australia | vs Paraguay | vs United States |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Australia | vs Paraguay | vs United States |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 梅尔特·居诺克 / Mert GUNOK | 1989-03-01 | 土耳其 费内巴切 / Fenerbahçe | - | 37 | 0 | - | - | - |
 | 12 | GK | Altay Bayındır | 1998-04-14 | 曼联 / Manchester United | - | 12 | 0 | - | - | - |
 | 23 | GK | Uğurcan Çakır | 1996-04-05 | 土耳其 加拉塔萨雷 / Galatasaray | - | 39 | 0 | - | - | - |

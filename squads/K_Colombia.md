@@ -1,9 +1,7 @@
 ### Colombia 哥伦比亚
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Uzbekistan | vs Congo DR | vs Portugal |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Uzbekistan | vs Congo DR | vs Portugal |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 奥斯皮纳 / David OSPINA | 1988-08-31 | 国民竞技 / Atlético Nacional | - | 130 | 0 | - | - | - |
 | 12 | GK | 卡米洛·巴尔加斯 / Camilo VARGAS | 1989-03-09 | 阿特拉斯 / Atlas | Y | 42 | 0 | 90' | 90' | 90' |
 | 24 | GK | 蒙特罗 / Alvaro MONTERO | 1995-03-29 | 萨斯菲尔德 / Vélez Sarsfield | - | 12 | 0 | - | - | - |

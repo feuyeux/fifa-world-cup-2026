@@ -1,9 +1,7 @@
 ### Argentina 阿根廷
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Algeria | vs Austria | vs Jordan |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Algeria | vs Austria | vs Jordan |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 胡安·穆索 / Juan MUSSO | 1994-05-06 | 西班牙 马德里竞技 / Atlético Madrid | - | 4 | 0 | - | - | - |
 | 12 | GK | 赫罗尼莫·鲁利 / Geronimo RULLI | 1992-05-20 | 法国 马赛 / Marseille | - | 8 | 0 | - | - | - |
 | 23 | GK | 艾米利安奴·马丁内斯 / Emiliano MARTINEZ | 1992-09-02 | 阿斯顿维拉 / Aston Villa | Y | 59 | 0 | 90' | 90' | 90' |

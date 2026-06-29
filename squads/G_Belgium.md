@@ -1,9 +1,7 @@
 ### Belgium 比利时
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Egypt | vs Iran | vs New Zealand |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Egypt | vs Iran | vs New Zealand |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 蒂博·库尔图瓦 / Thibaut COURTOIS | 1992-05-11 | 皇家马德里 / Real Madrid | Y | 109 | 0 | 90' | 90' | 90' |
 | 12 | GK | 塞内·拉门斯 / Senne LAMMENS | 2002-07-07 | 曼联 / Manchester United | - | 2 | 0 | - | - | - |
 | 13 | GK | 迈克·潘德斯 / Mike PENDERS | 2005-07-31 | 法国 斯特拉斯堡 / Strasbourg | - | 0 | 0 | - | - | - |

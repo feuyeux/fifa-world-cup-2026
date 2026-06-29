@@ -1,9 +1,7 @@
 ### Netherlands 荷兰
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Japan | vs Sweden | vs Tunisia |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Japan | vs Sweden | vs Tunisia |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 巴特·维尔布鲁根 / Bart Verbruggen | 2002-08-18 | 布莱顿 / Brighton & Hove Albion | Y | 29 | 0 | 90' | 90' | 90' |
 | 13 | GK | 罗宾·鲁夫斯 / Robin ROEFS | 2003-01-17 | 桑德兰 / Sunderland | - | 1 | 0 | - | - | - |
 | 23 | GK | 马克·弗莱肯 / Mark FLEKKEN | 1993-06-13 | 德国 勒沃库森 / Bayer Leverkusen | - | 12 | 0 | - | - | - |

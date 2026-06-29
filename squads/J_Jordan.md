@@ -1,9 +1,7 @@
 ### Jordan 约旦
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Austria | vs Algeria | vs Argentina |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Austria | vs Algeria | vs Argentina |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 亚奇德·阿布·莱拉 / YAZEED ABULAILA | 1993-01-08 | 伊尔比德侯赛因 / Al-Hussein | Y | 76 | 0 | 90' | 90' | 90' |
 | 12 | GK | Nour Bani Attiah | 1993-01-25 | 约旦 费萨里 / Al-Faisaly | - | 5 | 0 | - | - | - |
 | 22 | GK | Abdallah Al-Fakhouri | 2000-01-22 | 约旦 维达特 / Al-Wehdat | - | 11 | 0 | - | - | - |

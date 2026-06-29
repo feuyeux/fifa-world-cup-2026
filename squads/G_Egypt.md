@@ -1,9 +1,7 @@
 ### Egypt 埃及
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Belgium | vs New Zealand | vs Iran |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Belgium | vs New Zealand | vs Iran |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 穆罕默德·埃尔谢纳维 / MOHAMED ELSHENAWY | 1988-12-18 | 埃及 开罗国民 / Al Ahly | - | 76 | 0 | - | - | - |
 | 16 | GK | El Mahdy Soliman | 1987-06-08 | 扎马莱克 / Zamalek | - | 0 | 0 | - | - | - |
 | 23 | GK | Mostafa Shobeir | 2000-05-15 | 埃及 开罗国民 / Al Ahly | - | 9 | 0 | - | - | - |

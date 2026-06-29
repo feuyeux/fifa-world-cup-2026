@@ -1,9 +1,7 @@
 ### Austria 奥地利
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Jordan | vs Argentina | vs Algeria |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Jordan | vs Argentina | vs Algeria |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 亚历山大·施拉格 / Alexander SCHLAGER | 1996-02-01 | 奥地利 萨尔茨堡红牛 / Red Bull Salzburg | Y | 26 | 0 | 90' | 90' | 90' |
 | 12 | GK | 弗洛里安·维格勒 / Florian WIEGELE | 2001-03-21 | 捷克 比尔森胜利 / Viktoria Plzeň | - | 1 | 0 | - | - | - |
 | 13 | GK | 帕特里克·彭茨 / Patrick PENTZ | 1997-01-02 | 丹麦 布隆德比 / Brøndby | - | 18 | 0 | - | - | - |

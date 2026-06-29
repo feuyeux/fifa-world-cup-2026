@@ -1,9 +1,7 @@
 ### Sweden 瑞典
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Tunisia | vs Netherlands | vs Japan |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Tunisia | vs Netherlands | vs Japan |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 雅各布·威德尔·泽特斯特伦 / Jacob WIDELL ZETTERSTROM | 1998-07-11 | 英格兰 德比郡 / Derby County | Y | 3 | 0 | - | - | 90' |
 | 12 | GK | 维克托·约翰松 / Viktor JOHANSSON | 1998-09-14 | 斯托克城 / Stoke City | - | 12 | 0 | - | - | - |
 | 23 | GK | 克里斯托弗·诺德费尔特 / Kristoffer NORDFELDT | 1989-06-23 | 瑞典 AIK索尔纳 / AIK | Y | 21 | 0 | 90' | 90' | - |

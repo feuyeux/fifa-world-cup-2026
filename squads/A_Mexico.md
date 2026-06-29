@@ -1,9 +1,7 @@
 ### Mexico 墨西哥
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs South Africa | vs South Korea | vs Czechia |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs South Africa | vs South Korea | vs Czechia |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 劳尔·兰赫尔 / Raul RANGEL | 2000-02-25 | 墨西哥 瓜达拉哈拉 / Guadalajara | Y | 14 | 0 | 90' | 90' | 90' |
 | 12 | GK | 卡洛斯·阿塞维多 / Carlos ACEVEDO | 1996-04-19 | 墨西哥 桑托斯拉古纳 / Santos Laguna | - | 7 | 0 | - | - | - |
 | 13 | GK | 吉列尔莫·奥乔亚 / Guillermo OCHOA | 1985-07-13 | 塞浦路斯 AEL利马索 / AEL Limassol | - | 152 | 0 | - | - | sub |

@@ -1,9 +1,7 @@
 ### Germany 德国
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Curacao | vs Ivory Coast | vs Ecuador |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Curacao | vs Ivory Coast | vs Ecuador |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 曼努埃尔·诺伊尔 / Manuel NEUER | 1986-03-27 | 拜仁慕尼黑 / Bayern Munich | Y | 124 | 0 | 90' | 90' | 90' |
 | 12 | GK | 奥利弗·鲍曼 / Oliver Baumann | 1990-06-02 | 德国 霍芬海姆 / TSG Hoffenheim | - | 13 | 0 | - | - | - |
 | 21 | GK | Alexander Nübel | 1996-09-30 | 德国 斯图加特 / VfB Stuttgart | - | 3 | 0 | - | - | - |

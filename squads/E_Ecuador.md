@@ -1,9 +1,7 @@
 ### Ecuador 厄瓜多尔
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Ivory Coast | vs Curacao | vs Germany |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Ivory Coast | vs Curacao | vs Germany |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 加林德斯 / Hernan GALINDEZ | 1987-03-30 | 飓风 / Huracán | Y | 35 | 0 | 90' | 90' | 90' |
 | 12 | GK | 莫伊塞斯·拉米雷斯 / Moises RAMIREZ | 2000-09-09 | 基菲西亚 / Kifisia | - | 7 | 0 | - | - | - |
 | 22 | GK | 冈萨洛·巴列 / Gonzalo VALLE | 1996-02-28 | 基多大学 / LDU Quito | - | 4 | 0 | - | - | - |

@@ -1,9 +1,7 @@
 ### Tunisia 突尼斯
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Sweden | vs Japan | vs Netherlands |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Sweden | vs Japan | vs Netherlands |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 穆希布·查马克 / Mouhib CHAMAKH | 2001-08-25 | 非洲人 / Club Africain | Y | 3 | 0 | 90' | - | - |
 | 16 | GK | 艾曼·达门 / Aymen DAHMEN | 1997-01-28 | 斯法克斯 / CS Sfaxien | Y | 37 | 0 | - | 90' | 90' |
 | 22 | GK | 萨布里·本·哈桑 / Sabri BEN HESSEN | 1996-06-13 | 萨赫勒之星 / Étoile du Sahel | - | 2 | 0 | - | - | - |

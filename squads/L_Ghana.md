@@ -1,9 +1,7 @@
 ### Ghana 加纳
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Panama | vs England | vs Croatia |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Panama | vs England | vs Croatia |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 阿蒂齐吉 / Lawrence Ati ZIGI | 1996-11-29 | 圣加伦 / St. Gallen | Y | 29 | 0 | 90' | - | - |
 | 12 | GK | 约瑟夫·阿南 / Joseph ANANG | 2000-06-08 | 圣帕特里克竞技 / St Patrick's Athletic | - | 1 | 0 | - | - | - |
 | 16 | GK | 本杰明·阿萨雷 / Benjamin ASARE | 1992-07-13 | 格特奥林匹克 / Hearts of Oak | Y | 11 | 0 | sub | 90' | 90' |

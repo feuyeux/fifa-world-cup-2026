@@ -1,9 +1,7 @@
 ### Uruguay 乌拉圭
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Saudi Arabia | vs Cape Verde | vs Spain |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Saudi Arabia | vs Cape Verde | vs Spain |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 罗切特 / Sergio ROCHET | 1993-03-23 | 巴西国际 / Internacional | - | 35 | 0 | - | - | sub |
 | 12 | GK | 梅莱 / Santiago MELE | 1997-09-06 | 蒙特雷 / Monterrey | - | 8 | 0 | - | - | - |
 | 23 | GK | 穆斯莱拉 / Fernando MUSLERA | 1986-06-16 | 拉普拉塔大学生 / Estudiantes | Y | 134 | 0 | 90' | 90' | 90' |

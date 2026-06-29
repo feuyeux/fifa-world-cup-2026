@@ -1,9 +1,7 @@
 ### Switzerland 瑞士
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Qatar | vs Bosnia-Herzegovina | vs Canada |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Qatar | vs Bosnia-Herzegovina | vs Canada |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 格雷戈·科贝尔 / Gregor KOBEL | 1997-12-06 | 多特蒙德 / Borussia Dortmund | Y | 21 | 0 | 90' | 90' | 90' |
 | 12 | GK | 伊冯·姆武戈 / Yvon MVOGO | 1994-06-06 | 洛里昂 / Lorient | - | 13 | 0 | - | - | - |
 | 21 | GK | 马文·凯勒 / Marvin KELLER | 2002-07-03 | 瑞士 年轻人 / Young Boys | - | 1 | 0 | - | - | - |

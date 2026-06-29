@@ -1,9 +1,7 @@
 ### Paraguay 巴拉圭
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs United States | vs Türkiye | vs Australia |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs United States | vs Türkiye | vs Australia |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 加蒂托·费尔南德斯 / Gatito FERNANDEZ | 1988-03-29 | 波特诺山丘 / Cerro Porteño | - | 31 | 0 | - | - | - |
 | 12 | GK | 奥兰多·吉尔 / Orlando GILL | 2000-06-11 | 圣洛伦索 / San Lorenzo | - | 6 | 0 | - | - | - |
 | 22 | GK | 加斯东·奥利韦拉 / Gaston OLVEIRA | 1993-04-21 | 奥林匹亚 / Olimpia | - | 1 | 0 | - | - | - |

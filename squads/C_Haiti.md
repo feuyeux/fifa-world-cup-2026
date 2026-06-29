@@ -1,9 +1,7 @@
 ### Haiti 海地
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Scotland | vs Brazil | vs Morocco |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Scotland | vs Brazil | vs Morocco |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 约翰尼·普拉西德 / Johny Placide | 1988-01-29 | 巴斯蒂亚 / Bastia | Y | 82 | 0 | 90' | 90' | 90' |
 | 12 | GK | 亚历山大·皮埃尔 / Alexandre PIERRE | 2001-02-25 | 索肖 / Sochaux | - | 16 | 0 | - | - | - |
 | 23 | GK | 约书亚·杜维格 / Josue DUVERGER | 2000-04-27 | 科布伦茨 / Cosmos Koblenz | - | 7 | 0 | - | - | - |

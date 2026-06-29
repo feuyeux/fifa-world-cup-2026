@@ -1,9 +1,7 @@
 ### Spain 西班牙
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Cape Verde | vs Saudi Arabia | vs Uruguay |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Cape Verde | vs Saudi Arabia | vs Uruguay |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 拉亚 / David RAYA | 1995-09-15 | 阿森纳 / Arsenal | - | 13 | 0 | - | - | - |
 | 13 | GK | 霍安·加西亚 / Joan GARCIA | 2001-05-04 | 巴塞罗那 / Barcelona | - | 2 | 0 | - | - | - |
 | 23 | GK | 乌奈·西蒙 / Unai SIMON | 1997-06-11 | 西班牙 毕尔巴鄂竞技 / Athletic Bilbao | Y | 58 | 0 | 90' | 90' | 90' |

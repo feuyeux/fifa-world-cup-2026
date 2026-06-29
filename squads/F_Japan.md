@@ -1,9 +1,7 @@
 ### Japan 日本
 
 | 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Netherlands | vs Tunisia | vs Sweden |
-| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | vs Netherlands | vs Tunisia | vs Sweden |
 | :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | GK | 铃木彩艳 / Zion Suzuki | 2002-08-21 | 意大利 帕尔马 / Parma | Y | 24 | 0 | 90' | 90' | 90' |
 | 12 | GK | 大迫敬介 / Keisuke OSAKO | 1999-07-28 | 日本 广岛三箭 / Sanfrecce Hiroshima | - | 11 | 0 | - | - | - |
 | 23 | GK | 早川友基 / Tomoki HAYAKAWA | 1999-03-03 | 鹿岛鹿角 / Kashima Antlers | - | 4 | 0 | - | - | - |
