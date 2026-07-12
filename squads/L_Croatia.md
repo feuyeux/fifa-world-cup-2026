@@ -1,0 +1,30 @@
+### Croatia 克罗地亚
+
+| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs England | vs Panama | vs Ghana |
+| :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
+| 1 | GK | 多米尼克·利瓦科维奇 / Dominik LIVAKOVIC | 1995-01-09 | 萨格勒布迪纳摩 / Dinamo Zagreb | Y | 75 | 0 | 90' | 90' | 90' |
+| 12 | GK | 伊沃尔·潘杜尔 / Ivor PANDUR | 2000-03-25 | 英格兰 赫尔城 / Hull City | - | 0 | 0 | - | - | - |
+| 23 | GK | 多米尼克·科塔尔斯基 / Dominik KOTARSKI | 2000-02-10 | 哥本哈根 / Copenhagen | - | 4 | 0 | - | - | - |
+| 2 | DF | 约瑟普·斯塔尼希奇 / Josip STANISIC | 2000-04-02 | 拜仁慕尼黑 / Bayern Munich | Y | 31 | 0 | 90' | 90' | 90' |
+| 3 | DF | 马林·蓬格拉契奇 / Marin PONGRACIC | 1997-09-11 | 佛罗伦萨 / Fiorentina | Y | 20 | 0 | - | 90' | 90' |
+| 4 | DF | 约什科·格瓦迪奥尔 / Josko GVARDIOL | 2002-01-23 | 曼城 / Manchester City | Y | 48 | 4 | 90' | 90' | sub |
+| 5 | DF | 杜耶·查莱塔-卡尔 / Duje CALETA-CAR | 1996-09-17 | 皇家社会 / Real Sociedad | - | 38 | 1 | - | - | - |
+| 6 | DF | 约瑟普·舒塔洛 / Josip SUTALO | 2000-02-28 | 荷兰 阿贾克斯 / Ajax | Y | 33 | 0 | 90' | 90' | 90' |
+| 18 | DF | 克里斯蒂安·亚基奇 / Kristijan JAKIC | 1997-05-14 | 奥格斯堡 / FC Augsburg | - | 17 | 2 | - | - | - |
+| 22 | DF | 卢卡·武什科维奇 / Luka VUSKOVIC | 2007-02-24 | 汉堡 / Hamburger SV | Y | 5 | 1 | 90' | - | - |
+| 25 | DF | 马丁·埃尔利奇 / Martin ERLIC | 1998-01-24 | 中日德兰 / Midtjylland | - | 13 | 1 | - | - | - |
+| 7 | MF | 尼古拉·莫罗 / Nikola Moro | 1998-03-12 | 博洛尼亚 / Bologna | - | 10 | 0 | - | - | - |
+| 8 | MF | 马特奥·科瓦契奇 / Mateo KOVACIC | 1994-05-06 | 曼城 / Manchester City | Y | 113 | 5 | sub | 90' | 90' |
+| 10 | MF | 卢卡·莫德里奇 / Luka MODRIC | 1985-09-09 | AC米兰 / Milan | Y | 198 | 29 | 90' | 90' | 90' |
+| 13 | MF | 尼古拉·弗拉希奇 / Nikola VLASIC | 1997-10-04 | 都灵 / Torino | Y | 63 | 10 | sub | - | 90' |
+| 15 | MF | 马里奥·帕萨利奇 / Mario PASALIC | 1995-02-09 | 意大利 亚特兰大 / Atalanta | Y | 85 | 12 | 90' | sub | sub |
+| 16 | MF | 马丁·巴图里纳 / Martin BATURINA | 2003-02-16 | 科莫 / Como | Y | 19 | 1 | 90' | 90' | 90' |
+| 17 | MF | 佩塔尔·苏契奇 / Petar SUCIC | 2003-10-25 | 国际米兰 / Inter Milan | Y | 17 | 1 | 90' | sub | 90' |
+| 19 | MF | 托尼·弗鲁克 / Toni FRUK | 2001-03-09 | 克罗地亚 里耶卡 / Rijeka | - | 7 | 1 | - | - | - |
+| 21 | MF | 卢卡·苏契奇 / Luka SUCIC | 2002-09-08 | 皇家社会 / Real Sociedad | - | 21 | 1 | - | sub | - |
+| 9 | FW | 安德烈·克拉马里奇 / Andrej KRAMARIC | 1991-06-19 | 德国 霍芬海姆 / TSG Hoffenheim | - | 116 | 36 | sub | sub | - |
+| 11 | FW | 安特·布迪米尔 / Ante BUDIMIR | 1991-07-22 | 奥萨苏纳 / Osasuna | Y | 38 | 6 | - | sub | 90' |
+| 14 | FW | 伊万·佩里希奇 / Ivan PERISIC | 1989-02-02 | 荷兰 PSV埃因霍温 / PSV Eindhoven | Y | 154 | 38 | 90' | 90' | 90' |
+| 20 | FW | 伊戈尔·马塔诺维奇 / Igor MATANOVIC | 2003-03-31 | 弗赖堡 / SC Freiburg | - | 9 | 2 | sub | - | sub |
+| 24 | FW | 马尔科·帕萨利奇 / Marco PASALIC | 2000-09-14 | 美国 奥兰多城 / Orlando City SC | Y | 15 | 1 | sub | 90' | sub |
+| 26 | FW | 佩塔尔·穆萨 / Petar Musa | 1998-03-04 | FC达拉斯 / FC Dallas | Y | 11 | 1 | 90' | 90' | - |

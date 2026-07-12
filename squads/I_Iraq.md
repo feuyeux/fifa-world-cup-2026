@@ -1,0 +1,30 @@
+### Iraq 伊拉克
+
+| 号码 | 位置 | 姓名 | 出生日期 | 俱乐部 | 首发 | 出场 | 进球 | vs Norway | vs France | vs Senegal |
+| :--- | :--- | :--- | :--- | :--- | :---: | ---: | ---: | :--- | :--- | :--- |
+| 1 | GK | 法赫德·塔利卜 / FAHAD TALIB | 1994-10-21 | 巴格达大学生 / Al-Talaba | - | 21 | 0 | - | - | - |
+| 12 | GK | 贾拉勒·哈桑 / JALAL HASSAN | 1991-05-18 | 祖拉体育 / Al-Zawraa | Y | 102 | 0 | 90' | - | sub |
+| 22 | GK | 艾哈迈德·巴西勒 / AHMED BASIL | 1996-08-19 | 鲁萨法警察 / Al-Shorta | Y | 16 | 0 | - | 90' | 90' |
+| 2 | DF | 雷宾·苏拉卡 / REBIN SULAKA | 1992-04-12 | 泰港 / Port | Y | 56 | 1 | - | sub | 90' |
+| 3 | DF | 侯赛因·阿里 / Hussein Ali | 2002-03-01 | 波贡什切青 / Pogoń Szczecin | Y | 27 | 1 | 90' | 90' | - |
+| 4 | DF | 扎伊德·塔赫辛 / ZAID TAHSEEN | 2001-01-29 | 帕赫塔科尔 / Pakhtakor | Y | 28 | 1 | 90' | 90' | - |
+| 5 | DF | 阿卡姆·哈希姆 / AKAM HASHIM | 1998-08-16 | 祖拉体育 / Al-Zawraa | Y | 14 | 1 | 90' | 90' | 90' |
+| 6 | DF | Manaf Younis | 1996-11-16 | 鲁萨法警察 / Al-Shorta | - | 34 | 1 | - | - | - |
+| 15 | DF | Ahmed Maknzi | 2001-09-24 | 卡尔马体育 / Al-Karma | - | 7 | 0 | - | - | - |
+| 23 | DF | 梅尔哈斯·多斯基 / MERCHAS DOSKI | 1999-12-07 | 捷克 比尔森胜利 / Viktoria Plzeň | Y | 31 | 1 | 90' | 90' | 90' |
+| 25 | DF | 穆斯塔法·萨阿敦 / MUSTAFA SAADOON | 2001-05-25 | 鲁萨法警察 / Al-Shorta | - | 17 | 0 | sub | - | - |
+| 26 | DF | 弗兰斯·普特罗斯 / FRANS PUTROS | 1993-07-14 | 万隆 / Persib | Y | 28 | 0 | - | - | 90' |
+| 7 | MF | 优素福·阿明 / YOUSSEF AMYN | 2003-08-21 | AEK拉纳卡 / AEK Larnaca | - | 27 | 2 | - | sub | - |
+| 8 | MF | 易卜拉欣·巴耶什 / IBRAHIM BAYESH | 2000-05-01 | 阿联酋 迪赫弗拉 / Al Dhafra | Y | 76 | 8 | 90' | 90' | 90' |
+| 14 | MF | 齐达内·伊克巴尔 / ZIDANE IQBAL | 2003-04-27 | 乌德勒支 / Utrecht | Y | 25 | 2 | sub | 90' | 90' |
+| 16 | MF | 阿米尔·阿尔阿马里 / AMIR ALAMMARI | 1997-07-27 | 克拉科维亚 / Cracovia | Y | 51 | 3 | 90' | 90' | 90' |
+| 19 | MF | 凯文·亚科布 / KEVIN YAKOB | 2000-10-10 | 奥胡斯 / AGF | - | 9 | 0 | - | - | sub |
+| 20 | MF | 艾马尔·谢尔 / AIMAR SHER | 2002-12-20 | 萨普斯堡08 / Sarpsborg 08 | - | 7 | 0 | - | sub | - |
+| 24 | MF | Zaid Ismail | 2002-01-03 | 巴格达大学生 / Al-Talaba | - | 6 | 0 | - | - | - |
+| 9 | FW | 阿里·哈马迪 / ALI ALHAMADI | 2002-03-01 | 卢顿镇 / Luton Town | Y | 20 | 5 | 90' | sub | 90' |
+| 10 | FW | 穆汉纳德·阿里 / MOHANAD ALI | 2000-06-20 | 迪巴 / Dibba | - | 72 | 27 | sub | - | - |
+| 11 | FW | 艾哈迈德·卡塞姆 / AHMED QASEM | 2003-07-12 | 纳什维尔SC / Nashville SC | - | 3 | 0 | - | - | - |
+| 13 | FW | 阿里·优素福 / ALI YOUSIF | 1996-01-19 | 巴格达大学生 / Al-Talaba | - | 7 | 1 | - | - | sub |
+| 17 | FW | 阿里·贾西姆 / ALI JASIM | 2004-01-20 | 沙特 纳季马 / Al-Najma | Y | 36 | 2 | 90' | - | 90' |
+| 18 | FW | 艾曼·侯赛因 / AYMEN HUSSEIN | 1996-03-22 | 卡尔马体育 / Al-Karma | Y | 95 | 33 | 90' | 90' | - |
+| 21 | FW | 马尔科·法尔吉 / MARKO FARJI | 2004-03-16 | 威尼斯 / Venezia | - | 12 | 0 | sub | sub | - |
